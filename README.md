@@ -16,7 +16,7 @@
 
 #### 通过 GitHub
 
-在本倉庫[Releases](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest/releases/latest)中，下載`Assets`下的`*.cht.mod.zip`壓縮檔案；
+在本倉庫[Releases](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest/releases/latest)中，下載`Assets`下的`*.cht.pt.zip`壓縮檔案；
 
 ### 安装
 
