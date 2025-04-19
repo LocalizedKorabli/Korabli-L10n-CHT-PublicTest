@@ -28,7 +28,7 @@
 
 - Q：爲什麽軍械庫、船塢畫面中的俄文沒有被翻譯？
 
-  A：這些畫面實際上是由内建網路瀏覽器显示的，無法透過在地化檔案翻譯。
+  A：這些畫面實際上是由内建網路瀏覽器顯示的，無法透過在地化檔案翻譯。
   
 - Q：爲什麽游戲内的文本又變回俄文了？
 
@@ -38,16 +38,16 @@
 
 本項目對艦艇和成就等譯文參考了巴哈姆特的勇者[謝湯麵 湯意麵@@](https://home.gamer.com.tw/profile/index.php?owner=lkk9898969)提供的[中文化模組](https://forum.gamer.com.tw/C.php?bsn=21052&snA=19566)。
 
-## 項目傳送門
+## 專案傳送門
 
 澪刻正面對多個語言、伺服器類型製作在地化，
-您可以透過點擊以下表格中的連結快速訪問相應的項目倉庫。
+您可以透過點擊以下表格中的連結快速訪問相應的專案。
 
 | 語言\伺服器類型 | 正式服 | PT服 |
 |:------------:|:----------:|:--------:|
-| L10N-简体中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
-| L10N-繁體中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | **本仓库** |
-| I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+| L10N-简体中文 | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| L10N-繁體中文 | [專案網址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT) | **該專案** |
+| I18N-English | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 ## 相关連結
 
