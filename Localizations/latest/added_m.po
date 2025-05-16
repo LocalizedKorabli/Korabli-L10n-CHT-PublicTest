@@ -1,0 +1,1526 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ACHIEVEMENT_COLLECTION_MKBIRTHDAY_COMPLETED"
+msgstr "遊戲兩週年"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTION_MKBIRTHDAY_COMPLETED"
+msgstr "完成「遊戲兩週年」收藏。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FEST2016"
+msgstr "感謝您參與 2016 年盛會。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FEST2017"
+msgstr "感謝您參與 2017 年盛會。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD6_COMPLETED"
+msgstr "完成「遊戲六週年」收藏。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_MKBD7_2022_COMPLETED"
+msgstr "完成「七大洋」收藏。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_TM_COMPLETED"
+msgstr "完成「Tsar Morey」收藏。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SPB_STAFF"
+msgstr "開發團隊成員。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM14"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM15"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_IX"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VI"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VII"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_VIII"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_X"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XI"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XII"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM_XIII"
+msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TWITCH"
+msgstr "歡迎加入遊戲！"
+
+msgid "IDS_ACHIEVEMENT_FEST2016"
+msgstr "2016 年盛會參與者"
+
+msgid "IDS_ACHIEVEMENT_FEST2017"
+msgstr "2017 年盛會參與者"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD6_COMPLETED"
+msgstr "遊戲六週年"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_MKBD7_2022_COMPLETED"
+msgstr "七大洋"
+
+msgid "IDS_ACHIEVEMENT_FILLALBUM_TM_COMPLETED"
+msgstr "Tsar Morey"
+
+msgid "IDS_ACHIEVEMENT_SPB_STAFF"
+msgstr "開發人員"
+
+msgid "IDS_ACHIEVEMENT_TM"
+msgstr "玩家錦標賽 V 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM14"
+msgstr "玩家錦標賽 XIV 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM15"
+msgstr "玩家錦標賽 XV 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_IX"
+msgstr "玩家錦標賽 IX 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_VI"
+msgstr "玩家錦標賽 VI 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_VII"
+msgstr "玩家錦標賽 VII 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_VIII"
+msgstr "玩家錦標賽 VIII 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_X"
+msgstr "玩家錦標賽 X 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_XI"
+msgstr "玩家錦標賽 XI 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_XII"
+msgstr "玩家錦標賽 XII 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TM_XIII"
+msgstr "玩家錦標賽 XIII 入圍決賽者"
+
+msgid "IDS_ACHIEVEMENT_TWITCH"
+msgstr "歡迎來到Twitch"
+
+msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
+msgstr "不足以兌換：%(_deficit)d"
+
+msgid "IDS_ALCHEMY_NOT_EXCHANGEABLE_TOOLTIP"
+msgstr "不可兌換"
+
+msgid "IDS_CANNOT_HIT_TARGET_TOO_FAR"
+msgstr "魚雷射程不足"
+
+msgid "IDS_CANNOT_HIT_TARGET_WRONG_TARGET_TYPE"
+msgstr "不會被當前類型魚雷擊中"
+
+msgid "IDS_DESCRIPTION_PCZA020_TM"
+msgstr ""
+"Tsar Morey 是本遊戲的頂尖錦標賽，能獲得這項殊榮絕對是件了不起的成就！這項大型賽事由社群推動，來自各個地區的最佳隊伍彼此競爭，爭奪海上霸權和 Tsar Morey 這項至高榮譽。\n"
+"\n"
+"更多相關資訊包括：各種類型的玩家、為什麼有些裁判偏好大棒甚於胡蘿蔔、主辦者有哪些職責，以及驅逐艦在佔領關鍵地區時為什麼最好是以艦艉先行。"
+
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_1"
+msgstr "用魚雷造成傷害"
+
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_2"
+msgstr "用魚雷造成傷害"
+
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_3"
+msgstr "在不被發現的情況下用魚雷造成傷害"
+
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_4"
+msgstr "同隊友一起用魚雷造成傷害"
+
+msgid "IDS_DISCIPLINE_MANEUVER_DESCRIPTION_5"
+msgstr "佔領關鍵地區並用魚雷造成傷害"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SS"
+msgstr "在砲彈爆炸區域製造煙幕。煙幕可降低被敵人發現的可能性。"
+
+msgid "IDS_DOCK_AMMO_TITLE_SS"
+msgstr "炮射煙霧彈"
+
+msgid "IDS_DOGTAGS_EMBLEM_TOURNAMENTS_SUBGROUP_TM"
+msgstr "玩家錦標賽"
+
+msgid "IDS_EXCHANGE"
+msgstr "兌換"
+
+msgid "IDS_EXCHANGE_ARROW_TEXT"
+msgstr "兌換"
+
+msgid "IDS_EXCHANGE_ECOBOOSTS"
+msgstr "兌換"
+
+msgid "IDS_EXCHANGE_ECOBOOSTS_HINT"
+msgstr "兌換經濟加成"
+
+msgid "IDS_EXCHANGE_ECOBOOSTS_TAB"
+msgstr "經濟加成"
+
+msgid "IDS_EXCHANGE_ITEMS_HEADER"
+msgstr "兌換資源"
+
+msgid "IDS_EXCHANGE_SIGNALS"
+msgstr "兌換"
+
+msgid "IDS_EXCHANGE_SIGNALS_HINT"
+msgstr "兌換信號旗"
+
+msgid "IDS_EXCHANGE_SIGNALS_TAB"
+msgstr "信號旗"
+
+msgid "IDS_FIRST_TMSUBCOLLECTION_NAME"
+msgstr "玩家"
+
+msgid "IDS_FOR_ALCHEMY_EXCHANGE"
+msgstr "兌換："
+
+msgid "IDS_FOURTH_TMSUBCOLLECTION_NAME"
+msgstr "策略"
+
+msgid "IDS_GUIDING_TIP_333_DESC"
+msgstr "現在您可以用維修材料兌換隨機艦艇的藍圖。"
+
+msgid "IDS_GUIDING_TIP_333_HEADER"
+msgstr "獲取新藍圖"
+
+msgid "IDS_GUIDING_TIP_334_DESC"
+msgstr "點擊以使用維修材料兌換藍圖。"
+
+msgid "IDS_GUIDING_TIP_334_HEADER"
+msgstr "新藍圖"
+
+msgid "IDS_MK_MT"
+msgstr "Maxim Metky"
+
+msgid "IDS_MODAL_WINDOW_PCVT004_MANEUVER_PRIME_BATTLE_RULES_HEADER"
+msgstr "驅逐艦作戰"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_HEADER"
+msgstr "簡報"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_TEXT_1"
+msgstr "每個階段獲得積分的條件不同。若您的艦艇被敵艦擊中，則會損失積分。"
+
+msgid "IDS_MT_KATUKOV"
+msgstr "Mikhail Katukov"
+
+msgid "IDS_NAME110"
+msgstr "目標"
+
+msgid "IDS_NAME111"
+msgstr "目標"
+
+msgid "IDS_NAME112"
+msgstr "目標"
+
+msgid "IDS_NAME113"
+msgstr "目標"
+
+msgid "IDS_NAME114"
+msgstr "目標"
+
+msgid "IDS_NAME115"
+msgstr "目標"
+
+msgid "IDS_NAME116"
+msgstr "目標"
+
+msgid "IDS_NAME117"
+msgstr "目標"
+
+msgid "IDS_NAME118"
+msgstr "目標"
+
+msgid "IDS_NAME119"
+msgstr "目標"
+
+msgid "IDS_NAME120"
+msgstr "目標"
+
+msgid "IDS_NAME121"
+msgstr "目標"
+
+msgid "IDS_NAME122"
+msgstr "目標"
+
+msgid "IDS_NAME123"
+msgstr "目標"
+
+msgid "IDS_NAME124"
+msgstr "目標"
+
+msgid "IDS_NAME210"
+msgstr "目標"
+
+msgid "IDS_NAME211"
+msgstr "目標"
+
+msgid "IDS_NAME212"
+msgstr "目標"
+
+msgid "IDS_NAME213"
+msgstr "目標"
+
+msgid "IDS_NAME214"
+msgstr "目標"
+
+msgid "IDS_NAME215"
+msgstr "目標"
+
+msgid "IDS_NAME216"
+msgstr "目標"
+
+msgid "IDS_NAME217"
+msgstr "目標"
+
+msgid "IDS_NAME218"
+msgstr "目標"
+
+msgid "IDS_NAME219"
+msgstr "目標"
+
+msgid "IDS_NAME220"
+msgstr "目標"
+
+msgid "IDS_NAME221"
+msgstr "目標"
+
+msgid "IDS_NAME222"
+msgstr "目標"
+
+msgid "IDS_NAME223"
+msgstr "目標"
+
+msgid "IDS_NAME224"
+msgstr "目標"
+
+msgid "IDS_NAME_ALLY_4_11"
+msgstr "隊友"
+
+msgid "IDS_NAME_ALLY_4_12"
+msgstr "隊友"
+
+msgid "IDS_NAME_ALLY_4_NAR"
+msgstr "隊友"
+
+msgid "IDS_PAES358_NORTHCAROLINA_TM"
+msgstr "海上禍殃"
+
+msgid "IDS_PBPA152_152MM_ATBA_30HE"
+msgstr "152 mm HE Mk V"
+
+msgid "IDS_PCEC017_CAMO_MK_BIRTHDAY_TILE"
+msgstr "忒提斯"
+
+msgid "IDS_PCEC065_FEST_2018"
+msgstr "陰燃之火"
+
+msgid "IDS_PCEC086_TMCAMO"
+msgstr "Tsar Morey"
+
+msgid "IDS_PCEC118_TM13_RED_CAMO"
+msgstr "Tsar Morey：紅"
+
+msgid "IDS_PCEC119_TM13_GREEN_CAMO"
+msgstr "Tsar Morey：綠"
+
+msgid "IDS_PCEC143_CAMO_TM_LUKOMORYE_RED"
+msgstr "金赤交織"
+
+msgid "IDS_PCEC144_CAMO_TM_LUKOMORYE_GREEN"
+msgstr "橡樹之綠"
+
+msgid "IDS_PCEE022_FLAG_LESTA"
+msgstr "開發週期"
+
+msgid "IDS_PCEE022_FLAG_LESTA_DESCRIPTION"
+msgstr "所有的生活都是一場遊戲。"
+
+msgid "IDS_PCEE058_FEST"
+msgstr "2016 年盛會"
+
+msgid "IDS_PCEE058_FEST_DESCRIPTION"
+msgstr "感謝您參與 2016 年盛會。"
+
+msgid "IDS_PCEE062_TM"
+msgstr "海戰"
+
+msgid "IDS_PCEE062_TM_DESCRIPTION"
+msgstr "您已準備好與任何對手正面交鋒。在激烈海戰的嚴酷戰況下，您證明了自己的卓越實力 — 已提升到了藝術層面。您是海上霸主，並將穩坐寶位，直到有可敬對手出現，將王冠從您手中奪走為止。"
+
+msgid "IDS_PCEE062_TM_EXTRA_DESCRIPTION"
+msgstr "為紀念「Tsar Morey」錦標賽。"
+
+msgid "IDS_PCEE120_SUMMER_FEST_2017"
+msgstr "2017 年夏季盛會"
+
+msgid "IDS_PCEE120_SUMMER_FEST_2017_DESCRIPTION"
+msgstr "您參與了歷史上第一個夏季盛會！"
+
+msgid "IDS_PCEE120_SUMMER_FEST_2017_EXTRA_DESCRIPTION"
+msgstr "我們非常感謝您對遊戲的貢獻！我們希望您能一直繼續享受遊戲！"
+
+msgid "IDS_PCEE134_ANNIVERSARY"
+msgstr "19 週年"
+
+msgid "IDS_PCEE134_ANNIVERSARY_DESCRIPTION"
+msgstr "久經考驗！"
+
+msgid "IDS_PCEE135_FEST_2017"
+msgstr "2017 年盛會"
+
+msgid "IDS_PCEE135_FEST_2017_DESCRIPTION"
+msgstr "感謝您參與 2017 年盛會。"
+
+msgid "IDS_PCEE222_FEST_2018_FLAG"
+msgstr "帶來熱度！"
+
+msgid "IDS_PCEE222_FEST_2018_FLAG_DESCRIPTION"
+msgstr "現在官方宣佈：這個旗幟的持有者在 2018 年盛會期間帶來了熱度。"
+
+msgid "IDS_PCEE260_MK_FLAG"
+msgstr "傳奇"
+
+msgid "IDS_PCEE260_MK_FLAG_DESCRIPTION"
+msgstr "向真正的航海傳奇致敬。"
+
+msgid "IDS_PCEE330_TM_X_FLAG"
+msgstr "海上王座"
+
+msgid "IDS_PCEE330_TM_X_FLAG_DESCRIPTION"
+msgstr ""
+"琥珀寶座珠光耀，\n"
+"白髮王者似波濤。\n"
+"揮手向海展權杖，\n"
+"剛玉輝映水波搖。"
+
+msgid "IDS_PCEE330_TM_X_FLAG_EXTRA_DESCRIPTION"
+msgstr "為紀念「Tsar Morey」錦標賽。"
+
+msgid "IDS_PCEE461_TM13_FLAG"
+msgstr "玩家錦標賽 XIII"
+
+msgid "IDS_PCEE461_TM13_FLAG_DESCRIPTION"
+msgstr "為紀念第 13 届玩家錦標賽。"
+
+msgid "IDS_PCEE521_TM_XIV_FLAG"
+msgstr "玩家錦標賽 XIV"
+
+msgid "IDS_PCEE521_TM_XIV_FLAG_DESCRIPTION"
+msgstr "為紀念第 14 届玩家錦標賽。"
+
+msgid "IDS_PCEE560_MK_MT_FLAG"
+msgstr "軍事載具世界"
+
+msgid "IDS_PCEE560_MK_MT_FLAG_DESCRIPTION"
+msgstr "為紀念《Mir Korabley》、《Mir Tankov》和《Tanks Blitz》这三款遊戲。"
+
+msgid "IDS_PCEE583_TM15_FLAG"
+msgstr "海洋領主"
+
+msgid "IDS_PCEE583_TM15_FLAG_DESCRIPTION"
+msgstr "海王的憤怒是可怕的：海浪沖上雲霄，狂風將船帆撕成碎片，怪獸威脅要將他們拖入海底世界。"
+
+msgid "IDS_PCEE583_TM15_FLAG_EXTRA_DESCRIPTION"
+msgstr "為紀念「Tsar Morey」錦標賽。"
+
+msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG"
+msgstr "格魯吉亞蘇維埃社會主義共和國"
+
+msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG_DESCRIPTION"
+msgstr "1951年，喬治亞蘇維埃社會主義共和國最高蘇維埃主席團批准了由藝術家S. D. Maisashvili設計的共和國國旗。官方沒有對國旗的顏色做出解釋，但認為藍色象徵大海，帶有太陽光芒的正方形象徵萬里無雲的天空。"
+
+msgid "IDS_PCEE752_FORBIN_FLAG"
+msgstr "福爾班"
+
+msgid "IDS_PCEE752_FORBIN_FLAG_DESCRIPTION"
+msgstr "克洛德•福爾班是法國海軍指揮官和外交官，聖路易騎士勳章獲得者。福爾賓是法國駐暹羅外交使團的一員，曾任暹羅海軍上將、暹羅全軍總司令和曼谷總督。由於在西班牙王位繼承戰爭中的功績，克洛德•福爾班獲得了路易十四授予的伯爵頭銜。"
+
+msgid "IDS_PCEE753_IMPERO_FLAG"
+msgstr "RN帝國"
+
+msgid "IDS_PCEE753_IMPERO_FLAG_DESCRIPTION"
+msgstr "義大利殖民帝國——即義大利在19至20世紀期間擁有的海外領土集合——被一些政治家描繪為復興的羅馬帝國。羅馬軍團曾使用一種特殊的旗幟標準「signum」，其頂端裝飾著被稱為「manus」的標誌——舉起手掌的手勢，象徵著軍團士兵效忠的誓言。"
+
+msgid "IDS_PCEE754_I_2_FLAG"
+msgstr "I-2"
+
+msgid "IDS_PCEE754_I_2_FLAG_DESCRIPTION"
+msgstr "日本海軍設有海軍航空飛行員資格徽章。最高級別的徽章上飾有一朵菊花、一個錨和一個飛機螺旋槳。舊日本帝國海軍飛行員不僅在航空母艦上服役，還在搭載飛機的潛艇上服役。"
+
+msgid "IDS_PCEE755_JULANG_FLAG"
+msgstr "巨浪"
+
+msgid "IDS_PCEE755_JULANG_FLAG_DESCRIPTION"
+msgstr "「巨浪」（中文意為「巨大的海浪」）是中國人民解放軍海軍彈道導彈潛艇裝備潛射彈道導彈家族的名稱。中國人民解放軍海軍的徽章以海浪為背景，中央飾有銀色船錨與五角星組合圖案。"
+
+msgid "IDS_PCEE756_CHIKUGO_FLAG"
+msgstr "筑後"
+
+msgid "IDS_PCEE756_CHIKUGO_FLAG_DESCRIPTION"
+msgstr "筑後川——發源於阿蘇山並注入有明海的河流，其主幹道的大部分流經古代筑後國境內。在日本戰國時代及江戶幕府時期，這片區域由掌控九州北部勢力的肥前有馬氏藩主統轄。"
+
+msgid "IDS_PCEE757_LAZIO_FLAG"
+msgstr "RN拉齊奧"
+
+msgid "IDS_PCEE757_LAZIO_FLAG_DESCRIPTION"
+msgstr "拉齊奧——位於亞平寧半島中部的歷史區域，既是羅馬國家的發源地，也是現代義大利的核心區域。公元前1千紀，在該地區尚未被羅馬統一前，曾存在由諸城邦組成的政治聯盟——拉丁同盟。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_BRIEFING_0"
+msgstr "每個階段都有不同的任務和獲得積分的條件；"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_BRIEFING_1"
+msgstr "若您被魚雷擊中，則會損失積分。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_DESCRIPTION"
+msgstr "試煉包含 5 個階段，每個階段持續 3 分鐘。若提前完成任務，可獲得獎勵積分，後者將在下個階段生效。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_EXTRA_DESCRIPTION"
+msgstr "您完成的階段越多，試煉結束時獲得的資源就越多。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_GOAL"
+msgstr "在這項試煉中，您將磨鍊自己的驅逐艦作戰技能。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_NAME"
+msgstr "試煉：驅逐艦作戰"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_TASK_DESCR"
+msgstr "在驅逐艦上進行作戰演習。"
+
+msgid "IDS_PCZA020_TM"
+msgstr "Tsar Morey"
+
+msgid "IDS_PCZA020_TM_QUOTES"
+msgstr "「Tsar Morey」"
+
+msgid "IDS_PCZC091_MK_ECO"
+msgstr "經濟改革"
+
+msgid "IDS_PCZC091_MK_ECO_DESCRIPTION"
+msgstr "<p>首先也是最重要的，玩家及開發人員將會記得 0.5.12 版更新，當然對於它的遊戲經濟變化也是一樣。對隊伍成功有所貢獻的行動現在會影響戰鬥結束時的獎勵，我們希望鼓勵玩家保持積極並運用多種戰術，而不是只盡量去避免受到傷害。</p><p class=\"p_spacing\"> </p><p>要習慣新的系統必須花上時間和精力。我們在隨後的更新裡推出了一些調整。不管怎樣，結果好一切都好：我們幾乎完成了經濟的改革。現在是這樣沒錯。</p>"
+
+msgid "IDS_PCZC092_MK_BRIT"
+msgstr "英國入侵"
+
+msgid "IDS_PCZC092_MK_BRIT_DESCRIPTION"
+msgstr "<p>英國巡洋艦科技樹的誕生會成為一齣新歌劇的好題材、或者芭蕾舞劇、又或者是一部驚悚電影。</p><p class=\"p_spacing\"> </p><p>來自玩家的幫忙與支持、幾個超大型油輪大小的咖啡壺、以及可接受範圍內地藐視寫實主義：這些造就出渴望的結果。0.5.13 版更新加入遊戲的艦艇有著鮮明特色並迅速達成當之無愧的軍事榮耀。因此有誰會不想要這樣一連串的戰鬥力？</p>"
+
+msgid "IDS_PCZC093_MK_LOOTBOX"
+msgstr "戰鬥當天才交貨"
+
+msgid "IDS_PCZC093_MK_LOOTBOX_DESCRIPTION"
+msgstr "<p>隨著 0.5.13 版更新的出現，每日任務被互動式補給箱取代。它們的優勢顯而易見，但開發人員決定要有個 B 計畫並借助它們最難以對付的武器──妄想。那就是「魚雷老兄」出現的地方。</p><p class=\"p_spacing\"> </p><p>每天都有數以千計的玩家打開成千上萬個補給箱。有些人是抱著「要中大獎」的希望去這樣做。其他的人，是為了補滿他們的消耗品及信號旗補給。因此在所有活動之中，魚雷老兄承擔著沈重的責任，日以繼夜。</p>"
+
+msgid "IDS_PCZC094_MK_HALLOWEEN"
+msgstr "黑暗與光明的對決"
+
+msgid "IDS_PCZC094_MK_HALLOWEEN_DESCRIPTION"
+msgstr "<p>輕鬆愉快的遊戲模式在我們的遊戲中並不新奇，但 2016 年的萬聖節活動在規模方面及執行品質上被認為是最好的一個。</p><p class=\"p_spacing\"> </p><p>儘管有些玩家陷入了對抗邪惡力量的激烈戰鬥，而其他人滿腔熱情地尋找更深一層的意義，信不信由你，開發人員沒那個心情去度假。因為除了娛樂之外，「拯救 Transylvania」特殊模式也承擔著嚴肅的目的。幾個月之後，在萬聖節模式期間所得到的技術被應用到行動的創造上。</p>"
+
+msgid "IDS_PCZC095_MK_10CAMO"
+msgstr "金身"
+
+msgid "IDS_PCZC095_MK_10CAMO_DESCRIPTION"
+msgstr "<p>永久迷彩幾乎沒有引發熱烈的討論，直到我們在豔陽高照的日子裡把注意力放到了 X 階艦艇上。對我們全部人來說，它變得閃閃發光：「多數情況下，玩家都會把他們的 X 階艦艇存放在港口中。然而，他們抱怨了很多有關這些艦艇低收入的事情...」為什麼我們不能一發擊沉兩艘 Bismarck？！此後，高階艦艇的迷彩就提供了更多的整備費用折扣。</p><p class=\"p_spacing\"> </p><p>隨 0.5.14 版更新釋出而推出的新東西被證明是非常受歡迎的。玩家有機會用自己喜歡的「十階」去農，這對會去玩及會存放在港口的平均艦艇階級有正面的影響。</p>"
+
+msgid "IDS_PCZC096_MK_ALTJAPAN"
+msgstr "忍者！"
+
+msgid "IDS_PCZC096_MK_ALTJAPAN_DESCRIPTION"
+msgstr "<p>新日本驅逐艦的分支隨著 0.5.15 版更新一起加入、也帶來了大量激動情緒，並讓我們對新的現實有所理解，這些艦艇能夠且必須更依賴自己的艦炮。不過對於兩艘優秀的艦艇 Shiratsuyu 和 Akizuki 來說，事後證明是如虎添翼。</p><p class=\"p_spacing\"> </p><p>前者每次齊射可以釋放出大量的金屬魚。而後者擁有異於常規的兩用火炮。</p><p class=\"p_spacing\"> </p><p>不過這裡有個壞消息：該分支將會停在 VIII 階的 Akizuki。現在是這樣沒錯。</p>"
+
+msgid "IDS_PCZC097_MK_CAMPAIGN"
+msgstr "任務簡報"
+
+msgid "IDS_PCZC097_MK_CAMPAIGN_DESCRIPTION"
+msgstr "<p>0.5.15 版更新多提供玩家一個新功能：兩個戰役。它們用相關敘述來補遺戰鬥任務的完成過程。為了表現它們的意圖有多麼重要，開發人員提供了 VI 階加值驅逐艦 Shinonome 和七天加值帳號分別作為完成「榮譽服務」和「勝利的科學」戰役的最終獎勵。</p><p class=\"p_spacing\"> </p><p>這只是個開始。玩家喜歡新的功能，也因此「戰役」已成了遊戲必不可少的部分。</p>"
+
+msgid "IDS_PCZC098_MK_GERMDESTR"
+msgstr "獵人反被獵"
+
+msgid "IDS_PCZC098_MK_GERMDESTR_DESCRIPTION"
+msgstr "<p>「為什麼我們需要那些有著三級隱蔽性和短程魚雷的可惡驅逐艦？」我們的玩家曾經問到。「為了用她們的水底搜索來搜索敵人；用魚雷和她們的穿甲彈來偷襲敵人。」開發人員如此回覆。不過雙方對話沒有多少的共同點，所以一開始德國驅逐艦並沒有受到多大的歡迎。</p><p class=\"p_spacing\"> </p><p>不過經過幾次更新和幾項平衡更新後，新科技樹在遊戲中刻畫出合適的地位，而其中一些艦艇結果更成為了同階中的第一。這是條充滿亂流的航道，但我們終於進入了更平穩的水域。</p><p class=\"p_spacing\"> </p><p>從那之後，它就被認為是一種用友善態度來在開發人員的任何溝通中表示反對的好規矩，說起來就像這樣「嘿，你可不想像德國驅逐艦一樣讓事情砸鍋，對吧？」</p>"
+
+msgid "IDS_PCZC099_MK_ARPOFF"
+msgstr "艦艇美人"
+
+msgid "IDS_PCZC099_MK_ARPOFF_DESCRIPTION"
+msgstr "<p>許多玩家都還記得我們把一些深具異國情調及特色的內容加入遊戲的開創性努力。它採用了幾項調整並加入了「噢我的老天鵝啊，我看不下去了！」特色，不過現在遊戲吸收了彈性機制以加入未來的內容。現在開發人員的想像力沒有極限。</p><p class=\"p_spacing\"> </p><p>無論你是喜歡這些小可愛或單純只是想免費入手屬於自己的 IJN 艦艇，你永遠都忘不了那些日子。</p>"
+
+msgid "IDS_PCZC100_MK_NYSPEE"
+msgstr "倒數鐘聲"
+
+msgid "IDS_PCZC100_MK_NYSPEE_DESCRIPTION"
+msgstr "<p>「獵殺 Graf Spee」和「神祕的聖誕老人」戰役以光明照亮了2016年12月的漆黑天空，歡樂地燒著那些艦艇。從特殊補給箱中得到的珍貴獎品和驚人獎勵，完美詮釋了歡慶新年的心情。</p><p class=\"p_spacing\"> </p><p>不過當煙霧──大多是來自於鞭炮──被清理乾淨時，就是該回去工作的時候了。到了 2017 年，開發人員制定出一系列困難但重要的挑戰，而玩家們繼續熱情地征服這片公海。</p>"
+
+msgid "IDS_PCZC101_MK_CAPREWORK"
+msgstr "變革之風"
+
+msgid "IDS_PCZC101_MK_CAPREWORK_DESCRIPTION"
+msgstr "<p>0.6.0 版的亮點就是對指揮官的重大更新。即使是在公開測試期間，眾多的改變、新技能、以及新功能──精英指揮官經驗──立刻引起暴風雨般的討論。</p><p class=\"p_spacing\"> </p><p>這需要勇氣，不過多虧了玩家們的支持 (以及一點黑魔法)，即使我們仍然有些不安，開發人員還是點下了「釋出版本」按鈕。而這個風險有了回報──從那時起，更新過的指揮官技能系統成功地滿足了玩家的需求。</p>"
+
+msgid "IDS_PCZC102_MK_SMOKERANK"
+msgstr "整片大海都是我的烤肉場"
+
+msgid "IDS_PCZC102_MK_SMOKERANK_DESCRIPTION"
+msgstr "<p>「第 6 季排名戰」是隨著 0.6.1 更新釋出而推出，並且事後證明是有爭議的。我們在參與玩家數及其積極性方面做得很好，但也是有批評言論出現，而那是不可忽視的。</p><p class=\"p_spacing\"> </p><p>多虧了玩家的回饋意見和我們自己的觀察，我們注意到煙幕戰術濫用的情況、幾張地圖會有些爭議以及和艦艇平衡有關的其他問題。</p>"
+
+msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
+msgstr "需要更多驅逐艦"
+
+msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
+msgstr "<p>0.6.2 版更新中，我們加入了蘇聯驅逐艦分支，而結果是成功的。以 Khabarovsk 為首的主線，非常適合以巡洋艦般火炮交戰的遊戲風格。保持移動、維持不間斷的火力、並且進行閃電般快速的突襲──擔保會有一場驚險刺激的戰鬥體驗。</p><p class=\"p_spacing\"> </p><p>由 Grozovoi 領頭的分支會更接近典型的驅逐艦遊戲風格，有效運用魚雷並以艦炮來支援。</p>"
+
+msgid "IDS_PCZC104_MK_FRENCHCRUISER"
+msgstr "接下來咧？主力艦用的引擎增壓裝置？"
+
+msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
+msgstr "<p>隨著 0.6.4 版更新釋出出現在遊戲中的法國巡洋艦科技樹，被證明有著充分平衡，沒有明顯的不平衡；與此同時，她的釋出也激勵玩家從法式菜餚詞彙中學習了幾個字詞。</p><p class=\"p_spacing\"> </p><p>引擎增壓消耗品和艦艇的特性配合得很好，而 Henri IV 這艘搭載了可怕 240 毫米艦炮的 X 階艦艇，很快地取得了造成傷害的最佳巡洋艦角色。</p>"
+
+msgid "IDS_PCZC105_MK_BISMARCK"
+msgstr "強大的 Bismarck"
+
+msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
+msgstr "<p>「狩獵 Bismarck」戰役以華麗的規模推出。有超過 30 萬位參與者、完成了超過 14.1 萬個收藏、以及得到了超過 700 萬個貨櫃。有超過 6 萬艘 VIII 階 Bismarck 戰鬥艦落在有著不同技巧水準的玩家手上。</p><p class=\"p_spacing\"> </p><p>以各種戰役任務的歷史參考形式增加故事元素到遊戲客戶端為事件的一大重點。</p>"
+
+msgid "IDS_PCZC106_MK_BOTREVENGE"
+msgstr "機器人的復仇"
+
+msgid "IDS_PCZC106_MK_BOTREVENGE_DESCRIPTION"
+msgstr "<p>一個美麗而寒冷的早上，開發人員意識到出乎意料地有大量玩家正玩著聯合作戰模式，玩家在裡面對抗著機器人。這十足是個驚喜，因為聯合作戰模式起初是為了讓玩家試驗他們在遊戲中獲得的新艦艇而設計 — 僅此而已。然而，喜歡此模式的玩家數以及萬聖節活動的成功證明了與電腦對戰的戰鬥值得進一步考慮。</p><p class=\"p_spacing\"> </p><p>第一季行動隨著 0.6.6 版本更新釋出於遊戲中登場，並且提供了四種獨特的劇情戰鬥：防禦海軍基地、對船團發動攻擊、突襲一座基地，以及護送航空母艦。值得注意的是，電腦變得有點聰明，且與電腦對戰的模式從一個類似於艦艇射擊場的形式逐漸演變成一個獨特、有趣的戰鬥模式。</p>"
+
+msgid "IDS_PCZC420_TM_WINNER"
+msgstr "贏家"
+
+msgid "IDS_PCZC420_TM_WINNER_DESCRIPTION"
+msgstr "<p>吾王萬歲！</p><p class=\"p_spacing\"> </p><p>只有一支隊伍能夠加冕。那將是一支由王者們組成的隊伍。</p><p class=\"p_spacing\"> </p><p>他們目光所及盡是榮耀（當然也包括一大堆的鋼鐵）。耳邊傳來的盡是如雷的掌聲。感受到的盡是勝利的美妙滋味。</p><p class=\"p_spacing\"> </p><p>不過這一切滿足感將在下一季賽事展開時告終，他們需要再次大顯身手，在強強對決中捍衛榮銜。</p>"
+
+msgid "IDS_PCZC421_TM_WAITING"
+msgstr "姍姍來遲先生"
+
+msgid "IDS_PCZC421_TM_WAITING_DESCRIPTION"
+msgstr "<p>「等一下！我吃完午餐馬上就來...」</p><p class=\"p_spacing\"> </p><p>當隊伍中一半的成員都在找他時，他正在閱讀艦艇指南，淡定地享用著他最愛的雞肉餐。</p>"
+
+msgid "IDS_PCZC422_TM_DRAGMAN"
+msgstr "最有價值玩家"
+
+msgid "IDS_PCZC422_TM_DRAGMAN_DESCRIPTION"
+msgstr "<p>他駕駛的不一定是 carrier（航空母艦），但絕對能夠 carry 整支隊伍。</p><p class=\"p_spacing\"> </p><p>戰略家、戰術大師、隊伍大腦、神隊友等等... 隨您怎麼叫，他將帶領隊伍航向勝利。</p>"
+
+msgid "IDS_PCZC423_TM_BUGMAN"
+msgstr "技術問題先生"
+
+msgid "IDS_PCZC423_TM_BUGMAN_DESCRIPTION"
+msgstr "<p>「可是我昨天測試時，一切都運作正常！我發誓！」</p><p class=\"p_spacing\"> </p><p>昨天可能還好，但今天是完全不一樣的日子。他們忘了安裝最新版本的客戶端更新；電腦在執行診斷控制程式時突然燒了起來... 哦，他們還一不小心刪除了網際網路。</p><p class=\"p_spacing\"> </p><p>總有人被技術問題困擾著。</p>"
+
+msgid "IDS_PCZC424_TM_ORGBOSS"
+msgstr "主辦者"
+
+msgid "IDS_PCZC424_TM_ORGBOSS_DESCRIPTION"
+msgstr "<p>每天肩負著重任的幕後功臣。</p><p class=\"p_spacing\"> </p><p>每個伺服器都有一群志願玩家在規劃「Tsar Morey」活動。訂日期、制定規則，並確保比賽日一切順利進行，這些都只是他們一小部分的職責。</p>"
+
+msgid "IDS_PCZC425_TM_REFEREE1"
+msgstr "手提鞭子的裁判員"
+
+msgid "IDS_PCZC425_TM_REFEREE1_DESCRIPTION"
+msgstr "<p>「A 組請注意：比賽將在 5 分鐘後開始！你們最好做好準備，否則將被取消資格」</p><p class=\"p_spacing\"> </p><p>裁判員和志願者協助舉辦「Tsar Morey」活動。他們確保各隊伍知道對戰的對手、地點與時間等詳情。他們也負責處理隊伍之間的一些小衝突。其中有些裁判員很享受在隊伍違規時祭出鞭子。</p><p class=\"p_spacing\"> </p><p>有了這些裁判員，您只要起心動念想要在聊天中輸入您的第一個笑話，就會受到第二次的警告！但好的一面是，比賽一定會準時開始！</p>"
+
+msgid "IDS_PCZC426_TM_REFEREE2"
+msgstr "心慈面軟的裁判員"
+
+msgid "IDS_PCZC426_TM_REFEREE2_DESCRIPTION"
+msgstr "<p>「我當然很樂意為您解釋如何建立訓練房。不，還是讓我幫您建立吧！」</p><p class=\"p_spacing\"> </p><p>裁判員和志願者協助舉辦「Tsar Morey」活動。他們確保各隊伍知道對戰的對手、地點與時間等詳情。他們也負責處理隊伍之間的一些小衝突。其中有些裁判員會傾力保護他們被指派協助的隊伍。</p><p class=\"p_spacing\"> </p><p>仁慈的裁判員會很樂意將開始時間推遲 10 分鐘，然後再延遲 10 分鐘，再 10 分鐘...</p>"
+
+msgid "IDS_PCZC427_TM_STREAMER"
+msgstr "實況主"
+
+msgid "IDS_PCZC427_TM_STREAMER_DESCRIPTION"
+msgstr "<p>「無數砲彈在天空中飛舞。戰況十分激烈！」</p><p class=\"p_spacing\"> </p><p>自賽事開始舉辦以來，實況主們就以他們娛樂性十足的解說，讓「Tsar Morey」活動越來越受歡迎。</p><p class=\"p_spacing\"> </p><p>致那些在直播中失聲、忘了開麥克風、衝撞其他實況主後卻未能沉沒、公平支持所有隊伍（儘管對他們喜歡的隊伍更加「公平」一些）... 還有忘了切換場景，直到在聊天時才大夢初醒的實況主們。</p><p class=\"p_spacing\"> </p><p>感謝你們在遊戲中的精彩獻聲！</p>"
+
+msgid "IDS_PCZC428_TM_RAM"
+msgstr "衝撞速度！"
+
+msgid "IDS_PCZC428_TM_RAM_DESCRIPTION"
+msgstr "<p>沒有什麼比經典三連撞更好的方式來開賽了。</p><p class=\"p_spacing\"> </p><p>為什麼實況主們要在每場戰鬥開始時衝撞呢？</p><p class=\"p_spacing\"> </p><p>難道他們也想對戰？又或是他們的 W 鍵卡住了？還是他們在之前的戰鬥中被衝撞，於是陷入無止盡的報復輪迴之中？</p><p class=\"p_spacing\"> </p><p>以上皆非！在遊戲還沒有觀察者模式時，實況主們要進入戰鬥的唯一方式，就是在兩隊中駕駛 I 階艦艇，讓對手將他們擊沉。</p><p class=\"p_spacing\"> </p><p>在後來的版本中，分屬兩隊的實況主們相約在地圖一角，互相衝撞艦艇以進入自由鏡頭模式。</p><p class=\"p_spacing\"> </p><p>可別用航空母艦來自殺...</p>"
+
+msgid "IDS_PCZC429_TM_SMOKE"
+msgstr "絕殺蝸牛"
+
+msgid "IDS_PCZC429_TM_SMOKE_DESCRIPTION"
+msgstr "<p>「那團煙霧為什麼射擊我們？它越來越近了！快跑！」</p><p class=\"p_spacing\"> </p><p>您想要在煙幕裡藏什麼都行—巡洋艦、主力艦、島嶼...</p><p class=\"p_spacing\"> </p><p>在引入煙幕中開火後提高被偵測性的機制之前，隊伍常常會依靠煙幕來推進所有艦艇。因為推進十分緩慢，加上從煙幕中開出的炮火十分猛烈，這個策略被稱為「絕殺蝸牛」。</p>"
+
+msgid "IDS_PCZC430_TM_ISLAND"
+msgstr "新大陸！"
+
+msgid "IDS_PCZC430_TM_ISLAND_DESCRIPTION"
+msgstr "<p>「是誰把這座島嶼扔在我面前的？？！」</p><p class=\"p_spacing\"> </p><p>為什麼這艘艦艇會出現在島上？難道是敵人的陰謀詭計？</p><p class=\"p_spacing\"> </p><p>這些不知從何處冒起的島嶼，左右了那麼多場戰鬥的結果！該怪誰呢？我們永遠都找不到答案...</p>"
+
+msgid "IDS_PCZC431_TM_DETONATION"
+msgstr "幸運一擊"
+
+msgid "IDS_PCZC431_TM_DETONATION_DESCRIPTION"
+msgstr "<p>「但我有安裝旗幟！我很確定！我應該有…」</p><p class=\"p_spacing\"> </p><p>您是否忘了開啟自動補充信號旗的選項？又或是您在艦艇上安裝了一個特定信號旗，但您的艦長卻要您選另一個？還是您在隨機戰鬥中把所有信號旗都用完了？</p><p class=\"p_spacing\"> </p><p>坦白說吧，我們都知道信號旗應該留在最後的決戰中使用，如果它們並未在訓練房中用完的話。</p>"
+
+msgid "IDS_PCZC432_TM_TORPEDOES"
+msgstr "魚雷磁鐵"
+
+msgid "IDS_PCZC432_TM_TORPEDOES_DESCRIPTION"
+msgstr "<p> - 「我以為你用了水底搜索！」</p><p class=\"p_spacing\"> </p><p> - 「我沒有。我還以為你用了。」</p><p class=\"p_spacing\"> </p><p>煙幕：原始的魚雷磁鐵！</p><p class=\"p_spacing\"> </p><p>煙幕中的艦艇很有可能全都沒有使用水底搜索。</p><p class=\"p_spacing\"> </p><p>試試朝煙幕發射幾枚魚雷，然後靜靜享受您的「Devastating Double Strike」成就！哦，等等，訓練房是不頒發成就的...</p>"
+
+msgid "IDS_PCZC433_TM_BASE"
+msgstr "安全第一！"
+
+msgid "IDS_PCZC433_TM_BASE_DESCRIPTION"
+msgstr "<p>「大家放心。這個關鍵地區是我們的囊中物！快到手了... 啊！！大家快逃！！」</p><p class=\"p_spacing\"> </p><p>佔領關鍵地區時，狡猾的驅逐艦必須先跳一支倒退舞：調轉艦艇的方向，以艦艉進入關鍵地區。</p><p class=\"p_spacing\"> </p><p>這樣一來如果情勢不對，只需輕輕按下一個鍵，驅逐艦就能長驅而逃。</p><p class=\"p_spacing\"> </p><p>所以，當您在隨機戰鬥中看到這樣不尋常的機動時，可別誤會是有人打賭輸了，需要連續 10 場這麼做。您其實是遇上了經驗豐富的高手！</p>"
+
+msgid "IDS_PCZC434_TM_HINDEN"
+msgstr "德國戰車"
+
+msgid "IDS_PCZC434_TM_HINDEN_DESCRIPTION"
+msgstr "<p>2017 年來電話，說想要重新再來。</p><p class=\"p_spacing\"> </p><p>作為其中一艘最多功能、像坦克般的巡洋艦，Hindenburg 曾是首幾季 X 階「King of the Sea」活動和公會戰鬥中最受歡迎的艦艇。當時隊伍中常會出現三或四艘這型艦艇同時上場。</p><p class=\"p_spacing\"> </p><p>玩家們喜歡她良好的每秒平均傷害、不錯的造成起火機率、厚實的裝甲，以及德國的「水底搜索」消耗品！這也就是為什麼她總是專業玩家們的首選（且這與當時大多數玩家只擁有一艘 X 階艦艇無關）。</p><p class=\"p_spacing\"> </p><p>她的領頭羊地位後來被 Henri IV 所取代。</p>"
+
+msgid "IDS_PCZC435_TM_HENRI"
+msgstr "法式風情"
+
+msgid "IDS_PCZC435_TM_HENRI_DESCRIPTION"
+msgstr "<p>WWWW SSSS WWWW SSSS</p><p class=\"p_spacing\"> </p><p>在首幾個賽季中，Hindenburg 被認為是遊戲中最多功能的艦艇之一，深受錦標賽參加者們的喜愛。</p><p class=\"p_spacing\"> </p><p>但隨著時間過去，她的領頭羊地位被法國巡洋艦 Henri IV 所取代。</p><p class=\"p_spacing\"> </p><p>在競賽和隨機戰鬥等模式中，經常可以見到 Henri IV 勇敢地把舷側面向主力艦來航行，持續地加速或踩剎。</p><p class=\"p_spacing\"> </p><p>但是遊戲不斷演變，可沒有時間放鬆懈怠或不求進取。您覺得錦標賽的下一個寵兒會是哪艘艦艇呢？</p>"
+
+msgid "IDS_PFES441_DUPERRE_CEREMONIAL"
+msgstr "下水儀式"
+
+msgid "IDS_PFES442_FORBIN_CEREMONIAL"
+msgstr "下水儀式"
+
+msgid "IDS_PFPA109_75MM_35_SMOKE"
+msgstr "75 mm HE Mle 1925"
+
+msgid "IDS_PFPA110_88MM_45_SMOKE"
+msgstr "88 mm CS"
+
+msgid "IDS_PFPA111_100MM_45_1892_SMOKE"
+msgstr "100 mm SAP OEA Mle 1910"
+
+msgid "IDS_PIAB510_LAZIO_STOCK"
+msgstr "Fiat G.55S"
+
+msgid "IDS_PIAD510_LAZIO_STOCK"
+msgstr "Savoia-Marchetti SM.93"
+
+msgid "IDS_PIAD915_ASW_T10_CV"
+msgstr "CANT Z.508"
+
+msgid "IDS_PIAF510_LAZIO_STOCK"
+msgstr "Reggiane Re.2005"
+
+msgid "IDS_PIAF511_LAZIO_STOCK_WARD"
+msgstr "Reggiane Re.2001"
+
+msgid "IDS_PIGM119_406MM_50_BARRELS_4"
+msgstr "406 mm/50 Model 1940（炮塔）\""
+
+msgid "IDS_PIGS120_120MM_50_OTO_MK10"
+msgstr "120 mm/50 OTO（Mk.10 炮座）"
+
+msgid "IDS_PIPA043_381MM_50_HE_IMPERO"
+msgstr "381 mm proiettili HE"
+
+msgid "IDS_PIPA092_120_HE_M50_SG"
+msgstr "120 mm HE M1950"
+
+msgid "IDS_PIPA093_152MM_55_1936_25HE"
+msgstr "152 mm proiettili HE"
+
+msgid "IDS_PIPA095_406MM_CS_GALILEO"
+msgstr "406 mm proiettili CS 1940"
+
+msgid "IDS_PIPA096_406MM_AP_GALILEO"
+msgstr "406 mm proiettili AP 1940"
+
+msgid "IDS_PIPB002_LAZIO_STOCK"
+msgstr "SC-250"
+
+msgid "IDS_PIPD109_DEPTH_CV_10"
+msgstr "CS 160 kg"
+
+msgid "IDS_PIPR002_LAZIO_STOCK"
+msgstr "RZ.65"
+
+msgid "IDS_PIPT026_LAZIO_STOCK"
+msgstr "450 mm F200"
+
+msgid "IDS_PISA510"
+msgstr "拉齊奧"
+
+msgid "IDS_PISA510_DESCR"
+msgstr "<p>帝國於 1938 年安放龍骨，但卻因第二次世界大戰的爆發而停工。在帝國的建造工作停止時，其總體完成度僅有 28%，但艦體完成度已達 88%，而動力系統完成度則為 76%。</p><p class=\"p_spacing\"> </p><p>20 世紀 40 年代初，義大利海軍曾一度考慮將其改裝為航空母艦，但由於成本高昂、船廠資源緊張以及之後義大利退出戰爭的舉措，該計劃最終未能實施。最後帝國被德軍繳獲。</p>"
+
+msgid "IDS_PISA510_FULL"
+msgstr "拉齊奧"
+
+msgid "IDS_PISA510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISA510_YEAR"
+msgstr "1942"
+
+msgid "IDS_PISB111"
+msgstr "伽利略"
+
+msgid "IDS_PISB111_DESCR"
+msgstr "<p>一種義大利主力艦進一步發展而來的假想設計方案，設計的主要部分均參考自維托里奧•維內託級主力艦。與之前的設計相比，該艦裝備了更多主炮，其口徑也提升至 406 毫米。</p><p class=\"p_spacing\"> </p><p>該艦可能會在戰後完成建造，並在服役後進行了一系列諸如雷達裝置與副炮組更新的現代化改造。</p>"
+
+msgid "IDS_PISB111_FULL"
+msgstr "伽利略•伽利雷"
+
+msgid "IDS_PISB111_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB111_YEAR"
+msgstr "1943"
+
+msgid "IDS_PISB539"
+msgstr "帝國"
+
+msgid "IDS_PISB539_DESCR"
+msgstr "<p>維托里奧•維內託級主力艦的第二批次之一帝國號主力艦，是為了響應1938年的海軍擴充計劃而建造。該批次艦艇相較於首批姊妹艦而言，在艦首部分略微抬高了甲板，以提升海況適應能力。該艦於1938年5月在熱那亞安薩爾多造船廠安放龍骨。</p><p class=\"p_spacing\"> </p><p><b>帝國</b>於1939年11月下水，但因第二次世界大戰爆發而未能完工。1940年6月，該艦被拖往布林迪西，安裝了動力系統及幾座小口徑防空炮。直到1942年停工時，該艦的建造完成度僅為28%。</p><p class=\"p_spacing\"> </p><p>1942年，<b>帝國</b>先被轉移到威尼斯、隨後又被轉移到的裡雅斯特。1943年義大利投降後，這艘未完工的艦艇被德軍繳獲，隨後在盟軍的空襲中受損並沉沒。1947年，她的艦體重新打撈、並拖回威尼斯進行了拆解。</p>"
+
+msgid "IDS_PISB539_FULL"
+msgstr "帝國"
+
+msgid "IDS_PISB539_NUMBER"
+msgstr "2"
+
+msgid "IDS_PISB539_YEAR"
+msgstr "1934"
+
+msgid "IDS_PIUA809_ART_IMPERO"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
+
+msgid "IDS_PIUA909_BB11_ART_STOCK"
+msgstr "406 mm/50 Model 1940（炮塔）"
+
+msgid "IDS_PIUB901_TB_LAZIO"
+msgstr "Fiat G.55s"
+
+msgid "IDS_PIUD900_DB_LAZIO"
+msgstr "Savoia-Marchetti SM.93"
+
+msgid "IDS_PIUE809_ENG_IMPERO"
+msgstr "推進系統：130,000 匹馬力"
+
+msgid "IDS_PIUE909_ENG_LAZIO"
+msgstr "推進系統：139,320 匹馬力"
+
+msgid "IDS_PIUE910_BB11_ENG_STOCK"
+msgstr "推進系統：210,000 匹馬力"
+
+msgid "IDS_PIUF901_FC_LAZIO"
+msgstr "Mk8 mod. 1"
+
+msgid "IDS_PIUH812_HULL_IMPERO"
+msgstr "帝國"
+
+msgid "IDS_PIUH909_HULL_LAZIO"
+msgstr "拉齊奧"
+
+msgid "IDS_PIUH910_BB11_HULL_STOCK"
+msgstr "伽利略"
+
+msgid "IDS_PIUI901_F_LAZIO"
+msgstr "Reggiane Re.2005"
+
+msgid "IDS_PIUS812_SUO_IMPERO"
+msgstr "SDT 9"
+
+msgid "IDS_PIUS909_BB11_SUO_STOCK"
+msgstr "SDT 11"
+
+msgid "IDS_PJAM520_I2_STOCK"
+msgstr "愛知 M6A1 「晴嵐」"
+
+msgid "IDS_PJGM239_100MM65_TYPE_98"
+msgstr "100 mm/65 Type 98（Model A2炮座）"
+
+msgid "IDS_PJPA178_100MM_HE_CHIKUGO"
+msgstr "100 mm HE Type98"
+
+msgid "IDS_PJPA179_100MM_AP_CHIKUGO"
+msgstr "100 mm AP Type98"
+
+msgid "IDS_PJPM520_I2_STOCK"
+msgstr "Type JI Mod. 2"
+
+msgid "IDS_PJPT068_I2_MZ"
+msgstr "Type95 mod. 5 MZ"
+
+msgid "IDS_PJPT069_610MM_CHIKUGO"
+msgstr "Type93"
+
+msgid "IDS_PJPT070_I2_SUB"
+msgstr "Type95 mod. 5"
+
+msgid "IDS_PJSC540"
+msgstr "筑後"
+
+msgid "IDS_PJSC540_DESCR"
+msgstr "<p>1941 年，日本通過了一項海軍擴充計劃，計劃內包括了建造4艘專門為驅逐艦隊提供對空火力支援的小型巡洋艦。而這些被稱為「815 專案」的艦艇擁有 5800 噸的標準排水量，設計作為秋月級驅逐艦的領艦。</p><p class=\"p_spacing\"> </p><p>除專用防空巡洋艦的方案外，日本海軍還曾考慮將正在建造的大淀級巡洋艦進行改裝，或基於其艦體建造新型艦艇。按照設計，每艘巡洋艦將計劃配備 12 座雙聯裝 100 毫米/ 65 倍徑高平兩用炮，其火力足以和三艘秋月級驅逐艦相媲美。其中，處於艦體中軸線上的火炮將計劃被安置於封閉式炮塔內，而位於舷側的炮塔則使用半開放式設計。</p>"
+
+msgid "IDS_PJSC540_FULL"
+msgstr "筑後"
+
+msgid "IDS_PJSC540_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSC540_YEAR"
+msgstr "1940"
+
+msgid "IDS_PJSS520"
+msgstr "I-2"
+
+msgid "IDS_PJSS520_DESCR"
+msgstr "<p>在甲型改二潛艇的改進型——改甲型航空潛艇中，誕生了兩種不同的設計。其中，第二種設計是前一種設計的進一步發展，計劃使潛艇搭載兩架攻擊機（而非偵察機）。</p><p class=\"p_spacing\"> </p><p>該級潛艇原設想用於攻擊巴拿馬運河的船閘。圓筒形機庫被安置在艦體的一側，形成了獨特的非對稱外觀。該級原本計劃建造4艘潛艇，但由於日本海軍戰時將重心轉移至航空母艦，所以她們最終未能開工。</p>"
+
+msgid "IDS_PJSS520_FULL"
+msgstr "I-2"
+
+msgid "IDS_PJSS520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSS520_YEAR"
+msgstr "1942"
+
+msgid "IDS_PJUA915_ART_CHIKUGO"
+msgstr "100 mm/65 Type 98（Model A / A2炮座）"
+
+msgid "IDS_PJUE918_ENG_I2"
+msgstr "推進系統：4,400 匹馬力"
+
+msgid "IDS_PJUE919_ENG_CHIKUGO"
+msgstr "推進系統：118,860 匹馬力"
+
+msgid "IDS_PJUF908_FC_I2"
+msgstr "Type10"
+
+msgid "IDS_PJUH919_HULL_I2"
+msgstr "I-2"
+
+msgid "IDS_PJUH920_HULL_CHIKUGO"
+msgstr "筑後"
+
+msgid "IDS_PJUO901_M_I2"
+msgstr "愛知 M6A1 「晴嵐」"
+
+msgid "IDS_PJUQ900_SONAR_I2"
+msgstr "Type10"
+
+msgid "IDS_PJUS918_SUO_CHIKUGO"
+msgstr "Type10"
+
+msgid "IDS_PJUT920_TORP_I2"
+msgstr "533mm"
+
+msgid "IDS_PJUT921_TORP_CHIKUGO"
+msgstr "Type 92"
+
+msgid "IDS_PRES319_SOVETSKAYA_GRUZIA"
+msgstr "雪頂"
+
+msgid "IDS_PRES448_ALNESVSKII_RUSSIA"
+msgstr "俄羅斯三色旗"
+
+msgid "IDS_PRGM248_18IN48_MK1_TWIN"
+msgstr "457 mm/48 Mk.1（炮塔）"
+
+msgid "IDS_PRGS249_5IN38_MK38_MOD0"
+msgstr "127 mm/38 Mk.12（Mk.38 炮座）"
+
+msgid "IDS_PRPA257_457MM_HE_S_GRUZIA"
+msgstr "457 mm HE Type B"
+
+msgid "IDS_PRPA258_457MM_AP_S_GRUZIA"
+msgstr "457 mm AP Type B"
+
+msgid "IDS_PRPA259_152MM_25HE_1907"
+msgstr "152 mm HE Model 1907"
+
+msgid "IDS_PRPA260_152MM_OFU35_25HE_SG"
+msgstr "OFU-35"
+
+msgid "IDS_PRPA916_HE_DESTROYER_CHALLENGE"
+msgstr "120 mm HE"
+
+msgid "IDS_PRPA917_AP_DESTROYER_CHALLENGE"
+msgstr "120 mm AP"
+
+msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
+msgstr "533 mm Mk VII"
+
+msgid "IDS_PRSB549"
+msgstr "喬治亞*"
+
+msgid "IDS_PRSB549_DESCR"
+msgstr "<p><i>在峽谷的隘口之外，城堡塔樓如同守衛的巨人屹立於峭壁之上，那裡沉睡著一片古老的土地。翡翠般的山谷在鎏金雲彩下安然酣眠，永恆的積雪為群峰戴上了銀質冠冕。這片土地嚴酷而孤傲，卻如同那些滄桑要塞般蘊藏著蓬勃生機。</i></p><p class=\"p_spacing\"> </p><p><i>於那嶙峋峭壁被千年風霜雕琢的彼端，傳說依然鮮活，甜美歌謠流淌不息——那是片古老卻青春永葆的大地。</i></p>"
+
+msgid "IDS_PRSB549_FULL"
+msgstr "喬治亞*"
+
+msgid "IDS_PRSB549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB549_YEAR"
+msgstr "1933"
+
+msgid "IDS_PRSD916"
+msgstr "頑強"
+
+msgid "IDS_PRSD916_DESCR"
+msgstr "用於參加試煉的艦艇。"
+
+msgid "IDS_PRSD916_FULL"
+msgstr "頑強"
+
+msgid "IDS_PRSD916_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSD916_YEAR"
+msgstr "1937"
+
+msgid "IDS_PRUA509_ART_DESTROYER_CHALLENGE"
+msgstr "120 mm/45 QF Mk.IX（CPXIV/XVII/XVIII 炮座）"
+
+msgid "IDS_PRUA825_ART_S_GRUZIA"
+msgstr "457 mm/48 Mk.1（炮塔）"
+
+msgid "IDS_PRUE510_ENG_DESTROYER_CHALLENGE"
+msgstr "推進系統：80,000 匹馬力"
+
+msgid "IDS_PRUE822_ENG_S_GRUZIA"
+msgstr "推進系統：230,000 匹馬力"
+
+msgid "IDS_PRUH519_HULL_DESTROYER_CHALLENGE"
+msgstr "頑強"
+
+msgid "IDS_PRUH831_HULL_S_GRUZIA"
+msgstr "喬治亞"
+
+msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
+msgstr "GFCS VI"
+
+msgid "IDS_PRUS829_SUO_S_GRUZIA"
+msgstr "GFCS IX"
+
+msgid "IDS_PRUT506_TORP_DESTROYER_CHALLENGE"
+msgstr "533 mm Mk VIII"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_CANCELED"
+msgstr "工作已取消"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_FAILURE"
+msgstr "失敗"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_IN_PROGRESS"
+msgstr "新工作"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_NOT_STARTED"
+msgstr "新工作"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_SUCCESS"
+msgstr "已完成"
+
+msgid "IDS_PVE_TASK_BATTLE_STATUS_UPDATED"
+msgstr "工作已更新"
+
+msgid "IDS_PWES510_HALLAND_TM"
+msgstr "Tsar Morey：维京人"
+
+msgid "IDS_PZGM182_305MM_61_SM31"
+msgstr "305 mm/61 SM-33（SM-31 炮座）"
+
+msgid "IDS_PZGS183_130MM_57_BL_132_B"
+msgstr "130 mm/58（BL-132B 炮座）"
+
+msgid "IDS_PZPA094_305MM_HE_JULANG"
+msgstr "305 mm HE Model 1928"
+
+msgid "IDS_PZPA095_305MM_AP_JULANG"
+msgstr "305 mm AP Model 1928"
+
+msgid "IDS_PZPA096_130MM_HE_OF_46_B2U_SG"
+msgstr "HE-46"
+
+msgid "IDS_PZSB549"
+msgstr "巨浪"
+
+msgid "IDS_PZSB549_DESCR"
+msgstr "<p>一艘21型主力艦，可能會在1950年代經歷大規模的現代化改造。主炮更換為82型巡洋艦（即斯大林格勒級重巡洋艦）所使用的型號，中口徑火炮與遠端防空炮被替換為130毫米高平兩用炮，而小口徑防空火力則由ZIF-75與4М-120兩種炮塔所組成。</p><p class=\"p_spacing\"> </p><p>該艦可能會作為援助專案的一部分被蘇聯移交給中國，以用於支援中國海軍的發展。</p>"
+
+msgid "IDS_PZSB549_FULL"
+msgstr "巨浪"
+
+msgid "IDS_PZSB549_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSB549_YEAR"
+msgstr "1954"
+
+msgid "IDS_PZUA811_ART_JULANG"
+msgstr "305 mm/61 SM-33（SM-31 炮座）"
+
+msgid "IDS_PZUE811_ENG_JULANG"
+msgstr "推進系統：201,000 匹馬力"
+
+msgid "IDS_PZUH813_HULL_JULANG"
+msgstr "巨浪"
+
+msgid "IDS_PZUS813_SUO_JULANG"
+msgstr "GFCS IX"
+
+msgid "IDS_QUEST_TMBATTLES_WIN"
+msgid_plural "IDS_QUEST_TMBATTLES_WIN"
+msgstr[0] "在玩家錦標賽中與團隊一同赢得 %(achievementCount)s 場勝利。"
+
+msgid "IDS_QUEST_TM_CHAMPION"
+msgstr "同您的團隊一起在玩家錦標賽中奪冠。"
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE"
+msgstr "「大型戰術」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL046_LESTA_STUFF1_TITLE_SHORT"
+msgstr "大型戰術"
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE"
+msgstr "「巨型戰術」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL047_LESTA_STUFF10_TITLE_SHORT"
+msgstr "巨型戰術"
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE"
+msgstr "「特殊戰術」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL048_LESTA_COMPENSATION_TITLE_SHORT"
+msgstr "特殊戰術"
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_2_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_SLOT_2_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE"
+msgstr "「戰術」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL049_LESTA_COMMON_TITLE_SHORT"
+msgstr "戰術"
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_TITLE"
+msgstr "「Tsar Morey」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL097_TM_COLL_TITLE_SHORT"
+msgstr "Tsar Morey"
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "加值艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE"
+msgstr "「小型戰術」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_TITLE_SHORT"
+msgstr "小型戰術"
+
+msgid "IDS_SCENARIO_DOMINATION_SPECIAL_GLOBALWEATHER"
+msgstr "激鬥 — 制海權 — 暴風雨"
+
+msgid "IDS_SCENARIO_PCVT004_MANEUVER_PRIME"
+msgstr "驅逐艦作戰"
+
+msgid "IDS_SCORES_CAN_BE_SUBSTRUCTED"
+msgstr "您被敵艦擊中時會損失積分。"
+
+msgid "IDS_SECOND_TMSUBCOLLECTION_NAME"
+msgstr "錦標賽設置"
+
+msgid "IDS_SHIPCOMPONENT_ALL_TITLE"
+msgstr "所有藍圖"
+
+msgid "IDS_SHIPCOMPONENT_FULL_TITLE"
+msgstr "艦艇藍圖"
+
+msgid "IDS_SHIPCOMPONENT_INFO_TITLE"
+msgstr "維修艦艇所需的材料"
+
+msgid "IDS_SHIPMATERIAL_SUPERSHIP"
+msgstr "超级艦艇"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_AIRCARRIER"
+msgstr "不允許使用航空母艦参加此試煉"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_BATTLESHIP"
+msgstr "不允許使用主力艦参加此試煉"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_CRUISER"
+msgstr "不允許使用巡洋艦参加此試煉"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_DESTROYER"
+msgstr "不允許使用驅逐艦参加此試煉"
+
+msgid "IDS_SHIP_CLASS_IS_NOT_ALLOWED_FOR_TRIAL_SUBMARINE"
+msgstr "不允許使用潛水艇参加此試煉"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
+msgstr "兌換"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
+msgstr "<p>您可以在此用維修材料兌換艦艇藍圖。</p></p><p class=\"p_spacing\"> </p><p>您將不會獲得已擁有艦艇的藍圖。若之前已擁有相同藍圖（但仍未修復），您將得到補償。</p"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
+msgstr "<p>您可以在此看到可用維修材料兌換的艦艇藍圖的完整清單。</p><p>清單會定期更新，敬請關注！</p>"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_LEVEL_TITLE"
+msgstr "選定階級："
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_PERCENT_RATE"
+msgstr "<p>獲得新藍圖的概率：<span class=\"percentRate\">%(_percentRate)s</span></p>"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_TITLE"
+msgstr "用維修材料兌換藍圖"
+
+msgid "IDS_SHIP_COMPONENTS_EXCHANGE_WARNING"
+msgstr "沒有合適資源兌換"
+
+msgid "IDS_SHIP_COMPONENTS_GET_TITLE"
+msgstr "獲取藍圖"
+
+msgid "IDS_SHIP_COMPONENTS_LIST_ALL"
+msgstr "完整清單"
+
+msgid "IDS_SHIP_COMPONENTS_LIST_ALL_TOOLTIP"
+msgstr "檢視現有藍圖的完整清單"
+
+msgid "IDS_SHIP_COMPONENTS_LIST_TITLE"
+msgstr "所有藍圖"
+
+msgid "IDS_SHIP_COMPONENTS_TO_EXCHANGE"
+msgstr "前往兌換畫面"
+
+msgid "IDS_SHIP_COMPONENTS_TO_REPAIR_DOCK"
+msgstr "前往修理船塢"
+
+msgid "IDS_SHIP_COMPONENT_IN_PORT"
+msgstr "庫存"
+
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_MOUSE_CANCEL"
+msgstr "取消選定"
+
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_MOUSE_SELECT"
+msgstr "選定階級"
+
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_REWARDS_TITLE"
+msgstr "補償："
+
+msgid "IDS_SHIP_MATERIALS_TOOLTIP_STATUS_SELECTED"
+msgstr "已選定"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_BOOSTED_VISIBILITY"
+msgstr "隱蔽性提高"
+
+msgid "IDS_SHIP_PARAM_AMMO_SS"
+msgstr "炮射煙霧彈"
+
+msgid "IDS_SHIP_PARAM_AMMO_SS_FULL_NAME"
+msgstr "炮射煙霧彈"
+
+msgid "IDS_SHIP_PARAM_AMMO_SS_SEC"
+msgstr "炮射煙霧彈修改型"
+
+msgid "IDS_SHIP_PARAM_SMOKE_RADIUS_SS"
+msgstr "有效半徑"
+
+msgid "IDS_SHIP_PARAM_SMOKE_TIME_SS"
+msgstr "煙幕擴散時間"
+
+msgid "IDS_SHIP_SHARDS_ALL_TITLE"
+msgstr "所有維修材料"
+
+msgid "IDS_SHIP_SHARDS_COMPONENTS_GET_BUTTON"
+msgstr "獲取藍圖"
+
+msgid "IDS_SHIP_SHARDS_TOOLTIP_PROGRESS_TITLE"
+msgstr "準備維修"
+
+msgid "IDS_SHIP_SHARDS_TTX_BUTTON_FEATURES"
+msgstr "艦艇特質"
+
+msgid "IDS_SHIP_TOOLTIP_REPAIR_WITH_MATERIALS_AVAILABLE"
+msgstr "準備維修"
+
+msgid "IDS_SOUND_MOD_VIKING_TM"
+msgstr "Björn Konungr"
+
+msgid "IDS_SUBST_SHIP_SHARDS_TTX_REPAIR_SHIPMATERIAL_LEVEL"
+msgstr "需要 %(_shipLevel)s 階維修材料："
+
+msgid "IDS_SUBST_TILL_SHARE_ENDS"
+msgstr "促銷活動結束與：%(_timeLeft)s"
+
+msgid "IDS_SYS_MSG_ECOBOOST"
+msgstr "經濟加成"
+
+msgid "IDS_SYS_MSG_HEADER_ALCHEMY_ECOBOOST_EXCHANGE"
+msgstr "兌換經濟加成"
+
+msgid "IDS_SYS_MSG_HEADER_ALCHEMY_SIGNAL_EXCHANGE"
+msgstr "兌換信號旗"
+
+msgid "IDS_SYS_MSG_SHIP_MATERIAL_EXCHANGED"
+msgstr "兌換维修材料"
+
+msgid "IDS_SYS_MSG_SIGNAL"
+msgstr "信號旗"
+
+msgid "IDS_THIRD_TMSUBCOLLECTION_NAME"
+msgstr "玩法細節"
+
+msgid "IDS_TIPS_ARMAMENT_SS"
+msgstr "炮射煙霧彈"
+
+msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
+msgstr "<p>按下 [CMD_AMMO_SLOT_1] 可選定炮射煙霧彈。</p>"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE"
+msgstr "只能使用連發射擊模式"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE_DESCRIPTION"
+msgstr "<p>您艦艇的主炮只能使用「連發射擊」模式。</p>"
+
+msgid "IDS_TIPS_SHOOTING_SS"
+msgstr "炮射煙霧彈射擊"
+
+msgid "IDS_TIPS_SHOOTING_SS_DESCRIPTION"
+msgstr "使用 [CMD_AMMO_SLOT_1] 發射煙霧彈。開火前計算好前置量，以及時掩護您的隊友。"
+
+msgid "IDS_TM13_GER"
+msgstr "Klaus Sternberger"
+
+msgid "IDS_TM13_JAP"
+msgstr "Kenji Shiraishi"
+
+msgid "IDS_TM13_RUS"
+msgstr "Stepan Yermakov"
+
+msgid "IDS_TM13_USA"
+msgstr "Edward Turner"
+
+msgid "IDS_TRIAL_MANEUVER"
+msgstr "驅逐艦作戰"
+
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_1"
+msgstr "用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_2"
+msgstr "用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_3"
+msgstr "在不被發現的情況下用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_4"
+msgstr "同隊友一起用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_5"
+msgstr "佔領關鍵地區並用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_GUP"
+msgstr "使用「水底搜索」消耗品來偵測魚雷！"
+
+msgid "IDS_TRIAL_MAN_TEXT_ISLANDS"
+msgstr "用島嶼來掩護自己不被發現或集火"
+
+msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_1"
+msgstr "如果敵人位於您的被偵測範圍內，您將被發現並被集火"
+
+msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_2"
+msgstr "注意！敵艦位於您的被偵測範圍內！"
+
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_1"
+msgstr "位於煙幕中時，您的被偵測範圍會縮小"
+
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_2"
+msgstr "使用發煙機消耗品以防止您被敵艦發現"
+
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_3"
+msgstr "使用發煙機消耗品來掩護隊友"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_1"
+msgstr "盡量用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_2"
+msgstr "盡量用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_3"
+msgstr "在不被發現的情況下盡量用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_4"
+msgstr "同隊友一起盡量用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_5"
+msgstr "佔領關鍵地區並盡量用魚雷造成傷害"
+
+msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_1"
+msgstr "您被敵艦擊中時會損失積分"
+
+msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_2"
+msgstr "您的艦艇被敵方魚雷擊中，損失了一些積分。躲避魚雷！"
+
+msgid "IDS_UNLOCKS_17"
+msgstr "研發並購買新艦艇。"
+
+msgid "IDS_UNLOCKS_3124"
+msgstr "與其他玩家一起對抗機器人，並完成劇情任務。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_0"
+msgstr "有多種類型和國家的艦艇供您選擇：高隱蔽性的驅逐艦、能力均衡的巡洋艦、重灌甲的主力艦，以及攜帶高速高傷害飛機的航空母艦。選擇您在戰鬥中的角色！"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_17_1"
+msgstr "為了提升您的戰鬥力，您可以使用賺取的經驗和銀幣來研發和購買新艦艇，或購買新的配件來升級您的艦艇。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_0"
+msgstr "在「行動」中，您的團隊必須在與機器人戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_1"
+msgstr "完成主要工作即可獲得勝利。完成附加工作將獲得更多資源。"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3124_2"
+msgstr "行動的難度取決於隊伍中艦艇的類型和階級。"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_17"
+msgstr ""
+"<body>您現在可以進行\n"
+"<h3>艦艇研發和強化</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgstr ""
+"<body>您現在可以加入\n"
+"<h3>行動</h3></body>"
+
+msgid "IDS_UNLOCKS_LOCATION_17"
+msgstr "科技樹分頁中開放了新的艦艇。升級品可在裝備分頁安裝。"
+
+msgid "IDS_UNLOCKS_LOCATION_3124"
+msgstr "可見於戰鬥類型選擇畫面。"
+
+msgid "IDS_UNLOCKS_TITLE_17"
+msgstr "艦艇研發和升級"
+
+msgid "IDS_UNLOCKS_TITLE_3124"
+msgstr "行動"
+
+msgid "IDS_VIKING_TM"
+msgstr "Björn Konungr"

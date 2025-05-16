@@ -1,0 +1,229 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
+msgstr "隨機戰鬥、排名戰鬥和評級戰鬥"
+
+msgid "IDS_COMMON_OVERRIDE_FOR_WEB"
+msgstr "無國籍"
+
+msgid "IDS_CURRENCY_BRASS_GET_DESCRIPTION"
+msgstr "透過參加排名戰鬥、公會戰鬥或評級戰鬥獲得。"
+
+msgid "IDS_CURRENCY_EVENTUM_7"
+msgstr "假日代幣"
+
+msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
+msgstr "在 25.6 版本中，透過達成戰鬥通行證後續進度等級或是從軍械庫「俄羅斯日」分頁中的禮包中獲得。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
+msgstr "在 25.6 版本結束前，用於兌換軍械庫「俄羅斯日」分頁中的獎勵。包括：IX 階主力艦喬治亞，IX 階巡洋艦羅西亞阿拉斯加，IX 階巡洋艦陶里亞蒂，以及其他資源。"
+
+msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
+msgstr "臨時資源。25.7版本釋出後，代幣將被無償收回。"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT"
+msgstr "藍圖 | %(_shipName)s"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_GET_DESCRIPTION"
+msgstr "透過參加活動獲得，或使用維修材料兌換。"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_NOWRAP"
+msgstr "藍圖 | %(_shipName)s"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_OVERRIDE_FOR_WEB"
+msgstr "藍圖"
+
+msgid "IDS_CURRENCY_SHIPCOMPONENT_SPEND_DESCRIPTION"
+msgstr "用於讓對應的艦艇進入您的修理船塢中進行修復。"
+
+msgid "IDS_CURRENCY_SHIPMATERIAL"
+msgstr "維修材料 | %(_shipLevel)s 階"
+
+msgid "IDS_CURRENCY_SHIPMATERIAL_GET_DESCRIPTION"
+msgstr "透過開啟「維修」貨櫃或參加活動獲得。"
+
+msgid "IDS_CURRENCY_SHIPMATERIAL_SPEND_DESCRIPTION"
+msgstr "用於在修理船塢修復艦艇，或兌換艦艇藍圖。"
+
+msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
+msgstr "無法使用消耗品。"
+
+msgid "IDS_DOGTAG_PCNB122_DESCRIPTION"
+msgstr "授予玩家錦標賽的參與者。"
+
+msgid "IDS_DOGTAG_PCNB122_NAME"
+msgstr "競爭對手"
+
+msgid "IDS_DOGTAG_PCNB355_DESCRIPTION"
+msgstr "為紀念第 14 屆玩家錦標賽。"
+
+msgid "IDS_DOGTAG_PCNB355_NAME"
+msgstr "玩家錦標賽 XIV"
+
+msgid "IDS_DOGTAG_PCNU066_DESCRIPTION"
+msgstr "在玩家群體中舉行的大型競賽。參賽隊伍比拼戰術和戰略，觀眾則屏息觀戰。"
+
+msgid "IDS_DOGTAG_PCNU066_NAME"
+msgstr "玩家錦標賽：新兵"
+
+msgid "IDS_DOGTAG_PCNU067_DESCRIPTION"
+msgstr "在玩家群體中舉行的大型競賽。參賽隊伍比拼戰術和戰略，觀眾則屏息觀戰。"
+
+msgid "IDS_DOGTAG_PCNU067_NAME"
+msgstr "玩家錦標賽：老兵"
+
+msgid "IDS_DOGTAG_PCNU068_DESCRIPTION"
+msgstr "在玩家群體中舉行的大型競賽。參賽隊伍比拼戰術和戰略，觀眾則屏息觀戰。"
+
+msgid "IDS_DOGTAG_PCNU068_NAME"
+msgstr "玩家錦標賽：精英"
+
+msgid "IDS_DOGTAG_PCNU069_DESCRIPTION"
+msgstr "在玩家群體中舉行的大型競賽。參賽隊伍比拼戰術和戰略，觀眾則屏息觀戰。"
+
+msgid "IDS_DOGTAG_PCNU069_NAME"
+msgstr "玩家錦標賽：優勝者"
+
+msgid "IDS_GUIDING_TIP_294_DESC"
+msgstr "這裡有需要修復的艦艇。修理完成後即可將這些艦艇收入麾下！"
+
+msgid "IDS_GUIDING_TIP_294_HEADER"
+msgstr "獲取新艦艇"
+
+msgid "IDS_GUIDING_TIP_295_DESC"
+msgstr "獲得藍圖後，對應的艦艇就會出現在您的修理船塢中。"
+
+msgid "IDS_GUIDING_TIP_296_DESC"
+msgstr "維修艦艇需要對應階級的維修材料。"
+
+msgid "IDS_GUIDING_TIP_296_HEADER"
+msgstr "收集維修材料"
+
+msgid "IDS_GUIDING_TIP_297_DESC"
+msgstr "在這裡可以看到您擁有多少可用於修復不同階級的艦艇的維修材料。"
+
+msgid "IDS_GUIDING_TIP_301_DESC"
+msgstr "您獲得了可以用來修復艦艇的維修材料！當您獲得第一艘艦艇的藍圖後，該艦艇就會出現在您的修理船塢中。"
+
+msgid "IDS_GUIDING_TIP_302_DESC"
+msgstr "在這裡可以看到您擁有多少可用於修復不同階級的艦艇的維修材料。"
+
+msgid "IDS_GUIDING_TIP_303_DESC"
+msgstr "<p>您需要對應階級的維修材料來修復艦艇。</p><p class=\"p_spacing\"> </p><p>點選「修復」後，艦艇就歸您了！</p>"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "完成當前階段的任務以進入下一階段。完成的階段越多，試煉結束時獲得的資源越多。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "使用指定型別的武器攻擊帶有標記的目標可獲得更多積分。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "每次試煉由 5 個階段組成。要進入下一個階段，必須完成當前階段的任務。"
+
+msgid "IDS_MODAL_WINDOW_TRIALS_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "您完成的階段越多，試煉結束時獲得的資源就越多。"
+
+msgid "IDS_PCEA014_CRBOOST_4"
+msgstr "銀幣 +480%"
+
+msgid "IDS_PCEA024_TOTALXPBOOST_4"
+msgstr "艦艇經驗 +2400%"
+
+msgid "IDS_PCEA034_CREWXPBOOST_4"
+msgstr "指揮官經驗 +2400%"
+
+msgid "IDS_PCZC511_BD098_TRENTO_DESCRIPTION"
+msgstr "<p>1922 年華盛頓海軍會議對巡洋艦的發展產生了決定性的影響。會議將排水量的最高參數定在 10,000 噸，火炮口徑定在 203 毫米，為全世界巡洋艦的建造設下限制。</p><p class=\\\"p_spacing\\\"> </p><p>在義大利皇家海軍中，按照這些「標準」所建造的第一批巡洋艦為 1928 至 1929 年投入服役的 Trento 和 Trieste。透過一些建造竅門、犧牲和妥協，義大利建造出了具有驚人武裝配備的高速艦艇。然而，這些艦艇的裝甲相對較弱，這是華盛頓條約型巡洋艦的典型缺點。</p>"
+
+msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
+msgstr "<p>人類歷史上第一臺在地外天體表面自主移動的探測車。</p><p class=\"p_spacing\"> </p><p>主要參數：</p><p class=\"p_spacing\"> </p><p>• 質量為 756 公斤；</p><p class=\"p_spacing\"> </p><p>• 展開後長 4.42 公分；</p><p class=\"p_spacing\"> </p><p>• 寬 2.15 公分；</p><p class=\"p_spacing\"> </p><p>• 高 1.92 公分；</p><p class=\"p_spacing\"> </p><p>• 車輪直徑 0.51 公分，輪距 1.6 公分。</p><p class=\"p_spacing\"> </p><p>月球 17 號攜「月球車-1」於 1970 年 11 月 10 日由質子號運載火箭發射，11 月 17 日在月球雨海成功軟著陸。</p><p class=\"p_spacing\"> </p><p>「月球車-1」在月球工作 318 天，行駛 10540 公分，踏勘了約 8 萬平方公里的月表區域；速度可達每小時 2 公里。</p><p class=\"p_spacing\"> </p><p>它向地球傳送了 210 幅全景圖與約 2 萬幀電檢視像，並完成 171 次通訊會話，共執行 24829 條遙控指令。</p><p class=\"p_spacing\"> </p><p>法國製造的雷射角反射器也隨車帶至月球，使地面對其進行雷射測距，誤差僅數公尺。</p><p class=\"p_spacing\"> </p><p>1971 年 9 月 14 日進行最後一次通訊後不再響應。</p><p class=\"p_spacing\"> </p><p>由格奧爾基•巴巴金領導的拉沃奇金科研生產聯合體負責整器研製；</p><p class=\"p_spacing\"> </p><p>底盤由 A.L.克穆德日安在全蘇運輸機械研究院主導設計。</p>"
+
+msgid "IDS_PFSD111_DESCR"
+msgstr "<p>第二次世界大戰期間，維希法國海軍部提出了研發新一代驅逐艦的設想。新一代驅逐艦的專案被統稱為 T-42，後來逐漸發展為一系列名為 E-43 的初步設計。在專案研發過程中，除了其他替代設計，維希海軍部還考慮過將該艦尺寸擴大成輕巡洋艦的替代方案。</p><p class=\"p_spacing\"> </p><p>該艦將配備 120 mm 或 130 mm 火炮，而在不同的初步設計中，炮塔數量從三座到四座不等。最終 E-43 系列設計未能實施、但其進一步發展卻推動了 T-47 專案的問世。</p>"
+
+msgid "IDS_PRSB530"
+msgstr "紅旗"
+
+msgid "IDS_PRSD317_DESCR"
+msgstr "<p>1937 年 8 月初，國防委員會召開會議，決定停止進一步建造 7 型驅逐艦，轉而設計一種基於西班牙戰爭經驗設計的新型驅逐艦。該新型驅逐艦的編號為 30 型，其技戰術要求於 1937 年 11 月正式獲批。設計工作由列寧格勒第 190 造船廠的設計局負責。新型驅逐艦與 48 型驅逐領艦的設計在一定程度上實現了統一化，特別是在火炮配置方面（48 型配備了三座雙聯裝炮塔，而該型驅逐艦則配備了兩座）。</p><p class=\"p_spacing\"> </p><p>縝密號驅逐艦於 1940 年 5 月 5 日在北德文斯克開工建造，1944 年 8 月下水，並於 1947 年 9 月 29 日正式服役，加入北方艦隊。在北方艦隊中，她服役了 11 年。</p>"
+
+msgid "IDS_REWARD_EVENTUM_7_TITLE"
+msgstr "假日代幣"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE"
+msgstr "「維修」貨櫃"
+
+msgid "IDS_REWARD_LOOTBOX_PCL199_SHARDS_TITLE_SHORT"
+msgstr "維修"
+
+msgid "IDS_SHIPCOMPONENT_INFO_DESCRIPTION"
+msgstr "可讓對應的艦艇出現在您的修理船塢中"
+
+msgid "IDS_SHIPCOMPONENT_SHORT_TITLE"
+msgstr "藍圖"
+
+msgid "IDS_SHIPMATERIAL_INFO_DESCRIPTION"
+msgstr "修復對應階級艦艇所需的材料。"
+
+msgid "IDS_SHIPMATERIAL_NONE"
+msgstr "您沒有修復艦艇所需的維修材料。"
+
+msgid "IDS_SHIPMATERIAL_SHORT_TITLE"
+msgstr "維修材料"
+
+msgid "IDS_SHIPSHARDS_PROGRESS_TITLE"
+msgstr "準備維修"
+
+msgid "IDS_SHIPYARD_FINAL_LEVEL_BANNER"
+msgstr "杜皮爾：已完工"
+
+msgid "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
+msgid_plural "IDS_SHIP_PARAM_DRUM_SHOT_DELAY"
+msgstr[0] "第 %(_shotCount)s 組砲彈的裝填時間"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
+msgid_plural "IDS_SHIP_PARAM_TORPEDO_SHOT_DELAY"
+msgstr[0] "%(_shotCount)s 號魚雷的裝填時間"
+
+msgid "IDS_SHIP_SHARDS_INFO_TEXT_1"
+msgstr "這裡將顯示需要維修的艦艇——被修復後將歸您所有！"
+
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
+msgstr "已購買假日代幣"
+
+msgid "IDS_SYS_MSG_BOUGHT_SHIP_COMPONENT"
+msgstr "已購買艦艇藍圖"
+
+msgid "IDS_SYS_MSG_BOUGHT_SHIP_MATERIAL"
+msgstr "已購買維修材料"
+
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
+msgstr "已獲得假日代幣"
+
+msgid "IDS_SYS_MSG_RECEIVED_SHIP_COMPONENT"
+msgstr "已獲得艦艇藍圖"
+
+msgid "IDS_SYS_MSG_RECEIVED_SHIP_MATERIAL"
+msgstr "已獲得維修材料"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
+msgstr "假日代幣已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_COMPONENT"
+msgstr "艦艇藍圖已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_SHIP_MATERIAL"
+msgstr "維修材料已移除"
