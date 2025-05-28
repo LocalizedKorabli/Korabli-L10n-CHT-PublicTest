@@ -113321,7 +113321,7 @@ msgid "IDS_PZSB549"
 msgstr "巨浪"
 
 msgid "IDS_PZSB549_DESCR"
-msgstr "<p>一艘21型主力艦，可能會在1950年代經歷大規模的現代化改造。主炮更換為82型巡洋艦（即斯大林格勒級重巡洋艦）所使用的型號，中口徑火炮與遠端防空炮被替換為130毫米高平兩用炮，而小口徑防空火力則由ZIF-75與4М-120兩種炮塔所組成。</p><p class=\"p_spacing\"> </p><p>該艦可能會作為援助專案的一部分被蘇聯移交給中國，以用於支援中國海軍的發展。</p>"
+msgstr "<p>一艘 21 型主力艦，可能會在 1950 年代經歷大規模的現代化改造。主炮更換為 82 型巡洋艦（即斯大林格勒級重巡洋艦）所使用的型號，中口徑火炮與遠端防空炮被替換為 130 毫米高平兩用炮，而小口徑防空火力則由 ZIF-75 與 4М-120 兩種炮塔所組成。</p><p class=\"p_spacing\"> </p><p>該艦可能會作為援助專案的一部分被蘇聯移交給中國，以用於支援中國海軍的發展。</p>"
 
 msgid "IDS_PZSB549_FULL"
 msgstr "巨浪"
@@ -124401,7 +124401,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
 msgstr "兌換"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
-msgstr "<p>您可以在此用維修材料兌換艦艇藍圖。</p></p><p class=\"p_spacing\"> </p><p>您將不會獲得已擁有艦艇的藍圖。若之前已擁有相同藍圖（但仍未修復），您將得到補償。</p"
+msgstr "<p>您可以在此用維修材料兌換艦艇藍圖。</p></p><p class=\"p_spacing\"> </p><p>您將不會獲得已擁有艦艇的藍圖。若之前已擁有相同藍圖（但仍未修復），您將得到補償。</p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
 msgstr "<p>您可以在此看到可用維修材料兌換的艦艇藍圖的完整清單。</p><p>清單會定期更新，敬請關注！</p>"
