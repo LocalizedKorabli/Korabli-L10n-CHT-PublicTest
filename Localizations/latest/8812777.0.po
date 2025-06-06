@@ -41171,6 +41171,30 @@ msgstr "目標"
 msgid "IDS_NAME41"
 msgstr "目標"
 
+msgid "IDS_NAME410"
+msgstr "目標"
+
+msgid "IDS_NAME411"
+msgstr "目標"
+
+msgid "IDS_NAME412"
+msgstr "目標"
+
+msgid "IDS_NAME413"
+msgstr "目標"
+
+msgid "IDS_NAME414"
+msgstr "目標"
+
+msgid "IDS_NAME415"
+msgstr "目標"
+
+msgid "IDS_NAME416"
+msgstr "目標"
+
+msgid "IDS_NAME417"
+msgstr "目標"
+
 msgid "IDS_NAME42"
 msgstr "目標"
 
@@ -50975,13 +50999,13 @@ msgid "IDS_PASC610_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASC620"
-msgstr "切薩皮克"
+msgstr "乞沙比克"
 
 msgid "IDS_PASC620_DESCR"
 msgstr "造船局於 1941 年 10 月 18 日提出的防空巡洋艦設計的假想發展。 該改型包括用三聯裝火炮取代兩聯裝 152 mm通用炮架。"
 
 msgid "IDS_PASC620_FULL"
-msgstr "切薩皮克"
+msgstr "乞沙比克"
 
 msgid "IDS_PASC620_NUMBER"
 msgstr "1"
@@ -53763,7 +53787,7 @@ msgid "IDS_PAUH919_N_HAMPSHIRE"
 msgstr "新罕布夏"
 
 msgid "IDS_PAUH920_HULL_CHESAPEAKE"
-msgstr "切薩皮克"
+msgstr "乞沙比克"
 
 msgid "IDS_PAUH921_WORCHESTER_1948"
 msgstr "Worcester"
@@ -64827,10 +64851,10 @@ msgid "IDS_PCEE677_PFALZ_FLAG_DESCRIPTION"
 msgstr "普法爾茨選帝侯國的國旗結合了統治普法爾茨的兩個王朝霍亨斯陶芬家族和維特爾斯巴赫家族的家族標誌。霍亨斯陶芬家族的祖先標誌 — 獅子 — 成為了普法爾茨的標誌，而維特爾斯巴赫王朝則與國旗上藍白菱形圖案的出現有關，該圖案後來成為了巴伐利亞的標誌。"
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG"
-msgstr "USS切薩皮克"
+msgstr "USS乞沙比克"
 
 msgid "IDS_PCEE678_CHESAPEAKE_FLAG_DESCRIPTION"
-msgstr "1781 年，切薩皮克灣發生了一場決定美國獨立戰爭命運的海戰。將近一年後，美國曆史上第一個軍事獎項 — 軍功章誕生，以表彰在戰鬥中表現突出的大陸軍士兵。"
+msgstr "1781 年，乞沙比克灣發生了一場決定美國獨立戰爭命運的海戰。將近一年後，美國曆史上第一個軍事獎項 — 軍功章誕生，以表彰在戰鬥中表現突出的大陸軍士兵。"
 
 msgid "IDS_PCEE679_ANDALUCIA_COLORFUL_FLAG"
 msgstr "安達盧西亞CLR"
@@ -113321,7 +113345,7 @@ msgid "IDS_PZSB549"
 msgstr "巨浪"
 
 msgid "IDS_PZSB549_DESCR"
-msgstr "<p>一艘21型主力艦，可能會在1950年代經歷大規模的現代化改造。主炮更換為82型巡洋艦（即斯大林格勒級重巡洋艦）所使用的型號，中口徑火炮與遠端防空炮被替換為130毫米高平兩用炮，而小口徑防空火力則由ZIF-75與4М-120兩種炮塔所組成。</p><p class=\"p_spacing\"> </p><p>該艦可能會作為援助專案的一部分被蘇聯移交給中國，以用於支援中國海軍的發展。</p>"
+msgstr "<p>一艘 21 型主力艦，可能會在 1950 年代經歷大規模的現代化改造。主炮更換為 82 型巡洋艦（即斯大林格勒級重巡洋艦）所使用的型號，中口徑火炮與遠端防空炮被替換為 130 毫米高平兩用炮，而小口徑防空火力則由 ZIF-75 與 4М-120 兩種炮塔所組成。</p><p class=\"p_spacing\"> </p><p>該艦可能會作為援助專案的一部分被蘇聯移交給中國，以用於支援中國海軍的發展。</p>"
 
 msgid "IDS_PZSB549_FULL"
 msgstr "巨浪"
@@ -122909,12 +122933,6 @@ msgstr "一般戰鬥 — 聯合作戰"
 msgid "IDS_SCENARIO_DOMINATION_2POINT_COOPPOINT"
 msgstr "一般戰鬥 — 聯合作戰"
 
-msgid "IDS_SCENARIO_DOMINATION_2POINT_COOP_TEMP"
-msgstr "一般 — 聯合戰鬥"
-
-msgid "IDS_SCENARIO_DOMINATION_2POINT_TEMP"
-msgstr "一般"
-
 msgid "IDS_SCENARIO_DOMINATION_2_BASES_SECOND"
 msgstr "一般戰鬥──第二次"
 
@@ -122930,17 +122948,11 @@ msgstr "激鬥。制海權"
 msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP"
 msgstr "制海權 — 聯合作戰"
 
-msgid "IDS_SCENARIO_DOMINATION_3POINT_COOP_TEMP"
-msgstr "制海權 — 聯合戰鬥"
-
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED"
 msgstr "制海權。替代模式"
 
 msgid "IDS_SCENARIO_DOMINATION_3POINT_REVISED_COOP"
 msgstr "制海權 — 聯合作戰 — 替代模式"
-
-msgid "IDS_SCENARIO_DOMINATION_3POINT_TEMP"
-msgstr "制海權"
 
 msgid "IDS_SCENARIO_DOMINATION_3_BASES"
 msgstr "制海權 — 3 個關鍵地區"
@@ -122951,17 +122963,11 @@ msgstr "制海權 — 4 個關鍵地區"
 msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP"
 msgstr "制海權 — 4 個關鍵地區 — 聯合作戰"
 
-msgid "IDS_SCENARIO_DOMINATION_4POINT_COOP_TEMP"
-msgstr "制海權 — 四區域 — 聯合戰鬥"
-
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB"
 msgstr "制海權 — 4 個關鍵地區 — 替代模式"
 
 msgid "IDS_SCENARIO_DOMINATION_4POINT_ROMB_COOP"
 msgstr "制海權 — 聯合作戰 — 4 個關鍵地區 — 替代模式"
-
-msgid "IDS_SCENARIO_DOMINATION_4POINT_TEMP"
-msgstr "制海權 — 四區域"
 
 msgid "IDS_SCENARIO_DOMINATION_4_BASES"
 msgstr "制海權 — 4 個關鍵地區"
@@ -124401,7 +124407,7 @@ msgid "IDS_SHIP_COMPONENTS_EXCHANGE_BUTTON_TEXT"
 msgstr "兌換"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_DESCRIPTION"
-msgstr "<p>您可以在此用維修材料兌換艦艇藍圖。</p></p><p class=\"p_spacing\"> </p><p>您將不會獲得已擁有艦艇的藍圖。若之前已擁有相同藍圖（但仍未修復），您將得到補償。</p"
+msgstr "<p>您可以在此用維修材料兌換艦艇藍圖。</p></p><p class=\"p_spacing\"> </p><p>您將不會獲得已擁有艦艇的藍圖。若之前已擁有相同藍圖（但仍未修復），您將得到補償。</p>"
 
 msgid "IDS_SHIP_COMPONENTS_EXCHANGE_EMPTY_LIST"
 msgstr "<p>您可以在此看到可用維修材料兌換的艦艇藍圖的完整清單。</p><p>清單會定期更新，敬請關注！</p>"
@@ -134254,7 +134260,7 @@ msgid "IDS_TIPS_ARMAMENT_SS"
 msgstr "炮射煙霧彈"
 
 msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
-msgstr "<p>按下 [CMD_AMMO_SLOT_1] 可選定炮射煙霧彈。</p>"
+msgstr "<p>按下 [CMD_AMMO_SLOT_1] 可選定炮射煙霧彈。</p><p class=\"p_spacing\"> </p><p>在砲彈爆炸區域製造煙幕。</p><p class=\"p_spacing\"> </p><p>煙幕可降低您的艦艇或友軍艦艇被敵人發現的可能性。</p>"
 
 msgid "IDS_TIPS_ARMSRACE"
 msgstr "增益效果"
@@ -134281,7 +134287,7 @@ msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE"
 msgstr "只能使用連發射擊模式"
 
 msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_NOT_SWITCHABLE_DESCRIPTION"
-msgstr "<p>您艦艇的主炮只能使用「連發射擊」模式。</p>"
+msgstr "<p>您艦艇的主炮只能使用「連發射擊」模式。</p><p class=\"p_spacing\"> </p><p>您可以在短時間內進行多次射擊，但射擊完畢後的裝填時間較長。</p>"
 
 msgid "IDS_TIPS_ASW_DEPTH_CHARGES"
 msgstr "投放深水炸彈"
@@ -136632,11 +136638,23 @@ msgstr "同隊友一起用魚雷造成傷害"
 msgid "IDS_TRIAL_MANEUVER_FULL_DESCRIPTION_5"
 msgstr "佔領關鍵地區並用魚雷造成傷害"
 
+msgid "IDS_TRIAL_MAN_TEXT_ALLIES_DAMAGE_POINTS_SUBTRACTING_SCORE_VAR_3"
+msgstr "如果隊友對敵艦造成傷害，您將獲得積分。如果您的艦艇被敵艦命中，將損失積分。"
+
+msgid "IDS_TRIAL_MAN_TEXT_CAPTURING_AREA_R3_02"
+msgstr "佔領關鍵地區能為您帶來更多積分"
+
+msgid "IDS_TRIAL_MAN_TEXT_FORSAJ_R2_19"
+msgstr "啟用「引擎增壓」消耗品以更靈活地躲避敵艦的攻擊"
+
 msgid "IDS_TRIAL_MAN_TEXT_GUP"
-msgstr "使用「水底搜索」消耗品來偵測魚雷！"
+msgstr "啟用「水底搜索」消耗品來偵測魚雷！"
 
 msgid "IDS_TRIAL_MAN_TEXT_ISLANDS"
 msgstr "用島嶼來掩護自己不被發現或集火"
+
+msgid "IDS_TRIAL_MAN_TEXT_KEY_X_R1_13"
+msgstr "對準敵艦，按 [KEY_X] 鎖定目標。向白色扇面標記的方向發射魚雷。"
 
 msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_1"
 msgstr "如果敵人位於您的被偵測範圍內，您將被發現並被集火"
@@ -136645,13 +136663,16 @@ msgid "IDS_TRIAL_MAN_TEXT_RADIUS_VISIBILITY_2"
 msgstr "注意！敵艦位於您的被偵測範圍內！"
 
 msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_1"
-msgstr "位於煙幕中時，您的被偵測範圍會縮小"
+msgstr "位於煙幕中時，您的被偵測範圍會縮小至 2 公里"
 
 msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_2"
 msgstr "使用發煙機消耗品以防止您被敵艦發現"
 
 msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_3"
 msgstr "使用發煙機消耗品來掩護隊友"
+
+msgid "IDS_TRIAL_MAN_TEXT_SMOKE_GENERATOR_GUP_R3_20"
+msgstr "啟用「水底搜索」消耗品來偵測處於煙幕中的敵艦"
 
 msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_1"
 msgstr "盡量用魚雷造成傷害"
@@ -136663,7 +136684,7 @@ msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_3"
 msgstr "在不被發現的情況下盡量用魚雷造成傷害"
 
 msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_4"
-msgstr "同隊友一起盡量用魚雷造成傷害"
+msgstr "掩護隊友，在不被發現的情況下盡量用魚雷造成傷害"
 
 msgid "IDS_TRIAL_MAN_TEXT_START_ROUND_5"
 msgstr "佔領關鍵地區並盡量用魚雷造成傷害"
@@ -136673,6 +136694,15 @@ msgstr "您被敵艦擊中時會損失積分"
 
 msgid "IDS_TRIAL_MAN_TEXT_SUBTRACTING_SCORE_2"
 msgstr "您的艦艇被敵方魚雷擊中，損失了一些積分。躲避魚雷！"
+
+msgid "IDS_TRIAL_MAN_TEXT_TORPEDO_FAN_R1_09"
+msgstr "按 [KEY_3] 改變魚雷發射扇面的寬度"
+
+msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_5_7_R2_03"
+msgstr "您艦艇的被偵測範圍為 5.7 公里，切勿讓敵艦進入該範圍內！"
+
+msgid "IDS_TRIAL_MAN_TEXT_VISIBILITY_MAIN_GK_R2_09"
+msgstr "用主炮開火會讓您的被偵測範圍擴大，用魚雷則可以避免這一點！"
 
 msgid "IDS_TRIAL_PRIME_SPEECH_012"
 msgstr "活學活用，盡量摧毀敵艦！"
