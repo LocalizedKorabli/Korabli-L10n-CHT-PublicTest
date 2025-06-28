@@ -65317,7 +65317,7 @@ msgid "IDS_PCEE753_IMPERO_FLAG_DESCRIPTION"
 msgstr "義大利殖民帝國——即義大利在19至20世紀期間擁有的海外領土集合——被一些政治家描繪為復興的羅馬帝國。羅馬軍團曾使用一種特殊的旗幟標準「signum」，其頂端裝飾著被稱為「manus」的標誌——舉起手掌的手勢，象徵著軍團士兵效忠的誓言。"
 
 msgid "IDS_PCEE754_I_2_FLAG"
-msgstr "I-2"
+msgstr "伊2"
 
 msgid "IDS_PCEE754_I_2_FLAG_DESCRIPTION"
 msgstr "日本海軍設有海軍航空飛行員資格徽章。最高級別的徽章上飾有一朵菊花、一個錨和一個飛機螺旋槳。舊日本帝國海軍飛行員不僅在航空母艦上服役，還在搭載飛機的潛艇上服役。"
@@ -65329,10 +65329,10 @@ msgid "IDS_PCEE755_JULANG_FLAG_DESCRIPTION"
 msgstr "「巨浪」（中文意為「巨大的海浪」）是中國人民解放軍海軍彈道導彈潛艇裝備潛射彈道導彈家族的名稱。中國人民解放軍海軍的徽章以海浪為背景，中央飾有銀色船錨與五角星組合圖案。"
 
 msgid "IDS_PCEE756_CHIKUGO_FLAG"
-msgstr "筑後"
+msgstr "築後"
 
 msgid "IDS_PCEE756_CHIKUGO_FLAG_DESCRIPTION"
-msgstr "筑後川——發源於阿蘇山並注入有明海的河流，其主幹道的大部分流經古代筑後國境內。在日本戰國時代及江戶幕府時期，這片區域由掌控九州北部勢力的肥前有馬氏藩主統轄。"
+msgstr "築後川——發源於阿蘇山並注入有明海的河流，其主幹道的大部分流經古代築後國境內。在日本戰國時代及江戶幕府時期，這片區域由掌控九州北部勢力的肥前有馬氏藩主統轄。"
 
 msgid "IDS_PCEE757_LAZIO_FLAG"
 msgstr "RN拉齊奧"
@@ -91473,13 +91473,13 @@ msgid "IDS_PJSC530_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSC540"
-msgstr "筑後"
+msgstr "築後"
 
 msgid "IDS_PJSC540_DESCR"
 msgstr "<p>1941 年，日本通過了一項海軍擴充計劃，計劃內包括了建造4艘專門為驅逐艦隊提供對空火力支援的小型巡洋艦。而這些被稱為「815 專案」的艦艇擁有 5800 噸的標準排水量，設計作為秋月級驅逐艦的領艦。</p><p class=\"p_spacing\"> </p><p>除專用防空巡洋艦的方案外，日本海軍還曾考慮將正在建造的大淀級巡洋艦進行改裝，或基於其艦體建造新型艦艇。按照設計，每艘巡洋艦將計劃配備 12 座雙聯裝 100 毫米/ 65 倍徑高平兩用炮，其火力足以和三艘秋月級驅逐艦相媲美。其中，處於艦體中軸線上的火炮將計劃被安置於封閉式炮塔內，而位於舷側的炮塔則使用半開放式設計。</p>"
 
 msgid "IDS_PJSC540_FULL"
-msgstr "筑後"
+msgstr "築後"
 
 msgid "IDS_PJSC540_NUMBER"
 msgstr "1"
@@ -92413,13 +92413,13 @@ msgid "IDS_PJSS518_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSS520"
-msgstr "I-2"
+msgstr "伊2"
 
 msgid "IDS_PJSS520_DESCR"
 msgstr "<p>在甲型改二潛艇的改進型——改甲型航空潛艇中，誕生了兩種不同的設計。其中，第二種設計是前一種設計的進一步發展，計劃使潛艇搭載兩架攻擊機（而非偵察機）。</p><p class=\"p_spacing\"> </p><p>該級潛艇原設想用於攻擊巴拿馬運河的船閘。圓筒形機庫被安置在艦體的一側，形成了獨特的非對稱外觀。該級原本計劃建造4艘潛艇，但由於日本海軍戰時將重心轉移至航空母艦，所以她們最終未能開工。</p>"
 
 msgid "IDS_PJSS520_FULL"
-msgstr "I-2"
+msgstr "伊2"
 
 msgid "IDS_PJSS520_NUMBER"
 msgstr "1"
@@ -94569,10 +94569,10 @@ msgid "IDS_PJUH918_HULL_CLR_YAMATO"
 msgstr "大和CLR"
 
 msgid "IDS_PJUH919_HULL_I2"
-msgstr "I-2"
+msgstr "伊2"
 
 msgid "IDS_PJUH920_HULL_CHIKUGO"
-msgstr "筑後"
+msgstr "築後"
 
 msgid "IDS_PJUH921_TENGU_1944"
 msgstr "Zaō"
