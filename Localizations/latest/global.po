@@ -5122,7 +5122,7 @@ msgid "IDS_AMMUNITION_RECHARGE"
 msgstr "彈藥補充："
 
 msgid "IDS_AND"
-msgstr "與"
+msgstr "&"
 
 msgid "IDS_ANDROID_TM4"
 msgstr "CM-10A"
@@ -138305,7 +138305,7 @@ msgid "IDS_UNLOCKS_23"
 msgstr "出售任何不需要的庫存物品。"
 
 msgid "IDS_UNLOCKS_24"
-msgstr "與其他玩家一起對抗電腦玩家，並完成劇情任務。"
+msgstr "與其他玩家一起對抗機器人，並完成劇情任務。"
 
 msgid "IDS_UNLOCKS_2827"
 msgstr "加入公會，團結一致。"
@@ -138317,7 +138317,7 @@ msgid "IDS_UNLOCKS_301600"
 msgstr "與其他玩家一決高下，在聯賽中晉級並獲得珍貴獎勵！"
 
 msgid "IDS_UNLOCKS_31292101"
-msgstr "與其他玩家合作對戰電腦玩家。"
+msgstr "與其他玩家合作對戰機器人。"
 
 msgid "IDS_UNLOCKS_5"
 msgstr "現在研發艦艇變得更加簡單了。使用自由經驗點數可以研發任意艦艇或配件。"
@@ -138359,7 +138359,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_23"
 msgstr "<p>出售不使用的配件、升級品和其他物品來獲取銀幣。</p><p class=\"p_spacing\"> </p><p>倉庫畫面只能透過玩家選單進入。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_24"
-msgstr "<p>在「行動」中，您的隊伍必須在與電腦玩家戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要工作即可獲得勝利。完成次要工作將獲得更多資源。</p><p class=\"p_spacing\"> </p><p>行動的難度取決於隊伍中艦艇的型別和等級。</p><p class=\"p_spacing\"> </p><p>可見於戰鬥類型選擇畫面。</p>"
+msgstr "<p>在「行動」中，您的隊伍必須在與機器人戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要工作即可獲得勝利。完成次要工作將獲得更多資源。</p><p class=\"p_spacing\"> </p><p>行動的難度取決於隊伍中艦艇的型別和等級。</p><p class=\"p_spacing\"> </p><p>可見於戰鬥類型選擇畫面。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>加入軍團，以參加軍團戰。</p><p class=\"p_spacing\"> </p><p>軍團戰僅在軍團戰賽季期間開放。</p><p class=\"p_spacing\"> </p><p>在軍團戰中取得勝利，獲取評級點數以晉升更高階的聯賽。</p><p class=\"p_spacing\"> </p><p>獲取石油並擴建海軍基地中的建築，可提供永久經濟加成。</p><p class=\"p_spacing\"> </p><p>建立訓練房間參與戰鬥訓練，可磨練隊伍配合能力。</p><p class=\"p_spacing\"> </p><p>軍團戰和戰鬥訓練可透過戰鬥類型選擇畫面進入。</p>"
@@ -138371,7 +138371,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>以下戰鬥類型僅在對應賽季期間開放。每個賽季都是一場競技，每場戰鬥的結果都會影響您的排名進度。達到的排名越高，獎勵越豐厚！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">排名戰鬥</p><p class=\"p_spacing\"> </p><p>在排名戰鬥中，您需要與其他玩家爭奪排名。想要提升排名，您需要在一定數量的戰鬥中取得勝利，而失敗則可能導致降級！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">評級戰鬥</p><p class=\"p_spacing\"> </p><p>評級戰鬥中，敵我雙方會根據戰鬥效率評級匹配。戰鬥結束後，您的評級將根據戰鬥結果與獲得的基本經驗值進行調整。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
-msgstr "<p>與其他玩家合作對戰電腦玩家。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
+msgstr "<p>與其他玩家合作對戰機器人。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5"
 msgstr "<p>若您沒有足夠的艦艇經驗去研發艦艇或配件，可以使用自由經驗。</p><p class=\"p_spacing\"> </p><p>每場戰鬥您會額外獲得相當於每場經驗10%的自由經驗（應用加成前）。</p><p class=\"p_spacing\"> </p><p>您可以將精英艦艇和加值艦艇獲得的經驗轉換為自由經驗。</p><p class=\"p_spacing\"> </p><p>自由經驗顯示在港口畫面右上角。</p>"
