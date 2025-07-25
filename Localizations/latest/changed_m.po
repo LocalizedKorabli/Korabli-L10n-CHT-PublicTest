@@ -4,345 +4,125 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
-"Language: zh_TW\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.6\n"
 
-msgid "IDS_BURN_CHANCE_BONUS_CHANGED"
-msgstr "引發火災的機率已提高"
+msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
+msgstr "您可以獲得夏季代幣"
 
-msgid "IDS_BURN_CHANCE_FACTOR_BIG_CHANGED"
-msgstr "引發火災的機率已提高"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "為我方偵察機提供掩護！"
 
-msgid "IDS_BY_EXPERIENCE"
-msgstr "基本經驗"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "為我方偵察機提供掩護！"
 
-msgid "IDS_CONTEXT_BATTLE_AGAINST_SUBMARINE_HINT"
-msgstr "發現水下的潛水艇後，使用深水炸彈"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT"
+msgstr "為我方偵察機提供掩護！"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_PLAYER_SUBMARINE_HINT"
-msgstr "潛水艇被聲納音波命中！您可能成為敵方潛水艇魚雷的目標。"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "為我方偵察機提供掩護！"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_RESET_HINT"
-msgstr "使用損害管制小組消耗品來阻止敵方潛水艇發射的魚雷進行制導"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "注意敵方偵察機！"
 
-msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_US_HINT"
-msgstr "艦艇被聲納音波命中！您可能成為敵方潛水艇魚雷的目標。"
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_SCOUT"
+msgstr "注意敵方偵察機！"
 
-msgid "IDS_CONTEXT_OIL_LEAK_PENDING_HINT"
-msgstr "燃油系統受損。位於水下的潛水艇將在水面上留下明顯的油跡"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "我方偵察機！"
 
-msgid "IDS_CONTEXT_PINGER_GUN_HOW_TO"
-msgstr "使用聲納音波命中敵艦以將其設定為魚雷的目標"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "我方偵察機！"
 
-msgid "IDS_CONTEXT_PINGER_GUN_TORPEDOES_SHOT"
-msgstr "被聲納音波標記的艦艇將成為您之後發射魚雷的目標"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT"
+msgstr "我方偵察機！"
 
-msgid "IDS_CONTEXT_SUBMARINE_MULTIPLE_TARGETS_HINT"
-msgstr "想要同時攻擊多個目標，使用聲納音波命中不同艦艇併發射魚雷。"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "我方偵察機！"
 
-msgid "IDS_CONTEXT_SUBMARINE_SELECT_ACTIVE_WAVE_HIT"
-msgstr "用聲納音波標記另一艘艦艇，下一枚魚雷將以它為目標"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "敵方偵察機！"
 
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
-msgstr "位於潛望深度時：不消耗下潛能力，並會持續進行被動聲納定位；但航速降低，對艦艇的偵察範圍縮小"
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_SCOUT"
+msgstr "敵方偵察機！"
 
-msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
-msgstr "位於工作深度時：航速較高，並會持續進行被動聲納定位；但對艦艇的偵察範圍大幅縮小"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
+msgstr "我方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "海軍代幣"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
+msgstr "我方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "透過在 25.7 版本的有限時間內完成作戰任務，以及在 25.7 版本結束前從軍械庫的禮包中獲得。"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT"
+msgstr "我方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "用於在 25.7 版本結束前兌換 IX 階巡洋艦謝爾巴科夫和 VIII 階巡洋艦德米特里•波扎爾斯基，謝爾巴科夫和 X 階戰列艦紅旗的永久迷彩「輝煌」，「海洋盛典」加值貨櫃以及其他資源。"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
+msgstr "我方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "臨時資源。25.8 版本釋出後，代幣將被無償收回。"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
+msgstr "敵方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "法國代幣"
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_SCOUT"
+msgstr "敵方偵察機！"
 
-msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "透過在 25.7 版本結束前完成作戰任務、達到戰鬥通行證等級，以及在 25.8 版本結束前從軍械庫的禮包中獲得。"
+msgid "IDS_CURRENCY_EVENTUM_2"
+msgstr "夏季代幣"
 
-msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用於在 25.8 版本結束前兌換包含以下內容的連續禮包鏈：VIII 階潛水艇非洲女郎，X 階潛水艇卡薩比安卡，VI 階潛水艇黛安和非洲女郎的永久加成包，非洲女郎和卡薩比安卡的永久迷彩，以及其他資源。"
+msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
+msgstr "透過在 25.8 版本結束前完成作戰任務，達到戰鬥通行證等級，以及從軍械庫的禮包中獲得。"
 
-msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "「法國潛水艇」活動的臨時資源。25.9 版本釋出後，代幣將被無償收回。"
+msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
+msgstr "可用於在軍械庫中兌換包含以下物品的隨機禮包：超級航空母艦烏里揚諾夫斯克、超級驅逐艦羅伯斯庇爾、IX 階主力艦貝爾納多特及其永久塗裝「去南方！」、「VIII 階加值艦艇」精英貨櫃以及其他資源；還可用於兌換 VII 階主力艦西弗吉尼亞'44，「艦隊寶庫」加值貨櫃，以及其他資源。"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE"
-msgstr "<p>用深水炸彈對標記區域進行空中轟炸。</p><p class=\"p_spacing\"> </p><p>深水炸彈將在水中停留一段時間，於潛水艇或其他目標附近引爆。有機率癱瘓配件，引發火災、進水。較容易癱瘓敵方潛水艇的聲納。可拆毀魚雷與水雷，並對水面艦艇造成輕微傷害。</p>"
+msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
+msgstr "「南下度假去！」活動的臨時資源。25.9 版本釋出後，代幣將被無償收回。"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE_AUTO"
-msgstr "<p>若潛水艇暴露位置，將自動對潛在的潛水艇位置空投深水炸彈。</p><p class=\"p_spacing\"> </p><p>深水炸彈將在水中停留一段時間，於潛水艇或其他目標附近引爆。有機率癱瘓配件，引發火災、進水。較容易癱瘓敵方潛水艇的聲納。可拆毀魚雷與水雷，並對水面艦艇造成輕微傷害。</p>"
+msgid "IDS_DOGTAG_PCNU064_NAME"
+msgstr "入門 Modder"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE"
-msgstr "<p>於水中停留一段時間後，在潛水艇或其他目標附近引爆。</p><p class=\"p_spacing\"> </p><p>有機率癱瘓配件，引發火災、進水。較容易癱瘓敵方潛水艇的聲納。</p><p class=\"p_spacing\"> </p><p>可拆毀魚雷與水雷，並對水面艦艇造成輕微傷害。</p>"
+msgid "IDS_FIGHTER_AIRSUP"
+msgstr "空襲：戰鬥機"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
-msgstr "<p>聲納音波會在命中目標時標記所觸區域。聲納制導魚雷將被導向此處。</p><p class=\"p_spacing\"> </p><p>再次命中高亮區域可延長效果時間並提高聲納制導魚雷的機動性。</p><p class=\"p_spacing\"> </p><p>發射出的魚雷將被導向優先目標，即最近一次高亮的艦體區域。</p>"
+msgid "IDS_PRGM009_130MM_B_13"
+msgstr "130 mm/50 Model 1936（B-13-Ic 炮座）"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_SS"
-msgstr "<p>在炮彈爆炸區域製造煙幕。煙幕可降低被敵人發現的可能性。</p><p class=\"p_spacing\"> </p><p>這類炮彈<b>不會</b>造成傷害。</p>"
+msgid "IDS_PRUA411_130_50_B13"
+msgstr "130 mm/50 Model 1936（B-13-Ic 炮座）"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT"
-msgstr "<p>聲納制導魚雷能夠造成可觀的傷害，並有一定機率造成進水。</p><p class=\"p_spacing\"> </p><p>每枚魚雷發射前需向敵艦發射聲納音波進行制導，聲納與魚雷發射管將自動切換。</p><p class=\"p_spacing\"> </p><p>對高機動性及輕型裝甲目標尤為有效。</p>"
+msgid "IDS_PRUA421_D5_ART_STOCK"
+msgstr "130 mm/50 Model 1936（B-13-Ic 炮座）"
 
-msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "<p>聲納制導魚雷能夠造成可觀的傷害，並有一定機率造成進水。</p><p class=\"p_spacing\"> </p><p>每枚魚雷發射前需向敵艦發射聲納音波進行制導，聲納與魚雷發射管將自動切換。</p><p class=\"p_spacing\"> </p><p>對高機動性及輕型裝甲目標尤為有效。</p>"
+msgid "IDS_PRUA522_D6_ART_STOCK_2"
+msgstr "130 mm/50 Model 1936（B-13-Ic 炮座）"
 
-msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_SUBDEFAULT_IMPROVE"
-msgstr "聲納制導魚雷"
+msgid "IDS_PRUA612_D7_ART_STOCK_2"
+msgstr "130 mm/50 Model 1936（B-13-Ic 炮座）"
 
-msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
-msgstr "<p>可偵測位於潛望深度或水面的潛水艇和水面艦艇，以及魚雷、水雷和深水炸彈（包括位於煙幕區域內的目標）。</p><p class=\"p_spacing\"> </p><p>可顯示位於工作深度潛水艇的粗略位置。</p>"
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_0"
+msgstr "各級聯賽的晉級獎勵每個賽季只能獲得一次。"
 
-msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY020_RLSSEARCHPREMIUM"
-msgstr "偵測水面上的潛水艇和艦艇（包括位於煙幕區域內的目標）。"
+msgid "IDS_RATING_BATTLES_LEAGUE_TOOLTIP_TEXT_1"
+msgstr "對於單個賽季，每種資源作為勝場獎勵時都有其獲取上限。"
 
-msgid "IDS_DOCK_RAGE_MODE_TITLE_TANKING_BOOST"
-msgstr "即時反制敵襲"
+msgid "IDS_RATING_BATTLES_STATS_VICTORIES"
+msgstr "勝率"
 
-msgid "IDS_GUIDING_TIP_123_DESC"
-msgstr "選擇一種新的戰鬥類型，檢驗您的實力！"
+msgid "IDS_REWARD_EVENTUM_2_TITLE"
+msgstr "夏季代幣"
 
-msgid "IDS_GUIDING_TIP_123_HEADER"
-msgstr "新戰鬥類型"
+msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
+msgstr "已購買夏季代幣"
 
-msgid "IDS_GUIDING_TIP_124_DESC"
-msgstr "透過與其他玩家一決高下，晉升到更高級別的聯賽。聯賽級別越高，獎勵越有價值！"
+msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
+msgstr "已獲得夏季代幣"
 
-msgid "IDS_GUIDING_TIP_124_HEADER"
-msgstr "新戰鬥類型"
+msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
+msgstr "夏季代幣已移除"
 
-msgid "IDS_GUIDING_TIP_58_DESC"
-msgstr "選擇一種新的戰鬥類型，檢驗您的實力！"
-
-msgid "IDS_GUIDING_TIP_58_HEADER"
-msgstr "新戰鬥類型"
-
-msgid "IDS_GUIDING_TIP_59_DESC"
-msgstr "透過與其他玩家一決高下，晉升到更高級別的聯賽。聯賽級別越高，獎勵越有價值！"
-
-msgid "IDS_GUIDING_TIP_59_HEADER"
-msgstr "新戰鬥類型"
-
-msgid "IDS_HELP_PECULIARITIES_AIRCARRIER_3_DESC_0"
-msgstr "大多數航空母艦都裝備副炮和會在必要時自動啟用的消耗品。"
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_0"
-msgstr "發射每一枚聲納制導魚雷前，都需要用聲納音波標記目標。聲納與魚雷發射管將自動切換。"
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_1_DESC_1"
-msgstr "使用聲納會暴露潛水艇的粗略位置和航向。"
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
-msgstr "位於潛望深度和工作深度時，潛水艇可以看到敵艦的粗略位置。"
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
-msgstr "位於最大深度時，潛水艇幾乎不會被敵人發現，但自身也無法偵測艦艇或使用消耗品。"
-
-msgid "IDS_HELP_PECULIARITIES_SUBMARINE_3_DESC_0"
-msgstr "潛水艇可以在下潛能力耗盡前保持下潛狀態。在水面時下潛能力會恢復。"
-
-msgid "IDS_MINIMAP_OPTIONS_HYDROPHONERANGEENABLED"
-msgstr "被動聲納作用範圍"
-
-msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "隊伍最大規模取決於對局等級："
-
-msgid "IDS_MODAL_WINDOW_PCVE029_BATTLE_RULES_HEADER"
-msgstr "潛水艇"
-
-msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_1"
-msgstr "隊伍最大規模取決於對局等級："
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_HEADER"
-msgstr "聲納制導魚雷"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_1"
-msgstr "會被導向被聲納音波標記的艦艇"
-
-msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_2"
-msgstr "使用聲納制導魚雷時，聲納與魚雷發射管將自動切換。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_3_PARAGRAPH_3_TEXT_1"
-msgstr "會在水中停留一段時間。可對潛水艇造成傷害，拆毀魚雷和水雷。對水面目標造成輕微傷害。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_HEADER"
-msgstr "魚雷制導"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_1_PARAGRAPH_1_TEXT_1"
-msgstr "每發射一枚聲納制導魚雷前，都需要用聲納音波標記目標。能夠同時制導同一個目標的最大魚雷數量取決於該目標的艦艇型別。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_2_PARAGRAPH_2_TEXT_1"
-msgstr "位於最大深度時，潛水艇幾乎不會被敵人發現，但自身也無法偵測艦艇或使用消耗品。"
-
-msgid "IDS_MODAL_WINDOW_SUBS_IMPROVE_EVENT_FOR_SUB_3_PARAGRAPH_3_TEXT_1"
-msgstr "會在水中停留一段時間。可對潛水艇造成傷害，拆毀魚雷和水雷。對水面目標造成輕微傷害。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
-msgstr "在排名戰鬥或評級戰鬥中獲得一次勝利。每種戰鬥類型都僅在對應賽季期間開放。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
-msgstr "在排名戰鬥或評級戰鬥中獲勝"
-
-msgid "IDS_PARAMS_MODIFIER_NOTAVAILABLE_PERISCOPESTATE"
-msgstr "位於水下時無法使用"
-
-msgid "IDS_PARAMS_MODIFIER_SPEEDCOEFBATTERY"
-msgstr "位於水面時的航速"
-
-msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
-msgstr ""
-"顯示位於工作深度下\n"
-"潛水艇的粗略位置"
-
-msgid "IDS_RAGE_MODE_DESCRIPTION_TANKING_AUTO"
-msgstr "當您在 15 秒內承受了來自 3 艘敵艦的潛在傷害時，會自動啟用。"
-
-msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "海軍代幣"
-
-msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "法國代幣"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "X 階特殊艦艇"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "X 階"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "VIII–IX 階加值艦艇"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "VIII–IX 階"
-
-msgid "IDS_RIBBON_DESCRIPTION_RIBBON_DBOMB"
-msgstr "用深水炸彈命中敵方潛水艇或艦艇。"
-
-msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "使用聲納音波標記敵方艦艇以幫助魚雷制導。"
-
-msgid "IDS_RIBBON_SSE_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "標記"
-
-msgid "IDS_RIBBON_SUBRIBBON_ACOUSTIC_HIT_VEHICLE_NEW"
-msgstr "標記"
-
-msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
-msgstr "顯示水下地形以及艦艇和潛水艇（不包括位於最大深度的潛水艇）的粗略位置。在潛水艇位於潛望深度和工作深度時運作。"
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION"
-msgstr "音波效果持續時間"
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION_FIRST"
-msgstr "音波效果持續時間"
-
-msgid "IDS_SKILL_DESC_SUBMARINE_DANGER_ALERT"
-msgstr ""
-"當您在未被發現的情況下進入敵方已啟用的水底搜索或監視雷達消耗品的作用範圍時，將會顯示指示器。\n"
-"若您在指示器顯示時改變下潛深度，則有可能會被發現。"
-
-msgid "IDS_SKILL_SUBMARINE_BATTERY_BURN_DOWN_TRIGGER_DESC"
-msgstr "若潛水艇剩餘的下潛能力低於最大下潛能力的 10%，提高位於水面上時下潛能力的恢復速率。"
-
-msgid "IDS_SKILL_SUBMARINE_SPEED_TRIGGER_DESC"
-msgstr "若潛水艇剩餘的下潛能力低於最大下潛能力的 10%，提高位於水面上時的最高航速。"
-
-msgid "IDS_SKILL_TRIGGER_CONS_RUDDER_TIME_COEFF_TRIGGER_DESC"
-msgstr "被敵人發現時，縮短方向舵和水平舵換檔時間。"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "已購買海軍代幣"
-
-msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "已購買法國代幣"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "已獲得海軍代幣"
-
-msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "已獲得法國代幣"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "海軍代幣已移除"
-
-msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "法國代幣已移除"
-
-msgid "IDS_TIPS_ACOUSTIC_TORPEDOES_HOMING_DESCRIPTION"
-msgstr "<p>潛水艇的魚雷將根據艦艇的航速和航向被導向標記區域。</p><p class=\"p_spacing\"> </p><p>命中側舷時威力最大。</p><p class=\"p_spacing\"> </p><p>將艦首轉向來襲的魚雷可降低被命中的風險。</p>"
-
-msgid "IDS_TIPS_AIRCRAFT_CARRIER_DESCRIPTION"
-msgstr "<p>大多數航空母艦未裝備主炮。它們在戰鬥中的角色是對敵方部隊發動空中襲擊以及執行偵察任務。</p><p class=\"p_spacing\"> </p><p>為了最大限度地發揮作戰能力，請在保持不被敵人發現的情況下，儘量靠近戰鬥行動區域。</p><p class=\"p_spacing\"> </p><p>航空母艦很脆弱，應該隨時處於友軍的掩護下。</p>"
-
-msgid "IDS_TIPS_ANTI_SUB_AIRCRAFT_DESCRIPTION"
-msgstr "<p>按下 [CMD_AMMO_SLOT_4] 即可使用深水炸彈空襲。</p><p class=\"p_spacing\"> </p><p>用深水炸彈對標記區域進行空中轟炸。</p><p class=\"p_spacing\"> </p><p>深水炸彈可對潛水艇造成傷害，拆毀魚雷和水雷。對水面目標造成輕微傷害。</p>"
-
-msgid "IDS_TIPS_ARMAMENT_SS_DESCRIPTION"
-msgstr "<p>按下 [CMD_AMMO_SLOT_1] 可選擇炮射煙霧彈。</p><p class=\"p_spacing\"> </p><p>在炮彈爆炸區域製造煙幕。</p><p class=\"p_spacing\"> </p><p>煙幕可降低您的艦艇或友軍艦艇被敵人發現的可能性。</p><p class=\"p_spacing\"> </p><p>這類炮彈<b>不會</b>造成傷害。</p>"
-
-msgid "IDS_TIPS_DEPTH_CHARGES_DESCRIPTION"
-msgstr "<p>按下 [CMD_AMMO_SLOT_G] 釋放深水炸彈。</p><p class=\"p_spacing\"> </p><p>深水炸彈可對潛水艇造成傷害，拆毀魚雷和水雷。對水面目標造成輕微傷害。</p>"
-
-msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
-msgstr "<p>可偵測位於潛望深度或水面的潛水艇和水面艦艇，以及魚雷、水雷和深水炸彈（包括位於煙幕區域內的目標）。</p><p class=\"p_spacing\"> </p><p>可顯示位於工作深度潛水艇的粗略位置。</p>"
-
-msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP"
-msgstr "高亮突顯"
-
-msgid "IDS_TIPS_PINGED_SECTOR_ON_SHIP_DESCRIPTION"
-msgstr "<p>潛水艇會用聲納標記艦艇，魚雷將被導向此處。</p><p class=\"p_spacing\"> </p><p>使用損害管制小組消耗品來阻止敵方潛水艇的魚雷進行制導。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
-msgstr "<p>敵艦配有深水炸彈來對抗潛水艇。</p><p class=\"p_spacing\"> </p><p>深水炸彈可對潛水艇造成傷害並拆毀魚雷。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE"
-msgstr "被動聲納偵測"
-
-msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
-msgstr "<p>顯示水下地形以及艦艇和潛水艇（不包括位於最大深度的潛水艇）的粗略位置。</p><p class=\"p_spacing\"> </p><p>在潛水艇位於潛望深度和工作深度時運作。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
-msgstr "潛水艇的被偵察性"
-
-msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
-msgstr "<p>潛水艇的被偵察性取決於其所在深度。</p><p class=\"p_spacing\"> </p><p>潛望深度：潛水艇可以被水底搜索偵測到。</p><p class=\"p_spacing\"> </p><p>工作深度：水底搜索可以顯示潛水艇的粗略位置。</p><p class=\"p_spacing\"> </p><p>最大深度：潛水艇無法被偵測到。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT_DESCRIPTION"
-msgstr "<p>潛水艇需要下潛能力來保持位於水下時的正常航行。</p><p class=\"p_spacing\"> </p><p>若下潛能力耗盡，潛水艇將會上浮。</p><p class=\"p_spacing\"> </p><p>位於潛望深度時，不消耗下潛能力。</p><p class=\"p_spacing\"> </p><p>在水面上時，下潛能力將會恢復。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
-msgstr "從水下發射魚雷"
-
-msgid "IDS_TIPS_SUBMARINE_USE_WEAPON_AND_CONSUMABLE_ON_DEPTH_DESCRIPTION"
-msgstr "當前裝備的武器和消耗品在某些深度下可能無法使用。"
-
-msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY_SUBMARINE"
-msgstr "<p>潛水艇即使位於煙霧中或島嶼後方，也會被敵人發現的距離。</p><p class=\"p_spacing\"> </p><p>位於工作深度時，潛水艇只能被敵方潛水艇或消耗品偵測到。</p>"
-
-msgid "IDS_TOOLTIP_MAX_SPEED_UNDER_WATER"
-msgstr "潛水艇位於工作深度沿直線航行時所能達到的最大航速。"
-
-msgid "IDS_TOOLTIP_WAVE_DURATION_FIRST_HIT"
-msgstr "聲納音波命中敵艦後，會將其標記為魚雷制導目標。"
-
-msgid "IDS_TOOLTIP_WAVE_DURATION_SECOND_HIT"
-msgstr "<p>聲納音波命中敵艦後，會將其標記為魚雷制導目標。</p><p class=\"p_spacing\"> </p><p>再次命中高亮區域會延長效果時間並提高導向魚雷的機動性。</p>"
-
-msgid "IDS_UNLOCKS_6"
-msgstr "每天最多可賺取 3 個每日貨櫃。"
-
-msgid "IDS_UNLOCKS_7"
-msgstr "在軍械庫購買新物品。"
+msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY_DESCRIPTION"
+msgstr "<p>位於水下時，您無法命中距離過近的水面目標。</p><p class=\"p_spacing\"> </p><p>魚雷需要時間上浮。</p>"
