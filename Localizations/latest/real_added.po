@@ -1,0 +1,900 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_OPERATION_HYDRA_DEN"
+msgstr "在「九頭蛇之巢」行動中獲得勝利。"
+
+msgid "IDS_ACHIEVEMENT_PVE_OPERATION_HYDRA_DEN"
+msgstr "九頭蛇之巢"
+
+msgid "IDS_AVAILABILITY_STATE_CURRENTLY_UNAVAILABLE"
+msgstr "此戰鬥類型暫時不可用"
+
+msgid "IDS_AVAILABILITY_STATE_LOW_LEVEL"
+msgstr "將在解鎖服役等級 %(_level)s 後可用"
+
+msgid "IDS_AVAILABILITY_STATE_MISMATCH"
+msgstr "無法在此戰鬥類型中完成"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH"
+msgstr "不要讓%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_AGH_B"
+msgstr "不要讓超過 %s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_AOT"
+msgstr "在規定時間內%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_CZ"
+msgstr "偵察%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_DEV"
+msgstr "摧毀%s%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_DEV_LEGIONNAIRE"
+msgstr "阻止%s%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_NOT_GIVE"
+msgstr "不要讓%s%s%s"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_SBS"
+msgstr "確保 %s 艘%s不被摧毀"
+
+msgid "IDS_BATTLE_TASK_TEXT_NAME_SPS"
+msgstr "確保團隊中至少 %s 艘%s不被摧毀"
+
+msgid "IDS_BUY_IN_ARMORY_BROTHERHOOD"
+msgstr "可在軍械庫「招募站」類別中購買"
+
+msgid "IDS_CHARGED_RESISTANCE_RECOGNITION"
+msgstr "英勇抵抗"
+
+msgid "IDS_CHARGED_RESISTANCE_RECOGNITION_CREW_HINT"
+msgstr "因英勇抵抗而獲得的指揮官經驗量"
+
+msgid "IDS_CHARGED_RESISTANCE_RECOGNITION_EXPERIENCE_HINT"
+msgstr "因英勇抵抗而獲得的艦艇經驗量"
+
+msgid "IDS_CHAT_HORST_START_MOVING"
+msgstr "注意！主力艦編隊 Horst 正企圖離開港口水域。集中火力攻擊正在撤退的敵人！"
+
+msgid "IDS_CHAT_LEGIONNAIRE_IN_HARBOR"
+msgstr "Legionario 中隊已進入港口！敵方主力艦獲得了火力支援。"
+
+msgid "IDS_CHAT_SECONDARY1_FAILURE"
+msgstr "未能及時摧毀港口基礎設施！"
+
+msgid "IDS_CHAT_SECONDARY2_FAILURE"
+msgstr "我軍損失慘重！"
+
+msgid "IDS_CHAT_SECONDARY3_SUCCESS"
+msgstr "已成功完成對指定區域的偵察！"
+
+msgid "IDS_CHAT_SECONDARY6_SUCCESS"
+msgstr "Legionario 中隊已被及時摧毀！"
+
+msgid "IDS_CHAT_SECONDARY7_FAILURE"
+msgstr "我軍艦艇被過多魚雷命中！"
+
+msgid "IDS_CHAT_SPAWN_LEGIONNAIRE"
+msgstr "全隊注意！Legionario 中隊已進入視野。請務必在該中隊進入港口之前將其摧毀。"
+
+msgid "IDS_CHAT_START_MAIN_TASK"
+msgstr "根據情報，德國主力艦正準備撤退。立即突入港口，全殲敵艦！"
+
+msgid "IDS_CHAT_START_SECONDARY_TASK_DESTRUCTION_WAREHOUSES"
+msgstr "敵人將試圖在撤退時從港口運走重要戰略資源。摧毀軍事基地內的貨倉！"
+
+msgid "IDS_CHAT_START_SECONDARY_TASK_LEGIONNAIRE"
+msgstr "情報顯示，一支代號為 Legionario 的義大利艦艇中隊正從東南方向趕來支援敵人。迅速佔領最有利的炮擊位置！"
+
+msgid "IDS_CHAT_START_SECONDARY_TASK_SCOUT_AREA"
+msgstr "敵人可能在通往港口的路徑上設下了埋伏。偵察標記區域並消滅伏軍！"
+
+msgid "IDS_CHAT_WAREHOUSES_WERE_DESTROYED"
+msgstr "打得很好！貨倉已被摧毀。敵人的補給線受到重創。"
+
+msgid "IDS_CLAN_BATTLES_SCHEDULE_NOTES"
+msgstr "<p>可以安排一整週的時段。</p><p class=\"p_spacing\"> </p><p>所選公會戰鬥時段將在進行一場公會戰鬥後鎖定。</p><p class=\"p_spacing\"> </p><p>鎖定的公會戰鬥時段可以在下一個遊戲日更改。</p><p class=\"p_spacing\"> </p><p>只有軍團指揮官、副指揮官或招募官可以選定公會戰鬥時段。</p>"
+
+msgid "IDS_COMPENDIUM_COPY_VALUES"
+msgstr "複製到剪貼簿"
+
+msgid "IDS_COMPENDIUM_COPY_VALUES_COMPLETE"
+msgstr "已複製"
+
+msgid "IDS_COMPENDIUM_RESET_COMPLETE"
+msgstr "設定已重置"
+
+msgid "IDS_DOGTAG_PCNB470_DESCRIPTION"
+msgstr "<p>皓皓巨艦，金縷其章。<br>般若其尾，兇相赫張。<br>秉彼怒意，鎮茲一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韻，勢蘊神威。<br>非舸非舟，若出天工。<br>見彼於垣，終其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，蕩海平波。<br>赫赫威靈，不可度多。<br>嗟爾巨艦，萬代同歌。</p>"
+
+msgid "IDS_DOGTAG_PCNB470_NAME"
+msgstr "尾張之鬼"
+
+msgid "IDS_DOGTAG_PCNB471_DESCRIPTION"
+msgstr "這座城市只有在入夜時分才真正甦醒，被雨水浸潤的瀝青路面在月色下泛著幽光。沿街櫥窗漸次亮起，樂聲與行人絮語交織成片，幢幢樓宇間車輛呼嘯穿行，道道光束劃破朦朧夜霧……而在脈搏律動的街道之上，矗立著霓虹閃耀的摩天樓群，如風暴中的航標燈塔般俯視著人間。"
+
+msgid "IDS_DOGTAG_PCNB471_NAME"
+msgstr "黑桃城"
+
+msgid "IDS_GUIDING_TIP_353_DESC"
+msgstr "瞭解如何最有效地駕駛此分支中的艦艇進行戰鬥。也可以在單個艦艇處檢視其戰術角色。"
+
+msgid "IDS_GUIDING_TIP_353_HEADER"
+msgstr "戰術角色"
+
+msgid "IDS_GUIDING_TIP_354_DESC"
+msgstr "瞭解如何最有效地駕駛此艦艇進行戰鬥。"
+
+msgid "IDS_GUIDING_TIP_354_HEADER"
+msgstr "戰術角色"
+
+msgid "IDS_GUIDING_TIP_355_DESC"
+msgstr "轉到特性畫面檢視角色定位。也可以檢視整個分支中艦艇的戰術角色。"
+
+msgid "IDS_GUIDING_TIP_355_HEADER"
+msgstr "角色定位"
+
+msgid "IDS_HANDZO"
+msgstr "雪半藏"
+
+msgid "IDS_HORST01"
+msgstr "Horst"
+
+msgid "IDS_HORST02"
+msgstr "Horst"
+
+msgid "IDS_HORST03"
+msgstr "Horst"
+
+msgid "IDS_HORST04"
+msgstr "Horst"
+
+msgid "IDS_HORST05"
+msgstr "Horst"
+
+msgid "IDS_HORST06"
+msgstr "Horst"
+
+msgid "IDS_INFINITY_SCENARIO_DESCRIPTION"
+msgstr "用於互動教學的無盡戰場"
+
+msgid "IDS_INFINITY_SCENARIO_GOAL"
+msgstr "與敵人戰鬥並享受樂趣"
+
+msgid "IDS_INFINITY_SCENARIO_NAME"
+msgstr "無盡之戰"
+
+msgid "IDS_INFINITY_SCENARIO_PVE_TOOLTIP_GOAL"
+msgstr "與敵人戰鬥並享受樂趣"
+
+msgid "IDS_JITNYAKOV_ARIA"
+msgstr "米哈伊爾˙日特尼亞科夫"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
+msgstr "九頭蛇之巢"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "偉大衛國戰爭最後的時日 — 第三帝國垂死掙扎，蘇聯紅軍窮追猛打、直搗納粹老巢。在波羅的海港口的軍事基地，德國艦隊正在集結殘部準備倉皇撤離，這是瀕死野獸的最後掙扎。"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "情報顯示，德國主力艦編隊Horst正準備從港口撤退。"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_TEXT_3"
+msgstr "您的任務：摧毀從港口撤退的德國海軍殘部。"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您可以使用IX-X 階艦艇或超級艦艇加入戰鬥。不允許潛艇加入戰鬥。"
+
+msgid "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "團隊規模：7。最大分艦隊規模：7。"
+
+msgid "IDS_MODAL_WINDOW_SHIPS_BRANCHES_FEATURES_ALL_ROLES"
+msgstr "檢視所有角色定位"
+
+msgid "IDS_OP12AL01"
+msgstr "Peredovik"
+
+msgid "IDS_OP12AL02"
+msgstr "Nastavnik"
+
+msgid "IDS_OP12AL03"
+msgstr "Udarnik"
+
+msgid "IDS_OP12EN01"
+msgstr "Kherusk"
+
+msgid "IDS_OP12EN02"
+msgstr "Vandal"
+
+msgid "IDS_OP12EN03"
+msgstr "Gerul"
+
+msgid "IDS_OP12_102"
+msgstr "Oswald"
+
+msgid "IDS_OP12_104"
+msgstr "Irmo"
+
+msgid "IDS_OP12_105"
+msgstr "S-2"
+
+msgid "IDS_OP12_106"
+msgstr "S-3"
+
+msgid "IDS_OP12_107"
+msgstr "S-4"
+
+msgid "IDS_OP12_108"
+msgstr "S-5"
+
+msgid "IDS_OP12_109"
+msgstr "S-6"
+
+msgid "IDS_OP12_110"
+msgstr "S-8"
+
+msgid "IDS_OP12_302"
+msgstr "Balthazar"
+
+msgid "IDS_OP12_304"
+msgstr "Bertram"
+
+msgid "IDS_OP12_403"
+msgstr "Lambert"
+
+msgid "IDS_OP12_601"
+msgstr "Legionario"
+
+msgid "IDS_OP12_602"
+msgstr "Legionario"
+
+msgid "IDS_OP12_603"
+msgstr "Legionario"
+
+msgid "IDS_OP12_604"
+msgstr "Legionario"
+
+msgid "IDS_OP12_605"
+msgstr "Legionario"
+
+msgid "IDS_OP12_606"
+msgstr "Legionario"
+
+msgid "IDS_OP12_702"
+msgstr "Vido"
+
+msgid "IDS_OP12_705"
+msgstr "Witold"
+
+msgid "IDS_OP12_706"
+msgstr "Waldemar"
+
+msgid "IDS_OP12_707"
+msgstr "Vingolf"
+
+msgid "IDS_OP12_708"
+msgstr "Willibald"
+
+msgid "IDS_OP12_709"
+msgstr "Wilmut"
+
+msgid "IDS_OP12_710"
+msgstr "Willy"
+
+msgid "IDS_OP12_711"
+msgstr "Vilbrand"
+
+msgid "IDS_OP12_712"
+msgstr "Wigbert"
+
+msgid "IDS_OP12_713"
+msgstr "Wittmar"
+
+msgid "IDS_OP12_714"
+msgstr "Wighart"
+
+msgid "IDS_OP12_ALARM_HORST_START_MOVING"
+msgstr "注意！主力艦編隊 Horst 正企圖離開港口水域。別把它們放跑了！"
+
+msgid "IDS_OP12_ALARM_LEGIONNAIRE_START_BREAKING_IN_HARBOR"
+msgstr "注意！Legionario 中隊正企圖進入港口。為防止其為正在撤退的敵方主力艦提供支援，立即摧毀它們！"
+
+msgid "IDS_OP12_AMMUNITION_IN_HARBOR"
+msgstr "（港口內）"
+
+msgid "IDS_OP12_B2"
+msgstr "辦公樓"
+
+msgid "IDS_OP12_B4"
+msgstr "儲罐"
+
+msgid "IDS_OP12_CARRIERS"
+msgstr "Peredovik、Nastavnik、Udarnik"
+
+msgid "IDS_OP12_EN_CV_NAMES"
+msgstr "Kherusk、Vandal、Gerul"
+
+msgid "IDS_OP12_FLEET_A"
+msgstr "進入港口的"
+
+msgid "IDS_OP12_FLEET_B"
+msgstr "前往港口的"
+
+msgid "IDS_OP12_FLEET_C"
+msgstr "進入港口"
+
+msgid "IDS_OP12_HORST"
+msgstr "Horst"
+
+msgid "IDS_OP12_IN_AREA"
+msgstr "通往港口的區域"
+
+msgid "IDS_OP12_ITAFLEET"
+msgstr "進入港口的義大利"
+
+msgid "IDS_OP12_LAGER"
+msgstr "Lager"
+
+msgid "IDS_OP12_LEGIONER"
+msgstr "Legionario 中隊"
+
+msgid "IDS_OP12_MAIN_TASK_BRIEFING"
+msgstr "阻止主力艦編隊 Horst 離開港口水域！"
+
+msgid "IDS_OP12_SECONDARY2_BRIEFING"
+msgstr "保證隊伍中至少 3 艘艦艇存活。避免遭受嚴重損失！"
+
+msgid "IDS_OP12_SECONDARY3_BRIEFING"
+msgstr "對通往港口的標記區域進行偵察"
+
+msgid "IDS_OP12_SECONDARY6_BRIEFING"
+msgstr "摧毀 Legionario 中隊。絕不能讓其進入港口！"
+
+msgid "IDS_OP12_SECONDARY7_BRIEFING"
+msgstr "避開敵人的魚雷！保持住團隊的作戰能力。"
+
+msgid "IDS_OP12_SECONDARY8_BRIEFING"
+msgstr "摧毀貨倉！絕不能讓敵人將軍火運走。"
+
+msgid "IDS_OP12_TRN101"
+msgstr "Lager"
+
+msgid "IDS_OP12_TRN102"
+msgstr "Lager"
+
+msgid "IDS_OP12_TRN103"
+msgstr "Lager"
+
+msgid "IDS_OP12_TRN201"
+msgstr "Lager"
+
+msgid "IDS_OP12_TRN202"
+msgstr "Lager"
+
+msgid "IDS_OP12_TRN203"
+msgstr "Lager"
+
+msgid "IDS_OP12_Z11"
+msgstr "S-12"
+
+msgid "IDS_OP12_Z13"
+msgstr "S-15"
+
+msgid "IDS_OP12_Z15"
+msgstr "S-18"
+
+msgid "IDS_OP12_Z22"
+msgstr "S-22"
+
+msgid "IDS_OP12_Z23"
+msgstr "S-26"
+
+msgid "IDS_OP12_Z24"
+msgstr "S-27"
+
+msgid "IDS_OP12_Z25"
+msgstr "S-100"
+
+msgid "IDS_OP12_Z33"
+msgstr "S-33"
+
+msgid "IDS_OP12_Z34"
+msgstr "S-38"
+
+msgid "IDS_OP12_Z41"
+msgstr "S-42"
+
+msgid "IDS_OP12_Z42"
+msgstr "S-44"
+
+msgid "IDS_OP12_Z43"
+msgstr "S-49"
+
+msgid "IDS_OP12_Z51"
+msgstr "S-50"
+
+msgid "IDS_OP12_Z52"
+msgstr "S-52"
+
+msgid "IDS_OP12_Z53"
+msgstr "S-53"
+
+msgid "IDS_OP12_Z55"
+msgstr "Conrad"
+
+msgid "IDS_PASA588"
+msgstr "大黃蜂B"
+
+msgid "IDS_PASA588_DESCR"
+msgstr "USS Hornet 是第三艘 Yorktown 級航空母艦，參與過著名的杜立德空襲，並參加了中途島海戰和索羅門群島戰役。在聖克魯斯群島戰役中，Hornet 擊傷了航空母艦 Shōkaku，但也受到了多次空襲。此航空母艦的發動機被摧毀，因此決定棄艦。儘管美國驅逐艦向她發射了九枚魚雷和數百枚 127 毫米砲彈，這艘航空母艦仍然浮在水上，直到日本驅逐艦給予了最後一擊。"
+
+msgid "IDS_PASA588_FULL"
+msgstr "大黃蜂B"
+
+msgid "IDS_PASB548"
+msgstr "俄勒岡"
+
+msgid "IDS_PASB548_DESCR"
+msgstr "<p>1935年底，在設計符合《倫敦海軍條約》限制條件的主力艦時，美國海軍總委員會收到了數個方案。這些方案在排水量、裝甲防護和武器裝備上各不相同：從沿中軸線呈階梯式佈置主炮塔的傳統型主力艦，到帶有飛行甲板的混合型艦艇設計一應俱全。</p><p class=\"p_spacing\"> </p><p>最終，美國海軍選擇了方案K作為進一步發展的基礎，隨後又衍生出了5種不同的變體。其中的方案I在外形上與K最為接近，該方案的設計在艏部安放了三座三聯裝超射炮塔、沿中軸線階梯式佈置。該專案最終並未被採納，但其後續發展直接催生了北卡羅來納級主力艦。</p>"
+
+msgid "IDS_PASB548_FULL"
+msgstr "俄勒岡"
+
+msgid "IDS_PAUH747_HULL_BLACK_HORNET"
+msgstr "大黃蜂B"
+
+msgid "IDS_PAUH748_HULL_OREGON"
+msgstr "俄勒岡"
+
+msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG"
+msgstr "尾張之鬼"
+
+msgid "IDS_PCEE766_BRISBANE_B_FLAG"
+msgstr "布里斯本B"
+
+msgid "IDS_PCEE767_JAGER_B_FLAG"
+msgstr "獵兵B"
+
+msgid "IDS_PCEE768_GASCOGNE_B_FLAG"
+msgstr "加斯科涅B"
+
+msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG"
+msgstr "歐根親王B"
+
+msgid "IDS_PCEE770_HORNET_B_FLAG"
+msgstr "大黃蜂B"
+
+msgid "IDS_PCEE783_STRANA_SOVETOV_FLAG"
+msgstr "蘇維埃國家"
+
+msgid "IDS_PCEE783_STRANA_SOVETOV_FLAG_DESCRIPTION"
+msgstr "俄羅斯蘇維埃聯邦社會主義共和國成為歷史上首個由蘇維埃 — 即人民代表大會集體代議機構 — 擔任國家管理主體的政權。該共和國國旗以深紅底色承載金色古代文書體字母，於 1918 年 6 月 17 日經全俄中央執行委員會主席團批准確立，並沿用至1937年。"
+
+msgid "IDS_PCEE784_SHAUMIAN_FLAG"
+msgstr "紹米揚"
+
+msgid "IDS_PCEE784_SHAUMIAN_FLAG_DESCRIPTION"
+msgstr "1941 年 12 月，驅逐艦紹米揚冒著德軍的猛烈炮火率先進入費奧多西亞港水域，支援蘇聯海軍陸戰隊成功登陸。費奧多西亞市徽上鐫刻著聖康斯坦丁塔 — 矗立在現代城區的 14 世紀熱那亞堡壘建築群的重要組成部分。"
+
+msgid "IDS_PCEE785_OREGON_FLAG"
+msgstr "USS 俄勒岡"
+
+msgid "IDS_PCEE785_OREGON_FLAG_DESCRIPTION"
+msgstr "俄勒岡州長期被視為西進運動的標誌性疆域 — 那條連線北美大平原與未開發西部的俄勒岡小道的終點便坐落於此。作為本州象徵的河狸活躍在俄勒岡的河流湖泊中，這種勤勉的齧齒動物不僅是州徽上的主角，更見證著這片土地從蠻荒到文明的變遷。"
+
+msgid "IDS_PCVO006_OP_12"
+msgstr "九頭蛇之巢"
+
+msgid "IDS_PCVO006_OP_12_HYDRA_DEN_DESCRIPTION"
+msgstr "偉大衛國戰爭最後的時日 — 第三帝國垂死掙扎，蘇聯紅軍窮追猛打、直搗納粹老巢。在波羅的海港口的軍事基地，德國艦隊正在集結殘部準備倉皇撤離，這是瀕死野獸的最後掙扎。"
+
+msgid "IDS_PCVO006_OP_12_HYDRA_DEN_GOAL"
+msgstr "全殲企圖離開港口的主力艦編隊 Horst。"
+
+msgid "IDS_PCVO006_OP_12_HYDRA_DEN_NAME"
+msgstr "九頭蛇之巢"
+
+msgid "IDS_PCVO006_OP_12_HYDRA_DEN_NAME_RESULT_SCREEN"
+msgstr "九頭蛇之巢"
+
+msgid "IDS_PCVO006_OP_12_HYDRA_DEN_PVE_TOOLTIP_GOAL"
+msgstr "在波羅的海摧毀德國海軍殘部的行動。阻止德國主力艦從港口撤退！"
+
+msgid "IDS_PCVO024_EV_HL_16_50_VANHELLSING_PVE_TOOLTIP_GOAL"
+msgstr "護衛 Transylvania 進入傳送門。"
+
+msgid "IDS_PCVO025_EV_HL_16_50_VANHELLSING_HARD_PVE_TOOLTIP_GOAL"
+msgstr "護衛 Transylvania 進入傳送門。"
+
+msgid "IDS_PCVO026_EV_HL_16_50_VANHELLSING_NIGHTMARE_PVE_TOOLTIP_GOAL"
+msgstr "護衛 Transylvania 進入傳送門。"
+
+msgid "IDS_PCVO030_OP_RANDOM_PVE_TOOLTIP_GOAL"
+msgstr "與其他玩家一起對抗機器人，並完成劇情工作。"
+
+msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_PVE_TOOLTIP_GOAL"
+msgstr "護衛 Transylvania 進入傳送門，以此徹底摧毀傳送門。"
+
+msgid "IDS_PCVT001_DAMAGE_PRIME_PVE_TOOLTIP_GOAL"
+msgstr "在這項試煉中，您將磨練造成傷害的技能。"
+
+msgid "IDS_PCVT002_CITADEL_PRIME_PVE_TOOLTIP_GOAL"
+msgstr "在這項試煉中，您將磨鍊命中艦艇裝甲區的技能。"
+
+msgid "IDS_PCVT003_FRAGS_PRIME_PVE_TOOLTIP_GOAL"
+msgstr "在這項試煉中，您將磨鍊摧毀艦艇的技能。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_PVE_TOOLTIP_GOAL"
+msgstr "在這項試煉中，您將磨鍊驅逐艦作戰技能。"
+
+msgid "IDS_PFSB598"
+msgstr "加斯科涅B"
+
+msgid "IDS_PFSB598_FULL"
+msgstr "加斯科涅B"
+
+msgid "IDS_PFUH718_HULL_BLACK_GASCOGNE"
+msgstr "加斯科涅B"
+
+msgid "IDS_PFUS717_SUO_BLACK_GASCOGNE"
+msgstr "PCA n°8"
+
+msgid "IDS_PGSC588"
+msgstr "歐根親王B"
+
+msgid "IDS_PGSC588_FULL"
+msgstr "歐根親王B"
+
+msgid "IDS_PGUH739_HULL_BLACK_EUGEN"
+msgstr "歐根親王B"
+
+msgid "IDS_PJES399_OWARI_NO_ONI"
+msgstr "怒海般若"
+
+msgid "IDS_PJSB599"
+msgstr "尾張之鬼"
+
+msgid "IDS_PJSB599_DESCR"
+msgstr "<p>皓皓巨艦，金縷其章。<br>般若其尾，兇相赫張。<br>秉彼怒意，鎮茲一方。</p><p class=\"p_spacing\"> </p><p>形兼雅韻，勢蘊神威。<br>非舸非舟，若出天工。<br>見彼於垣，終其戎攻。</p><p class=\"p_spacing\"> </p><p>炮震霆怒，蕩海平波。<br>赫赫威靈，不可度多。<br>嗟爾巨艦，萬代同歌。</p>"
+
+msgid "IDS_PJSB599_FULL"
+msgstr "尾張之鬼"
+
+msgid "IDS_PJUH816_HULL_OWARI"
+msgstr "尾張之鬼"
+
+msgid "IDS_POPOV_ARIA"
+msgstr "謝爾蓋˙波波夫"
+
+msgid "IDS_PORT_NEWYORK_BF"
+msgstr "黑桃城"
+
+msgid "IDS_PORT_NEWYORK_BF_TOOLTIP"
+msgstr "黑桃城港口"
+
+msgid "IDS_PRPA264_102MM_AP_SHAUMIAN"
+msgstr "102 mm BB Model 1915"
+
+msgid "IDS_PRSB540"
+msgstr "蘇維埃國家"
+
+msgid "IDS_PRSB540_DESCR"
+msgstr "<p>1914 年 2 月，隨著新的軍隊發展計劃透過，沙俄為新型主力艦準備了一系列設計方案。這些方案均由普蒂洛夫造船廠與德國布洛姆&福斯公司的專家聯合提出，該系列的設計包括了多種裝備有 356 毫米與 406 毫米火炮的主力艦方案。</p><p class=\"p_spacing\"> </p><p>第 7 號專案主力艦配備了 4 座三聯裝 406 毫米火炮，分別位於艏艉，沿中軸線以揹負式炮塔的形式佈置。該設計還計劃採用煤油混合鍋爐。該型主力艦的體型對於波羅的海的需求而言過於龐大，因此最初被設想作為未來遠洋艦隊的基礎。</p>"
+
+msgid "IDS_PRSB540_FULL"
+msgstr "蘇維埃國家"
+
+msgid "IDS_PRSB999"
+msgstr "紅旗R"
+
+msgid "IDS_PRSB999_FULL"
+msgstr "紅旗R"
+
+msgid "IDS_PRSC708"
+msgstr "格列姆"
+
+msgid "IDS_PRSC708_FULL"
+msgstr "格列姆"
+
+msgid "IDS_PRSD516"
+msgstr "紹米揚"
+
+msgid "IDS_PRSD516_DESCR"
+msgstr "<p>費多尼西級驅逐艦是為黑海艦隊設計的無理級驅逐艦的改進型。相比於前代，該級擁有更強的武器裝備，並配備了新的三聯裝魚雷發射管。</p><p class=\"p_spacing\"> </p><p>列夫卡斯號驅逐艦於 1916 年 5 月在尼古拉耶夫鋪設龍骨，其艦體於 1917 年 10 月下水。在未完工狀態下，該艦曾先後被奧德聯軍、烏克蘭中央拉達軍、希英法聯軍控制，並相繼被綠軍與白衛軍佔領。</p><p class=\"p_spacing\"> </p><p>該艦被更名為<b>紹米揚</b>後，於 1923-1925 年間建成並加入黑海艦隊。在衛國戰爭中，她參加了敖德薩和塞瓦斯托波爾保衛戰，以及刻赤-費奧多西亞與蘇達克的登陸戰。1942 年 4 月，<b>紹米揚</b>在從新羅西斯克駛往波季的途中，于格連吉克附近觸礁擱淺。該艦最終未能脫困，不久便因惡劣天氣與德軍的轟炸而被徹底摧毀。</p>"
+
+msgid "IDS_PRSD516_FULL"
+msgstr "紹米揚"
+
+msgid "IDS_PRUE513_ENG_SHAUMIAN"
+msgstr "推進系統：28,300馬力"
+
+msgid "IDS_PRUE929_ENG_STRANA_SOVETOV"
+msgstr "推進系統：268,000馬力"
+
+msgid "IDS_PRUH520_SHAUMIAN"
+msgstr "紹米揚"
+
+msgid "IDS_PRUH733_HULL_GREM"
+msgstr "格列姆"
+
+msgid "IDS_PRUH928_HULL_KZ_RUBKA"
+msgstr "紅旗R"
+
+msgid "IDS_PRUH929_HULL_STRANA_SOVETOV"
+msgstr "蘇維埃國家"
+
+msgid "IDS_PUSC590"
+msgstr "布里斯本B"
+
+msgid "IDS_PUSC590_FULL"
+msgstr "布里斯本B"
+
+msgid "IDS_PUUH903_HULL_BLACK_BRISBANE"
+msgstr "布里斯本B"
+
+msgid "IDS_PVECOMMON_BATTLESHIP_GROUP"
+msgstr "主力艦編隊"
+
+msgid "IDS_PVECOMMON_BUILDINGS_A"
+msgstr "建築"
+
+msgid "IDS_PVECOMMON_ENEMY_TORPEDOES_A"
+msgstr "25 枚魚雷命中我方艦艇"
+
+msgid "IDS_PVECOMMON_HORST_A"
+msgstr "主力艦編隊"
+
+msgid "IDS_PVECOMMON_INFRASTRUCTURE_A"
+msgstr "基礎設施"
+
+msgid "IDS_PVECOMMON_INFRASTRUCTURE_B"
+msgstr "基礎設施"
+
+msgid "IDS_PVECOMMON_INFRASTRUCTURE_C"
+msgstr "基礎設施"
+
+msgid "IDS_PVECOMMON_TO_LEAVE_WATER_AREA"
+msgstr "離開水域"
+
+msgid "IDS_PVECOMMON_TRANSPORT_GROUP"
+msgstr "運輸艦編隊"
+
+msgid "IDS_PWSD599"
+msgstr "獵兵B"
+
+msgid "IDS_PWSD599_FULL"
+msgstr "獵兵B"
+
+msgid "IDS_PWUA806_ART_BLACK_JAGER"
+msgstr "150 mm/50 K10 Škoda （單裝炮座）"
+
+msgid "IDS_PWUH808_HULL_BLACK_JAGER"
+msgstr "獵兵B"
+
+msgid "IDS_PWUS808_SUO_BLACK_JAGER"
+msgstr "SUO Mk 9"
+
+msgid "IDS_PXSD007_DESCR"
+msgstr "由機器人控制的用於行動的艦艇。"
+
+msgid "IDS_PXSD007_NUMBER"
+msgstr "150"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE_ALREADY_PASSED"
+msgstr "無法跳過聯賽，因為您已經躋身更高階的聯賽"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE_BAD_TIME"
+msgstr "賽季開始後 3 天內無法跳過聯賽"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_UNAVAILABLE_NO_TOKEN"
+msgstr "無法跳過聯賽，因為您從未在排名戰鬥中達到白銀聯賽排名 1，或在評級戰鬥中躋身黃金聯賽"
+
+msgid "IDS_RESISTANCE_RECOGNITION_DESCRIPTION"
+msgstr "您失敗了，但獲得的經驗量位列隊伍前 %(topPlayersAmount)s%，並獲得了英勇成就。"
+
+msgid "IDS_RESISTANCE_RECOGNITION_HEADER"
+msgstr "英勇抵抗"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "IX 階艦艇或稀有艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "IX 階或稀有"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "VI-VIII 階"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_TITLE"
+msgstr "黑色星期五鐵製保險箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_TITLE_SHORT"
+msgstr "黑色星期五鐵製保險箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "尾張之鬼"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "IX-X 階艦艇或新艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "IX-X 階或新艦艇"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_TITLE"
+msgstr "黑色星期五金制保險箱"
+
+msgid "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_TITLE_SHORT"
+msgstr "黑色星期五金制保險箱"
+
+msgid "IDS_REWARD_UNLOCK_NEWYORK_BF_PORT"
+msgstr "黑桃城港口"
+
+msgid "IDS_REWARD_UNLOCK_NEWYORK_BF_PORT_DESCRIPTION"
+msgstr "可選擇黑桃城港口"
+
+msgid "IDS_SCENARIO_PCVO006_OP_12_HYDRA_DEN"
+msgstr "九頭蛇之巢行動"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_SECRET_EFFECT"
+msgstr "由於實驗性系統的引入，艦艇屬性已改變。"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_SECRET_EFFECT"
+msgstr "實驗性系統"
+
+msgid "IDS_SHIP_PARAM_AIR_SUPPORT_GROUPS"
+msgstr "空襲中隊"
+
+msgid "IDS_SHIP_PARAM_AIR_SUPPORT_GROUPS_TOOLTIP_DESCRIPTION"
+msgstr "對標記區域實施轟炸的飛行中隊。"
+
+msgid "IDS_SHIP_ROLE"
+msgstr "角色定位"
+
+msgid "IDS_SHIP_ROLE_BB_ASSAULT"
+msgstr "突擊型主力艦"
+
+msgid "IDS_SHIP_ROLE_BB_ASSAULT_DESC"
+msgstr "<p>逐步推進，以進行近距離作戰。在友軍支援下帶領側翼突破。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_BB_FIRE_SUPPORT"
+msgstr "支援型主力艦"
+
+msgid "IDS_SHIP_ROLE_BB_FIRE_SUPPORT_DESC"
+msgstr "<p>用主炮為友軍提供火力掩護。透過機動使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。</p>"
+
+msgid "IDS_SHIP_ROLE_BB_PROVOKE"
+msgstr "突圍型主力艦"
+
+msgid "IDS_SHIP_ROLE_BB_PROVOKE_DESC"
+msgstr "<p>承受敵軍火力以掩護友軍艦艇。在友軍支援下帶領側翼突破。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_BB_SNIPER"
+msgstr "狙擊型主力艦"
+
+msgid "IDS_SHIP_ROLE_BB_SNIPER_DESC"
+msgstr "<p>依靠隊友提供的偵察情報，從遠距離攻擊敵人。透過機動使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。您的艦艇難以承受近距離的火力打擊。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_ASSAULT"
+msgstr "突擊型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_ASSAULT_DESC"
+msgstr "<p>逐步推進，以進行近距離作戰。在友軍支援下帶領側翼突破。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_FIRE_SUPPORT"
+msgstr "支援型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_FIRE_SUPPORT_DESC"
+msgstr "<p>用主炮為友軍提供火力掩護。進行機動或利用煙霧隱藏自己，使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_KITAKAMI"
+msgstr "雷擊特化型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_KITAKAMI_DESC"
+msgstr "<p>將魚雷作為您的主要武器。與敵艦保持距離。偵察敵人的巡洋艦和主力艦。進行機動或利用煙霧隱藏自己，使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>獨特角色。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_SPOTTING"
+msgstr "偵察型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_SPOTTING_DESC"
+msgstr "<p>使用偵察手段對抗敵軍驅逐艦和輕巡洋艦。支援關鍵區域中的友軍驅逐艦。進行機動或利用煙霧隱藏自己，使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_TORPEDO"
+msgstr "雷擊型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_TORPEDO_DESC"
+msgstr "<p>使用魚雷遏制敵人的推進，用主炮為友軍提供火力掩護。進行機動或利用煙霧隱藏自己，使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。</p>"
+
+msgid "IDS_SHIP_ROLE_COLON"
+msgstr "角色："
+
+msgid "IDS_SHIP_ROLE_CV_ATTACK"
+msgstr "打擊型航空母艦"
+
+msgid "IDS_SHIP_ROLE_CV_ATTACK_DESC"
+msgstr "<p>使用飛行中隊攻擊敵艦併為隊友提供偵察情報。</p><p class=\"p_spacing\"> </p><p>此角色定位下的航空母艦打擊單一目標的效率最高。</p>"
+
+msgid "IDS_SHIP_ROLE_CV_SUPPORT"
+msgstr "支援型航空母艦"
+
+msgid "IDS_SHIP_ROLE_CV_SUPPORT_DESC"
+msgstr "<p>使用特殊裝備和中隊支援隊友。</p><p class=\"p_spacing\"> </p><p>此角色定位下的航空母艦打擊效率較低。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_FIRE_SUPPORT"
+msgstr "支援型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_FIRE_SUPPORT_DESC"
+msgstr "<p>用主炮為友軍提供火力掩護。進行機動或利用煙霧隱藏自己，使敵人更難瞄準您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_HUNTER"
+msgstr "追獵型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_HUNTER_DESC"
+msgstr "<p>用強大的主炮獵殺敵方驅逐艦。進行機動或利用煙霧隱藏自己，使敵人更難瞄準您的艦艇。佔領關鍵區域，拾取增益，並控制戰場上的其他重要區域。為隊友提供偵察情報。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_PAOLO_EMILIO"
+msgstr "突襲型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_PAOLO_EMILIO_DESC"
+msgstr "<p>埋伏在島嶼後方伺機而動，或配合使用「高速發煙器」和「引擎增壓」消耗品發動毀滅性魚雷打擊。進行機動或利用煙霧隱藏自己，使敵人更難瞄準您的艦艇。為隊友提供偵察情報。</p><p class=\"p_spacing\"> </p><p>獨特角色。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_TORPEDO"
+msgstr "雷擊型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_TORPEDO_DESC"
+msgstr "<p>從側翼包抄敵人，以實施最有效的魚雷打擊。為隊友提供偵察情報。佔領關鍵區域，拾取增益，並控制戰場上的其他重要區域。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_UNIVERSAL"
+msgstr "全能型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_UNIVERSAL_DESC"
+msgstr "<p>根據局勢使用主炮或魚雷。</p><p class=\"p_spacing\"> </p><p>從側翼包抄敵人，以實施最有效的魚雷打擊。用主炮為友軍提供火力掩護。佔領關鍵區域，拾取增益，並控制戰場上的其他重要區域。為隊友提供偵察情報。</p>"
+
+msgid "IDS_SHIP_ROLE_DETAILED_COLON"
+msgstr "您的角色："
+
+msgid "IDS_SHIP_ROLE_SS_SILENT_HUNTER"
+msgstr "潛獵型潛艇"
+
+msgid "IDS_SHIP_ROLE_SS_SILENT_HUNTER_DESC"
+msgstr "使用魚雷進行隱秘的攻擊。在水面上或處於潛望鏡深度/工作深度時使用被動聲吶為隊友提供偵察情報。佔領關鍵區域，拾取增益，並控制戰場上的其他重要區域。"
+
+msgid "IDS_SHIP_ROLE_SS_SURCOUF"
+msgstr "類巡洋型潛艇"
+
+msgid "IDS_SHIP_ROLE_SS_SURCOUF_DESC"
+msgstr "<p>使用魚雷進行隱秘的攻擊。在水面上使用可旋轉魚雷發射管。同時使用主炮和魚雷，與驅逐艦短兵相接。在安全距離使用「偵察機」消耗品，以利用主炮火力為友軍提供掩護。在水面上或處於潛望鏡深度/工作深度時使用被動聲吶為友軍提供偵察情報。</p><p class=\"p_spacing\"> </p><p>獨特角色。</p>"
+
+msgid "IDS_SHIP_ROLE_TITLE"
+msgstr "艦艇角色定位"
+
+msgid "IDS_SOUND_MOD_ARIA_2025_JITNYAKOV_ARIA"
+msgstr "米哈伊爾˙日特尼亞科夫"
+
+msgid "IDS_SOUND_MOD_ARIA_2025_POPOV_ARIA"
+msgstr "謝爾蓋˙波波夫"
+
+msgid "IDS_SOUND_MOD_ARIA_2025_UDALOV_ARIA"
+msgstr "馬克西姆˙烏達洛夫"
+
+msgid "IDS_SUBST_PL_OPEN_N_CONTAINERS_QUESTION"
+msgid_plural "IDS_SUBST_PL_OPEN_N_CONTAINERS_QUESTION"
+msgstr[0] "確認開啟 %(count)d 個補給箱？"
+
+msgid "IDS_UDALOV_ARIA"
+msgstr "馬克西姆˙烏達洛夫"
+
+msgid "IDS_V_GREMITSKIY"
+msgstr "弗拉基米爾˙格列米茨基"

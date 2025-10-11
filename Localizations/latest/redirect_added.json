@@ -1,0 +1,2250 @@
+{
+  "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_DESC_MK_PREMIUM": {
+    "value": "让您在每场战斗中获得更多的银币与经验。",
+    "ids": {
+      "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_DESC_WOWS_PREMIUM": "讓您在每場戰鬥中獲得更多銀幣和經驗。"
+    }
+  },
+  "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HEADER_PREMIUM": {
+    "value": "特权",
+    "ids": {
+      "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HEADER_WOWS_PREMIUM": "好處"
+    }
+  },
+  "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HOW_TO_GET_DESC_MK_PREMIUM": {
+    "value": "可在兵工厂和高级商店中购买，也可以通过补给箱获得。",
+    "ids": {
+      "IDS_ACCOUNT_COMPLETION_REWARD_TOOLTIP_HOW_TO_GET_DESC_WOWS_PREMIUM": "可在軍械庫和加值商店中購買，以及從貨櫃中獲取。"
+    }
+  },
+  "IDS_COMPENDIUM_RESET": {
+    "value": "重置",
+    "ids": {
+      "IDS_DROP_BRANCH_BUTTON": "重置",
+      "IDS_MOUSE_INSTRUCTION_SESSION_STATS_RESET": "重置",
+      "IDS_RESET": "重置",
+      "IDS_SESSION_STATS_RESET": "重置"
+    }
+  },
+  "IDS_DE_ASYMM_DOMINATION_PVE_TOOLTIP_GOAL": {
+    "value": "通过摧毁敌舰获得1000点积分。",
+    "ids": {
+      "IDS_DE_ASYMM_DOMINATION_GOAL": "透過擊沉敵艦獲得 1000 點積分。"
+    }
+  },
+  "IDS_FIRST_BATTLE_PVE_TOOLTIP_GOAL": {
+    "value": "全歼敌舰",
+    "ids": {
+      "IDS_DEATHMATCH_DESCRIPTION": "消滅所有敵方艦艇",
+      "IDS_FIRST_BATTLE_GOAL": "全殲敵艦"
+    }
+  },
+  "IDS_GO_TO_SSE_MOTIVATOR_TASKS": {
+    "value": "前往任务",
+    "ids": {
+      "IDS_GO_TO_MISSIONS": "前往任務"
+    }
+  },
+  "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_1_HEADER": {
+    "value": "简介",
+    "ids": {
+      "IDS_CHALLENGES_LOADING_DESCRIPTION_HEADER": "簡報",
+      "IDS_MODAL_WINDOW_TRIALS_BATTLE_RULES_PARAGRAPH_5_HEADER": "簡報",
+      "IDS_PVE_OPERATION_BRIEFING": "簡報",
+      "IDS_TRIALS_BRIEFING_COMMON": "簡介",
+      "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER": "簡介"
+    }
+  },
+  "IDS_MODAL_WINDOW_PCVO006_RULES_PARAGRAPH_2_HEADER": {
+    "value": "参与条件",
+    "ids": {
+      "IDS_ARC_EVENT_RULES_RESTRICTION_HEADER": "參加條件",
+      "IDS_CONDITIONS": "參與條件",
+      "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_3_HEADER": "參與條件",
+      "IDS_MODAL_WINDOW_EVENTBATTLE_RULES_HEADER": "參與條件",
+      "IDS_MODAL_WINDOW_PCVE017_RULES_PARAGRAPH_2_HEADER": "參加條件",
+      "IDS_MODAL_WINDOW_PCVE018_RULES_PARAGRAPH_2_HEADER": "參加條件",
+      "IDS_MODAL_WINDOW_PCVE019_RULES_PARAGRAPH_2_HEADER": "參加條件",
+      "IDS_MODAL_WINDOW_PCVE021_RULES_PARAGRAPH_2_HEADER": "參加條件",
+      "IDS_MODAL_WINDOW_PCVE022_RULES_PARAGRAPH_2_HEADER": "參與條件",
+      "IDS_MODAL_WINDOW_PCVE023_RULES_PARAGRAPH_2_HEADER": "參與條件",
+      "IDS_MODAL_WINDOW_PCVE025_RULES_PARAGRAPH_2_HEADER": "參加條件",
+      "IDS_MODAL_WINDOW_RATINGBATTLE_RULES_PARAGRAPH_4_HEADER": "參與條件",
+      "IDS_PVE_CONDITIONS": "參加條件"
+    }
+  },
+  "IDS_OP12_101": {
+    "value": "Lorenz",
+    "ids": {
+      "IDS_OP_02_04_EN37": "Lorenz"
+    }
+  },
+  "IDS_OP12_103": {
+    "value": "Reinar",
+    "ids": {
+      "IDS_OP_02_04_EN522": "Reinar"
+    }
+  },
+  "IDS_OP12_201": {
+    "value": "Curt",
+    "ids": {
+      "IDS_OP_09_11": "Curt"
+    }
+  },
+  "IDS_OP12_202": {
+    "value": "Cornelius",
+    "ids": {
+      "IDS_OP_02_04_EN833": "Cornelius"
+    }
+  },
+  "IDS_OP12_301": {
+    "value": "Baldur",
+    "ids": {
+      "IDS_OP_09_02": "Baldur"
+    }
+  },
+  "IDS_OP12_303": {
+    "value": "Bastian",
+    "ids": {
+      "IDS_OP_09_05": "Bastian"
+    }
+  },
+  "IDS_OP12_305": {
+    "value": "Birk",
+    "ids": {
+      "IDS_OP_09_20": "Birk"
+    }
+  },
+  "IDS_OP12_401": {
+    "value": "Lars",
+    "ids": {
+      "IDS_OP_02_04_ENFINAL43": "Lars"
+    }
+  },
+  "IDS_OP12_402": {
+    "value": "Leopold",
+    "ids": {
+      "IDS_OP_02_04_EN512": "Leopold"
+    }
+  },
+  "IDS_OP12_701": {
+    "value": "Walter",
+    "ids": {
+      "IDS_OP_02_04_EN811": "Walter"
+    }
+  },
+  "IDS_OP12_703": {
+    "value": "Wolf",
+    "ids": {
+      "IDS_OP_02_03_AT_SHIP_DEFENDER_2": "Wolf"
+    }
+  },
+  "IDS_OP12_704": {
+    "value": "Wolfgang",
+    "ids": {
+      "IDS_OP_02_04_ENFINAL33": "Wolfgang"
+    }
+  },
+  "IDS_OP12_B1": {
+    "value": "机库",
+    "ids": {
+      "IDS_OP_01_02_BUILDING_07": "飛機機庫"
+    }
+  },
+  "IDS_OP12_B3": {
+    "value": "仓库",
+    "ids": {
+      "IDS_GUIDING_TIP_121_HEADER": "庫存管理",
+      "IDS_GUIDING_TIP_56_HEADER": "庫存管理",
+      "IDS_OP_01_02_BUILDING_05": "貨倉",
+      "IDS_OP_01_04_PORT_STORE": "倉庫",
+      "IDS_OP_02_02_STOREHOUSE": "貨倉",
+      "IDS_UNLOCKS_TITLE_23": "庫存管理",
+      "IDS_WAREHOUSE": "庫存"
+    }
+  },
+  "IDS_OP12_B5": {
+    "value": "仓库",
+    "ids": {
+      "IDS_GUIDING_TIP_121_HEADER": "庫存管理",
+      "IDS_GUIDING_TIP_56_HEADER": "庫存管理",
+      "IDS_OP_01_02_BUILDING_05": "貨倉",
+      "IDS_OP_01_04_PORT_STORE": "倉庫",
+      "IDS_OP_02_02_STOREHOUSE": "貨倉",
+      "IDS_UNLOCKS_TITLE_23": "庫存管理",
+      "IDS_WAREHOUSE": "庫存"
+    }
+  },
+  "IDS_OP12_B6": {
+    "value": "仓库",
+    "ids": {
+      "IDS_GUIDING_TIP_121_HEADER": "庫存管理",
+      "IDS_GUIDING_TIP_56_HEADER": "庫存管理",
+      "IDS_OP_01_02_BUILDING_05": "貨倉",
+      "IDS_OP_01_04_PORT_STORE": "倉庫",
+      "IDS_OP_02_02_STOREHOUSE": "貨倉",
+      "IDS_UNLOCKS_TITLE_23": "庫存管理",
+      "IDS_WAREHOUSE": "庫存"
+    }
+  },
+  "IDS_OP12_Z12": {
+    "value": "Bruno",
+    "ids": {
+      "IDS_OP_01_04_ATAKER_C2": "Bruno",
+      "IDS_OP_01_04_ATAKER_L2": "Bruno",
+      "IDS_OP_01_04_ATAKER_R2": "Bruno"
+    }
+  },
+  "IDS_OP12_Z14": {
+    "value": "Emil",
+    "ids": {
+      "IDS_OP_01_02_MOB_WARSHIP_03": "Emil"
+    }
+  },
+  "IDS_OP12_Z21": {
+    "value": "Fritz",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_3_3": "Fritz",
+      "IDS_OP_01_04_ATAKER_R11": "Fritz"
+    }
+  },
+  "IDS_OP12_Z31": {
+    "value": "Gustav",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_4_3": "Gustav"
+    }
+  },
+  "IDS_OP12_Z32": {
+    "value": "Heintz",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_5_1": "Heintz"
+    }
+  },
+  "IDS_OP12_Z35": {
+    "value": "Richard",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_1_1": "Richard"
+    }
+  },
+  "IDS_OP12_Z44": {
+    "value": "Teodor",
+    "ids": {
+      "IDS_OP_01_04_ATAKER_C6": "Teodor",
+      "IDS_OP_01_04_ATAKER_L6": "Teodor",
+      "IDS_OP_01_04_ATAKER_R6": "Teodor"
+    }
+  },
+  "IDS_OP12_Z45": {
+    "value": "Wilhelm",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_2_2": "Wilhelm"
+    }
+  },
+  "IDS_OP12_Z54": {
+    "value": "Ulrich",
+    "ids": {
+      "IDS_OP_01_02_MOB_REINFORCEMENT_2_1": "Ulrich",
+      "IDS_OP_01_04_ATAKER_L13": "Ulrich"
+    }
+  },
+  "IDS_PAES138_BLACK_HORNET": {
+    "value": "特别",
+    "ids": {
+      "IDS_PAEM001_BLACKFRIDAY_SIMS": "特別",
+      "IDS_PAEM002_BLACKFRIDAY_ALASKA": "特別",
+      "IDS_PAES208_BLACK_SAIPAN": "特別",
+      "IDS_PAES318_BLACK_MASSACHUSETTS": "特別",
+      "IDS_PAES339_BLACK_KEARSARGE": "特別",
+      "IDS_PAES417_BLACK_ATLANTA": "特別",
+      "IDS_PAES527_BLACKBLACK": "特別",
+      "IDS_PBES396_REPULSEBLACK": "特別",
+      "IDS_PBES538_BLACK_COSSACK": "特別",
+      "IDS_PFES309_BLACK_JEAN_BART": "特別",
+      "IDS_PFES336_BLACK_DUNKERQUE": "特別",
+      "IDS_PGEM001_BLACKFRIDAY_GZEPPELIN": "特別",
+      "IDS_PGEM002_BLACKFRIDAY_SCHARNHORST": "特別",
+      "IDS_PGES309_BLACK_POMMERN": "特別",
+      "IDS_PGES3108_BRANDENBURGBLACK": "特別",
+      "IDS_PGES348_BLACK_TIRPITZ": "特別",
+      "IDS_PGES438_BLACK_MAINZ": "特別",
+      "IDS_PIES410_BLACK_NAPOLI": "特別",
+      "IDS_PJES118_BLACK_KAGA": "特別",
+      "IDS_PJES389_IWAMIBLACK": "特別",
+      "IDS_PJES418_ATAGO_BLACK": "特別",
+      "IDS_PJES420_BLACK_YOSHINO": "特別",
+      "IDS_PJES429_BLACK_AZUMA": "特別",
+      "IDS_PJES506_BLACK_SHINONOME": "特別",
+      "IDS_PJES538_ASASHIO_BLACK": "特別",
+      "IDS_PRES208_BLACK_CHKALOV": "特別",
+      "IDS_PRES406_BLACK_MOLOTOV": "特別",
+      "IDS_PRES440_SMOLENSKBLACK": "特別",
+      "IDS_PRES447_LAZOBLACK": "特別",
+      "IDS_PRES608_BLACK_S_189": "特別",
+      "IDS_PWES507_BLACK_BLYSKAWICA": "特別",
+      "IDS_PZES518_BLACK_LOYANG": "特別"
+    }
+  },
+  "IDS_PAPA217_356MM_HE_OREGON": {
+    "value": "356 mm HE/HC Mk22",
+    "ids": {
+      "IDS_PAPA007_SHELL_356MM_HE_HC_MK_22": "356 mm HE/HC Mk22",
+      "IDS_PAPA036_SHELL_356MM_HE_HC_MK_22": "356 mm HE/HC Mk22",
+      "IDS_PAPA063_SHELL_356MM_HE_MK_22_ARIZONA": "356 mm HE/HC Mk22",
+      "IDS_PAPA067_SHELL_356MM_HE_MK_22_TEXAS": "356 mm HE/HC Mk22",
+      "IDS_PAPA118_356MM_HE_MK22_CALIFORNIA": "356 mm HE/HC Mk22"
+    }
+  },
+  "IDS_PAPA218_356MM_AP_OREGON": {
+    "value": "356 mm AP Mk16",
+    "ids": {
+      "IDS_PAPA006_SHELL_356MM_AP_AP_MK_16": "356 mm AP Mk16",
+      "IDS_PAPA035_SHELL_356MM_AP_AP_MK_16": "356 mm AP Mk16",
+      "IDS_PAPA062_SHELL_356MM_AP_MK_16_ARIZONA": "356 mm AP Mk16",
+      "IDS_PAPA066_SHELL_356MM_AP_MK_16_TEXAS": "356 mm AP Mk16",
+      "IDS_PAPA119_356MM_AP_MK16_CALIFORNIA": "356 mm AP Mk16"
+    }
+  },
+  "IDS_PAUA721_ART_OREGON": {
+    "value": "356 mm/50 Mk.7（炮塔）",
+    "ids": {
+      "IDS_PAGM043_14IN50_3GUN_TURRET": "356 mm/50 Mk.7（炮塔）",
+      "IDS_PAGM049_14IN50_3GUN_TURRET": "356 mm/50 Mk.7（炮塔）",
+      "IDS_PAUA607_ART_CALIFORNIA": "356 mm/50 Mk.7（炮塔）"
+    }
+  },
+  "IDS_PAUB714_TB_BLACK_HORNET": {
+    "value": "Douglas TBD Devastator",
+    "ids": {
+      "IDS_PAAB538_HORNET_STOCK": "道格拉斯 TBD 蹂躪者",
+      "IDS_PAUB708_TB_HORNET": "道格拉斯 TBD 蹂躪者"
+    }
+  },
+  "IDS_PAUD718_DB_BLACK_HORNET": {
+    "value": "Douglas SBD-5",
+    "ids": {
+      "IDS_PAAD013_DOUGLAS_SBD5": "道格拉斯 SBD-5 無畏",
+      "IDS_PAAD509_SBD_ENTERPRISE": "道格拉斯 SBD-5 無畏",
+      "IDS_PAAD510_SBD_ENTERPRISE": "道格拉斯 SBD-5 無畏",
+      "IDS_PAAD538_HORNET_STOCK": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD013_DOUGLAS_SBD5": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD503_CV6_DB_STOCK": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD511_CV6_DB_TOP": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD703_CV8_DB_STOCK": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD705_DB_ENTERPISE": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD707_DB_ENTERPISE": "道格拉斯 SBD-5 無畏",
+      "IDS_PAUD714_DB_HORNET": "道格拉斯 SBD-5 無畏"
+    }
+  },
+  "IDS_PAUE729_ENG_BLACK_HORNET": {
+    "value": "推进系统：120000马力",
+    "ids": {
+      "IDS_PAUE509_ENG_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE700_CV8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE703_ENG_ENTERPRISE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE705_CA8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE707_ENG_ENTERPRISE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE713_ENG_ANCHORAGE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE714_ENG_HORNET": "推進系統：120,000 匹馬力",
+      "IDS_PAUE719_ENG_ROCHESTER": "推進系統：120,000 匹馬力",
+      "IDS_PAUE722_ENG_BLACK_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE728_CV8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE751_ENGINE_120000_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE804_CA9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE808_ENG_TULSA": "推進系統：120,000 匹馬力",
+      "IDS_PAUE821_ENGINE_120000": "推進系統：120,000 匹馬力",
+      "IDS_PAUE902_C10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE904_ENG_SALEM": "推進系統：120,000 匹馬力",
+      "IDS_PAUE905_CL10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE921_ENGINE_120000_BUFFALO": "推進系統：120,000 匹馬力",
+      "IDS_PBUE510_B6_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE606_ENG_RENOWN": "推進系統：120,000 匹馬力",
+      "IDS_PBUE811_B9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE905_CA10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE919_ENG_DEFENCE": "推進系統：120,000 匹馬力",
+      "IDS_PBUE990_ENG_CYCLOPS": "推進系統：120,000 匹馬力",
+      "IDS_PFUE703_ENG_BAYARD": "推進系統：120,000 匹馬力",
+      "IDS_PFUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PGUE728_C8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PIUE810_C9_ENG_STOCK": "推進系統：120 000 匹馬力",
+      "IDS_PRUE403_ENG_MIKOYAN": "推進系統：120,000 匹馬力",
+      "IDS_PRUE404_CA5_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PVUE702_C8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PVUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PZUE707_ENG_SANZANG": "推進系統：120,000 匹馬力",
+      "IDS_PZUE810_ENG_HENGSHUI": "推進系統：120,000 匹馬力"
+    }
+  },
+  "IDS_PAUE730_ENG_OREGON": {
+    "value": "推进系统：121000马力",
+    "ids": {
+      "IDS_PRUE711_ENGINE_121000_KUTUZOV": "推進系統：121,000 匹馬力",
+      "IDS_PRUE718_ENG_DMITRY_POZHARSKY": "推進系統：121,000 匹馬力",
+      "IDS_PZUE703_ENGINE_IRIAN": "推進系統：121,000 匹馬力"
+    }
+  },
+  "IDS_PAUF710_FC_BLACK_HORNET": {
+    "value": "Mk8 mod. 1",
+    "ids": {
+      "IDS_PAUS724_SUO_CONSTITUTION": "Mk8 mod. 1",
+      "IDS_PIUF901_FC_LAZIO": "Mk8 mod. 1",
+      "IDS_PZUF702_FC_XIAN_DENG": "Mk8 mod. 1"
+    }
+  },
+  "IDS_PAUS725_SUO_OREGON": {
+    "value": "Mk8",
+    "ids": {
+      "IDS_PAUF504_CV6_FC_STOCK": "Mk8",
+      "IDS_PAUF709_CV8_FC_STOCK": "Mk8",
+      "IDS_PAUF906_CV10_FC_STOCK": "Mk8",
+      "IDS_PIUQ700_SONAR_NANI": "Mk8"
+    }
+  },
+  "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION": {
+    "value": "黑色星期五——这一天是世界上许多国家正式开始冬季促销的日子。",
+    "ids": {
+      "IDS_PCEE304_ALASKABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE305_ASASHIOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE306_ATAGOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE307_GRAFZEPPELINBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE308_MASSACHUSETTSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE309_SHARNHORSTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE310_SIMSBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE311_TIRPITZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE373_ATLANTABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE374_COSSACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE375_KAGABLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE376_JEANBARTBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE452_SAIPANBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE453_POMMERNBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE454_YOSHINOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE455_LOYANGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE456_DUNKERQUEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE562_SHINONOMEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE563_CHKALOVBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE564_MAINZBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE565_KEARSARGEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE566_NAPOLIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE635_BLACKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE636_LAZOBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE637_BRANDENBURGBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE638_IWAMIBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE639_REPULSEBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE640_SMOLENSKBLACK_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式展開冬季促銷的日子。",
+      "IDS_PCEE700_BLACK_AZUMA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE701_BLACK_S_189_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE702_BLACK_BLYSKAWICA_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE703_BLACK_MOLOTOV_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。",
+      "IDS_PCEE705_BLACK_ODIN_FLAG_DESCRIPTION": "黑色星期五 — 這一天是世界上許多國家正式開始冬季促銷的日子。"
+    }
+  },
+  "IDS_PCVO001_OP_01_01_37_RIDGE_PVE_TOOLTIP_GOAL": {
+    "value": "夺回我方运输舰并保护它们到达目的地。",
+    "ids": {
+      "IDS_PCVO001_OP_01_01_37_RIDGE_GOAL": "奪回我方艦艇並在途中保護她們前往目的地。"
+    }
+  },
+  "IDS_PCVO002_OP_01_02_S01_NAVALBASE_PVE_TOOLTIP_GOAL": {
+    "value": "摧毁敌方基地并按侦察部队指定的方向撤退。",
+    "ids": {
+      "IDS_PCVO002_OP_01_02_S01_NAVALBASE_GOAL": "摧毀敵方基地並按偵察隊指定的方向撤退。"
+    }
+  },
+  "IDS_PCVO003_OP_01_03_S03_LABYRINTH_PVE_TOOLTIP_GOAL": {
+    "value": "护送支援舰前往航母Raptor，并带领它离开作战区域。",
+    "ids": {
+      "IDS_PCVO003_OP_01_03_S03_LABYRINTH_GOAL": "護送支援艦前往航空母艦 Raptor，並協助她撤離作戰區域。"
+    }
+  },
+  "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_PVE_TOOLTIP_GOAL": {
+    "value": "防守基地：保护陆上设施和支援舰。坚持到我方攻击中队抵达为止。",
+    "ids": {
+      "IDS_PCVO004_OP_01_04_S02_NAVAL_DEFENSE_GOAL": "防守基地。防止陸上必要設施和支援艦遭受到破壞。堅持到我方攻擊中隊抵達為止。"
+    }
+  },
+  "IDS_PCVO005_OP_11_PVE_TOOLTIP_GOAL": {
+    "value": "在增援部队抵达之前击沉敌方运输舰。",
+    "ids": {
+      "IDS_PCVO005_OP_11_GOAL": "在增援部隊抵達之前擊沉敵方運輸艦。"
+    }
+  },
+  "IDS_PCVO008_OP_02_03_S07_ADVANCE_PVE_TOOLTIP_GOAL": {
+    "value": "通过突破敌人的防御，消灭所有敌军，以及护送突击舰进入敌方基地，从而取得对基地的控制权。",
+    "ids": {
+      "IDS_PCVO008_OP_02_03_S07_ADVANCE_GOAL": "透過突破敵人防線、消滅所有敵方部隊並護送突擊運輸艦進入敵方基地，來取得敵方基地的控制權。"
+    }
+  },
+  "IDS_PCVO009_OP_02_02_S06_ATOLL_PVE_TOOLTIP_GOAL": {
+    "value": "保护运输机团抵达基地。在登机完成且飞机离开基地之前保护好机场。",
+    "ids": {
+      "IDS_PCVO009_OP_02_02_S06_ATOLL_GOAL": "保護運輸機團抵達基地。防衛機場直到登機完成及飛機離開基地為止。"
+    }
+  },
+  "IDS_PCVO010_OP_09_S09_LEPVE_PVE_TOOLTIP_GOAL": {
+    "value": "护送由旗舰Ruan带领的中队到指定区域。确保黄金安全送达。",
+    "ids": {
+      "IDS_PCVO010_OP_09_S09_LEPVE_GOAL": "護送由旗艦 Ruan 領導的中隊到指定區域。確保黃金安全送達。"
+    }
+  },
+  "IDS_PCVO011_OP_10_S10_USS_CL_PVE_TOOLTIP_GOAL": {
+    "value": "保护刚刚登陆的海军陆战队团。找到并摧毁敌方机场。",
+    "ids": {
+      "IDS_PCVO011_OP_10_S10_USS_CL_GOAL": "保衛海軍陸戰隊的登陸場，定位並摧毀敵方機場。"
+    }
+  },
+  "IDS_PCVO012_OP_02_04_S05_DUNKIRK_PVE_TOOLTIP_GOAL": {
+    "value": "支援被包围在敦刻尔克附的盟军部队的撤离行动。",
+    "ids": {
+      "IDS_PCVO012_OP_02_04_S05_DUNKIRK_GOAL": "支援被包圍在敦克爾克附近之盟軍部隊的撤離行動。"
+    }
+  },
+  "IDS_PCVO013_EV_HL_18_E04_HALLOWEEN_2018_PVE_TOOLTIP_GOAL": {
+    "value": "确定拉斯普京在黑巢港中的位置并彻底击败它。",
+    "ids": {
+      "IDS_PCVO013_EV_HL_18_E04_HALLOWEEN_2018_GOAL": "在黑暗巢穴港找到Rasputin並徹底擊敗它。",
+      "IDS_PCVO017_EV_HL_18_E04_HALLOWEEN_2018_HARD_GOAL": "在黑暗巢穴港找到Rasputin並徹底擊敗它。"
+    }
+  },
+  "IDS_PCVO017_EV_HL_18_E04_HALLOWEEN_2018_HARD_PVE_TOOLTIP_GOAL": {
+    "value": "确定拉斯普京在黑巢港中的位置并彻底击败它。",
+    "ids": {
+      "IDS_PCVO013_EV_HL_18_E04_HALLOWEEN_2018_GOAL": "在黑暗巢穴港找到Rasputin並徹底擊敗它。",
+      "IDS_PCVO017_EV_HL_18_E04_HALLOWEEN_2018_HARD_GOAL": "在黑暗巢穴港找到Rasputin並徹底擊敗它。"
+    }
+  },
+  "IDS_PCVO027_EV_HL_17_E02_HALLOWEEN_2017_PVE_TOOLTIP_GOAL": {
+    "value": "在高塔将通往失落维度的传送门封闭之前保护好它们。",
+    "ids": {
+      "IDS_PCVO027_EV_HL_17_E02_HALLOWEEN_2017_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO028_EV_HL_17_E02_HALLOWEEN_2017_HARD_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。"
+    }
+  },
+  "IDS_PCVO028_EV_HL_17_E02_HALLOWEEN_2017_HARD_PVE_TOOLTIP_GOAL": {
+    "value": "在高塔将通往失落维度的传送门封闭之前保护好它们。",
+    "ids": {
+      "IDS_PCVO027_EV_HL_17_E02_HALLOWEEN_2017_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO028_EV_HL_17_E02_HALLOWEEN_2017_HARD_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。"
+    }
+  },
+  "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_PVE_TOOLTIP_GOAL": {
+    "value": "在高塔将通往失落维度的传送门封闭之前保护好它们。",
+    "ids": {
+      "IDS_PCVO027_EV_HL_17_E02_HALLOWEEN_2017_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO028_EV_HL_17_E02_HALLOWEEN_2017_HARD_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。",
+      "IDS_PCVO029_EV_HL_17_E02_HALLOWEEN_2017_NIGHTMARE_GOAL": "防衛高塔，直到它們將通往失落維度的傳送門封閉為止。"
+    }
+  },
+  "IDS_PCVO032_EV25BRONEKORABLI_PVE_TOOLTIP_GOAL": {
+    "value": "对抗电脑玩家控制的铁血军团战舰。敌军将会源源不断地发起进攻！",
+    "ids": {
+      "IDS_PCVO032_EV25BRONEKORABLI_GOAL": "對抗機器人控制的鐵血軍團艦艇。敵軍將會源源不斷地發起進攻！"
+    }
+  },
+  "IDS_PFES348_BLACK_GASCOGNE": {
+    "value": "特别",
+    "ids": {
+      "IDS_PAEM001_BLACKFRIDAY_SIMS": "特別",
+      "IDS_PAEM002_BLACKFRIDAY_ALASKA": "特別",
+      "IDS_PAES208_BLACK_SAIPAN": "特別",
+      "IDS_PAES318_BLACK_MASSACHUSETTS": "特別",
+      "IDS_PAES339_BLACK_KEARSARGE": "特別",
+      "IDS_PAES417_BLACK_ATLANTA": "特別",
+      "IDS_PAES527_BLACKBLACK": "特別",
+      "IDS_PBES396_REPULSEBLACK": "特別",
+      "IDS_PBES538_BLACK_COSSACK": "特別",
+      "IDS_PFES309_BLACK_JEAN_BART": "特別",
+      "IDS_PFES336_BLACK_DUNKERQUE": "特別",
+      "IDS_PGEM001_BLACKFRIDAY_GZEPPELIN": "特別",
+      "IDS_PGEM002_BLACKFRIDAY_SCHARNHORST": "特別",
+      "IDS_PGES309_BLACK_POMMERN": "特別",
+      "IDS_PGES3108_BRANDENBURGBLACK": "特別",
+      "IDS_PGES348_BLACK_TIRPITZ": "特別",
+      "IDS_PGES438_BLACK_MAINZ": "特別",
+      "IDS_PIES410_BLACK_NAPOLI": "特別",
+      "IDS_PJES118_BLACK_KAGA": "特別",
+      "IDS_PJES389_IWAMIBLACK": "特別",
+      "IDS_PJES418_ATAGO_BLACK": "特別",
+      "IDS_PJES420_BLACK_YOSHINO": "特別",
+      "IDS_PJES429_BLACK_AZUMA": "特別",
+      "IDS_PJES506_BLACK_SHINONOME": "特別",
+      "IDS_PJES538_ASASHIO_BLACK": "特別",
+      "IDS_PRES208_BLACK_CHKALOV": "特別",
+      "IDS_PRES406_BLACK_MOLOTOV": "特別",
+      "IDS_PRES440_SMOLENSKBLACK": "特別",
+      "IDS_PRES447_LAZOBLACK": "特別",
+      "IDS_PRES608_BLACK_S_189": "特別",
+      "IDS_PWES507_BLACK_BLYSKAWICA": "特別",
+      "IDS_PZES518_BLACK_LOYANG": "特別"
+    }
+  },
+  "IDS_PFSB598_DESCR": {
+    "value": "<p>在20世纪30年代后期所有海军强国大规模建造新战列舰的背景下，法国开始着手开发新战列舰项目。敦刻尔克号经受考验后，舰首配备火炮的战列舰概念受到质疑。计划是建造两艘新的战列舰，保留黎塞留级的速度和装甲。战列舰<b>加斯科涅</b>应该按照将主炮部署在舰尾和舰首的设计建造。但由于法国投降，这艘战舰并没有铺设龙骨。</p>",
+    "ids": {
+      "IDS_PFSB508_DESCR": "1930 年代晚期當所有海軍強國都在大規模建造新型主力艦的背景下，法國開始了新型主力艦計畫。Dunkerque 經過測試後，在艦艏安裝火炮的主力艦概念備受質疑。此計畫是建造兩艘符合 Richelieu 級航速和裝甲的新型主力艦。主力艦 Gascogne 原本按設計要將主炮放置在艦艉和艦艏來建造。然而，此艦艇因為法國投降而未安放龍骨。"
+    }
+  },
+  "IDS_PFUA715_ART_BLACK_GASCOGNE": {
+    "value": "380 mm/45 Mle 1935（炮塔）",
+    "ids": {
+      "IDS_PFGM049_380MM_45_MLE_1935": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFGM086_380MM_TRIPLE": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA706_ART_FLANDRE": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA707_B8_ART_STOCK": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA710_B8_ART_STOCK": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA711_ART_GASCOGNE": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA712_ART_JBART": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA803_ART_BLACK_JBART": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA810_B9_ART_STOCK": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PFUA911_ART_CHAMPAGNE": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PZGM078_380MM_45_MLE_1935": "380 mm/45 Mle 1935（炮塔）",
+      "IDS_PZUA803_ART_WUJING": "380 mm/45 Mle 1935（炮塔）"
+    }
+  },
+  "IDS_PFUE709_ENG_BLACK_GASCOGNE": {
+    "value": "推进系统：155000马力",
+    "ids": {
+      "IDS_PFUE704_ENG_CHAMPAGNE": "推進系統：155,000 匹馬力",
+      "IDS_PFUE706_B8_ENG_STOCK": "推進系統：155,000 匹馬力",
+      "IDS_PFUE711_B8_ENG_TOP": "推進系統：155,000 匹馬力",
+      "IDS_PFUE712_ENG_GASCOGNE": "推進系統：155,000 匹馬力",
+      "IDS_PGUE800_ENG_COLORFUL_ROON": "推進系統：155,000 匹馬力",
+      "IDS_PGUE801_C9_ENG_STOCK": "推進系統：155,000 匹馬力",
+      "IDS_PGUE901_C10_ENG_STOCK": "推進系統：155,000 匹馬力",
+      "IDS_PGUE975_ENG_HIND": "推進系統：155,000 匹馬力",
+      "IDS_PXUE917_HINDENBURG_H19_ENG": "推進系統：155,000 匹馬力"
+    }
+  },
+  "IDS_PGES458_BLACK_PRINZ_EUGEN": {
+    "value": "特别",
+    "ids": {
+      "IDS_PAEM001_BLACKFRIDAY_SIMS": "特別",
+      "IDS_PAEM002_BLACKFRIDAY_ALASKA": "特別",
+      "IDS_PAES208_BLACK_SAIPAN": "特別",
+      "IDS_PAES318_BLACK_MASSACHUSETTS": "特別",
+      "IDS_PAES339_BLACK_KEARSARGE": "特別",
+      "IDS_PAES417_BLACK_ATLANTA": "特別",
+      "IDS_PAES527_BLACKBLACK": "特別",
+      "IDS_PBES396_REPULSEBLACK": "特別",
+      "IDS_PBES538_BLACK_COSSACK": "特別",
+      "IDS_PFES309_BLACK_JEAN_BART": "特別",
+      "IDS_PFES336_BLACK_DUNKERQUE": "特別",
+      "IDS_PGEM001_BLACKFRIDAY_GZEPPELIN": "特別",
+      "IDS_PGEM002_BLACKFRIDAY_SCHARNHORST": "特別",
+      "IDS_PGES309_BLACK_POMMERN": "特別",
+      "IDS_PGES3108_BRANDENBURGBLACK": "特別",
+      "IDS_PGES348_BLACK_TIRPITZ": "特別",
+      "IDS_PGES438_BLACK_MAINZ": "特別",
+      "IDS_PIES410_BLACK_NAPOLI": "特別",
+      "IDS_PJES118_BLACK_KAGA": "特別",
+      "IDS_PJES389_IWAMIBLACK": "特別",
+      "IDS_PJES418_ATAGO_BLACK": "特別",
+      "IDS_PJES420_BLACK_YOSHINO": "特別",
+      "IDS_PJES429_BLACK_AZUMA": "特別",
+      "IDS_PJES506_BLACK_SHINONOME": "特別",
+      "IDS_PJES538_ASASHIO_BLACK": "特別",
+      "IDS_PRES208_BLACK_CHKALOV": "特別",
+      "IDS_PRES406_BLACK_MOLOTOV": "特別",
+      "IDS_PRES440_SMOLENSKBLACK": "特別",
+      "IDS_PRES447_LAZOBLACK": "特別",
+      "IDS_PRES608_BLACK_S_189": "特別",
+      "IDS_PWES507_BLACK_BLYSKAWICA": "特別",
+      "IDS_PZES518_BLACK_LOYANG": "特別"
+    }
+  },
+  "IDS_PGGA095_20MM_FLAK_38_L41": {
+    "value": "20 mm/65 C/38（L/30单装炮座）",
+    "ids": {
+      "IDS_PGGA007_20MM_FLAK_38": "20 mm/65 C/38（L/30 單裝炮座）",
+      "IDS_PGGA021_20MM_FLAK_38": "20 mm/65 C/38（L/30 單裝炮座）",
+      "IDS_PGGA088_20MM_FLAK_38": "20 mm/65 C/38（L/30 單裝炮座）",
+      "IDS_PSGA003_20MM_FLAK_38": "20 mm/65 C/38（L/30 單裝炮座）"
+    }
+  },
+  "IDS_PGSC588_DESCR": {
+    "value": "<p>希佩尔海军上将级的第三艘巡洋舰<b>欧根亲王</b>根据重制后的设计建造。1941年5月24日，这艘巡洋舰与战列舰俾斯麦号一起参加了丹麦海峡海战，HMS胡德号在该场海战中沉没。1942年2月，这艘巡洋舰成功穿越英吉利海峡，但在前往挪威的途中被英国潜艇HMS三叉戟号发射的鱼雷命中。随后，在1945年5月7日，<b>欧根亲王</b>在哥本哈根向英国海军投降。二战结束后，此战舰被移交给美国，并于1946年参加了在比基尼环礁的核试验。</p>",
+    "ids": {
+      "IDS_PGSC508_DESCR": "Admiral Hipper 級的第三艘巡洋艦 Prinz Eugen 是按照重製後設計建造的。1941 年 5 月 24 日，此巡洋艦與主力艦 Bismarck 一同參與了丹麥海峽海戰，HMS Hood 在該場海戰中沉沒。1942 年 2 月，此巡洋艦成功通過英吉利海峽，但在前往挪威途中被英國潛水艇 HMS Trident 發射的魚雷命中。之後在 1945 年 5 月 7 日，Prinz Eugen 在哥本哈根向英國海軍投降。第二次世界大戰結束後，此艦艇移交美國，並在 1946 年參與了在比基尼環礁的核子實驗。"
+    }
+  },
+  "IDS_PGUA726_ART_BLACK_EUGEN": {
+    "value": "203 mm/60 SK C/34（LC/34炮座）",
+    "ids": {
+      "IDS_PGGM030_203MM_C34": "203 mm/60 SK C/34（LC/34 炮座）",
+      "IDS_PGGM031_203MM_C34_RF": "203 mm/60 SK C/34（LC/34 炮座）",
+      "IDS_PGGM065_203MM_C34": "203 mm/60 SK C/34（LC/34 炮座）",
+      "IDS_PGGM066_203MM_C34_RF": "203 mm/60 SK C/34（LC/34 炮座）",
+      "IDS_PGUA703_ART_P_O": "203 mm/60 SK C/34（LC/34 炮座）",
+      "IDS_PGUA711_C8_ART_STOCK": "203 mm/60 SK C/34（LC/34 炮座）"
+    }
+  },
+  "IDS_PGUE731_ENG_BLACK_EUGEN": {
+    "value": "推进系统：110000马力",
+    "ids": {
+      "IDS_PAUE916_ENG_AUSTIN": "推進系統：110,000 匹馬力",
+      "IDS_PBUE622_B7_ENG_TOP": "推進系統：110,000 匹馬力",
+      "IDS_PBUE624_ENG_DUKE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE705_CA8_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PBUE712_CA8_ENG_CHESHIRE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE717_ENG_AZUR_CHESHIRE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE801_C9_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PBUE901_C10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PFUE521_ENG_GRASSE": "推進系統：110,000 匹馬力",
+      "IDS_PFUE906_ENG_CHATEAURENAULT": "推進系統：110,000 匹馬力",
+      "IDS_PGUE600_ENG_AZUR_PRINZ_HEINRICH": "推進系統：110,000 匹馬力",
+      "IDS_PGUE608_BB7_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE704_ENG_P_O": "推進系統：110,000 匹馬力",
+      "IDS_PGUE711_C8_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE904_D10_2_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE910_D10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PIUE501_ENGINE_DUCA": "推進系統：110,000 匹馬力",
+      "IDS_PIUE607_ENG_FR_FERRUCCIO": "推進系統：110,000 匹馬力",
+      "IDS_PIUE608_C7_ENG_STOCK": "推進系統：110 000 匹馬力",
+      "IDS_PIUE905_DD10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PJUE509_ENG_OYODO": "推進系統：110,000 匹馬力",
+      "IDS_PJUE606_C7_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PRUE405_ENG_KIROV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE441_C5_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PRUE508_ENG_BLACK_MOLOTOV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE521_ENGINE_110000_MOLOTOV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE604_ENG_TASHKENT39": "推進系統：110,000 匹馬力",
+      "IDS_PSUE901_ENG_BAZAN": "推進系統：110,000 匹馬力",
+      "IDS_PUUE902_ENG_BRISBANE": "推進系統：110,000 匹馬力",
+      "IDS_PZUE714_ENG_DOU_JIAN": "推進系統：110,000 匹馬力",
+      "IDS_PZUE902_C10_ENG_STOCK": "推進系統：110,000 匹馬力"
+    }
+  },
+  "IDS_PGUS728_SUO_BLACK_EUGEN": {
+    "value": "FKS Typ 8",
+    "ids": {
+      "IDS_PGUS717_D8_SUO_STOCK": "FKS Typ 8",
+      "IDS_PGUS718_D8_SUO_STOCK": "FKS Typ 8",
+      "IDS_PGUS719_D8_SUO_STOCK": "FKS Typ 8",
+      "IDS_PGUS726_SUO_BLACK_ODIN": "FKS Typ 8",
+      "IDS_PGUS727_SUO_SABIE": "FKS Typ 8"
+    }
+  },
+  "IDS_PGUT728_TORP_BLACK_EUGEN": {
+    "value": "G7a T1",
+    "ids": {
+      "IDS_PGPT001_G7A_T1": "G7a T1",
+      "IDS_PGPT008_G7A_T1_Z": "G7a T1",
+      "IDS_PGPT016_G7A_MAINZ": "G7a T1",
+      "IDS_PGPT017_G7A_T1_ODIN": "G7a T1",
+      "IDS_PGPT019_G7A_DANZIG": "G7a T1",
+      "IDS_PGPT031_G7A_T1_Z35": "G7a T1",
+      "IDS_PGPT033_G7A_T1_POMMERN": "G7a T1",
+      "IDS_PGPT034_G7A_T1_MUNCHEN": "G7a T1",
+      "IDS_PGPT035_BRAND": "G7a T1",
+      "IDS_PGPT038_G7A_WEIMAR": "G7a T1",
+      "IDS_PGPT042_SCHONBERG": "G7a T1",
+      "IDS_PGPT044_G7A_WH_BLACKTEMPLAR": "G7a T1",
+      "IDS_PGPT047_G7A_T1_MECK": "G7a T1",
+      "IDS_PGPT048_533MM_T11": "G7a T1",
+      "IDS_PGPT056_533MM_LEIPZIG": "G7a T1",
+      "IDS_PGPT057_533MM_Z_42": "G7a T1",
+      "IDS_PGPT058_SCHILL": "G7a T1",
+      "IDS_PGPT067_533MM_G7A": "G7a T1",
+      "IDS_PGPT401_533_G7AT1": "G7a T1",
+      "IDS_PGPT611_SCHARNHORST": "G7a T1",
+      "IDS_PGPT701_533_TIRPITZ": "G7a T1",
+      "IDS_PGPT702_PO": "G7a T1",
+      "IDS_PGUT401_C5_TORP_STOCK": "G7a T1",
+      "IDS_PGUT403_D5_TORP_TOP": "G7a T1",
+      "IDS_PGUT501_C6_TORP_STOCK": "G7a T1",
+      "IDS_PGUT502_D6_TORP_STOCK": "G7a T1",
+      "IDS_PGUT504_TORP_SCHONBERG": "G7a T1",
+      "IDS_PGUT509_TORP_LEIPZIG": "G7a T1",
+      "IDS_PGUT600_TORP_AZUR_PRINZ_HEINRICH": "G7a T1",
+      "IDS_PGUT601_C7_TORP_STOCK": "G7a T1",
+      "IDS_PGUT602_B7_TORP_STOCK": "G7a T1",
+      "IDS_PGUT607_TORP_MUNCHEN": "G7a T1",
+      "IDS_PGUT609_TORP_WEIMAR": "G7a T1",
+      "IDS_PGUT610_BB7_TORP": "G7a T1",
+      "IDS_PGUT611_SCHARNHORST": "G7a T1",
+      "IDS_PGUT612_TORP_BLACK_SCHARNHORST": "G7a T1",
+      "IDS_PGUT614_C7_TORP_STOCK": "G7a T1",
+      "IDS_PGUT701_533_TIRPITZ": "G7a T1",
+      "IDS_PGUT702_TORP_P_O": "G7a T1",
+      "IDS_PGUT706_TORP_BLACK_TIRPITZ": "G7a T1",
+      "IDS_PGUT707_TORP_MAINZ": "G7a T1",
+      "IDS_PGUT708_TORP_ODIN": "G7a T1",
+      "IDS_PGUT710_TORP_BRAND": "G7a T1",
+      "IDS_PGUT711_C8_TORP_STOCK": "G7a T1",
+      "IDS_PGUT712_TORP_Z35": "G7a T1",
+      "IDS_PGUT715_TORP_WH_BLACKTEMPLAR": "G7a T1",
+      "IDS_PGUT719_TORP_BLACK_MAINZ": "G7a T1",
+      "IDS_PGUT720_TORP_SCHILL": "G7a T1",
+      "IDS_PGUT721_TORP_BLACK_BRANDENBURG": "G7a T1",
+      "IDS_PGUT726_TORP_BLACK_ODIN": "G7a T1",
+      "IDS_PGUT727_TORP_SABIE": "G7a T1",
+      "IDS_PGUT800_TORP_COLORFUL_ROON": "G7a T1",
+      "IDS_PGUT801_C9_TORP_STOCK": "G7a T1",
+      "IDS_PGUT806_TORP_POMMERN": "G7a T1",
+      "IDS_PGUT811_TORP_BLACK_POMMERN": "G7a T1",
+      "IDS_PGUT812_C9_TORP_STOCK": "G7a T1",
+      "IDS_PGUT813_TORP_DANZIG": "G7a T1",
+      "IDS_PGUT901_C10_TORP_STOCK": "G7a T1",
+      "IDS_PGUT905_BB10_TORP_STOCK": "G7a T1",
+      "IDS_PGUT906_TORP_MECKLENBURG": "G7a T1",
+      "IDS_PGUT910_TORP_Z42": "G7a T1",
+      "IDS_PGUT911_S11_TORP_STOCK": "G7a T1",
+      "IDS_PGUT912_TORP_COLORFUL_SCHLIEFFEN": "G7a T1",
+      "IDS_PGUT915_TORP_FALKENHAYN": "G7a T1",
+      "IDS_PGUT974_TORP_HIND": "G7a T1",
+      "IDS_PRPT032_533MM_MAKAROV": "G7a T1",
+      "IDS_PRUT505_TORP_MAKAROV_CHALLENGE": "G7a T1",
+      "IDS_PRUT533_TORP_MAKAROV": "G7a T1",
+      "IDS_PXUT917_HINDENBURG_H19_TORP": "G7a T1"
+    }
+  },
+  "IDS_PJUA810_ART_OWARI": {
+    "value": "460 mm/45 Type 94（三联装炮塔）",
+    "ids": {
+      "IDS_PJGM001_460MM45_TYPE96": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJGM164_460MM45_TYPE96": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJGM178_460MM_45_TYPE94": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJUA906_ART_ARP_YAMATO": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJUA911_B10_ART_STOCK": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJUA912_ART_MUSASHI": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJUA914_ART_CLR_YAMATO": "460 mm/45 Type 94（三聯裝炮塔）",
+      "IDS_PJUA978_ART1_YAM": "460 mm/45 Type 94（三聯裝炮塔）"
+    }
+  },
+  "IDS_PJUE812_ENG_OWARI": {
+    "value": "推进系统：150000马力",
+    "ids": {
+      "IDS_PAUE802_CV9_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PAUE923_ENG_ESSEX": "推進系統：150,000 匹馬力",
+      "IDS_PAUE934_CV10_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PFUE713_ENG_JBART": "推進系統：150,000 匹馬力",
+      "IDS_PFUE803_ENG_BLACK_JBART": "推進系統：150,000 匹馬力",
+      "IDS_PGUE811_B9_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PIUE402_ENG_GENOVA": "推進系統：150,000 匹馬力",
+      "IDS_PIUE504_C6_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PIUE911_C10_ENG_STOCK": "推進系統：150 000 匹馬力",
+      "IDS_PJUE703_B8_ENG_TOP": "推進系統：150,000 匹馬力",
+      "IDS_PJUE709_ENG_RAGNAROK": "推進系統：150,000 匹馬力",
+      "IDS_PJUE710_ENG_IGNIS_PURGATIO": "推進系統：150,000 匹馬力",
+      "IDS_PJUE808_B9_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PJUE906_ENG_ARP_YAMATO": "推進系統：150,000 匹馬力",
+      "IDS_PJUE912_ENG_MUSASHI": "推進系統：150,000 匹馬力",
+      "IDS_PJUE915_ENG_SHINANO": "推進系統：150,000 匹馬力",
+      "IDS_PJUE917_ENG_CLR_YAMATO": "推進系統：150,000 匹馬力",
+      "IDS_PJUE931_B10_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PJUE977_ENG_YAM": "推進系統：150,000 匹馬力",
+      "IDS_PRUE818_ENG_SVERDLOVSK": "推進系統：150,000 匹馬力",
+      "IDS_PRUE913_D10_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PRUE914_ENG_SEVASTOPOL": "推進系統：150,000 匹馬力",
+      "IDS_PXUE701_B8_ENG_STOCK": "推進系統：150,000 匹馬力",
+      "IDS_PXUE923_YAMATO_H19_ENG": "推進系統：150,000 匹馬力"
+    }
+  },
+  "IDS_PJUS824_SUO_OWARI": {
+    "value": "Type9",
+    "ids": {
+      "IDS_PJUS823_SUO_BLACK_AZUMA": "Type9",
+      "IDS_PJUS971_SUO_AZUMAYA": "Type9"
+    }
+  },
+  "IDS_PL_SSE_CONDITIONS_MODULE": {
+    "value": "配件",
+    "ids": {
+      "IDS_MODAL_WINDOW_PCVO032_RULES_PARAGRAPH_3_HEADER": "配件",
+      "IDS_MODULES": "配件",
+      "IDS_SHIP_MANAGEMENT_MODULES_BLOCK_HEADER": "配件",
+      "IDS_SHIP_PARAM_ACTIVE_EFFECT_TYPE_MODULE": "配件",
+      "IDS_TIPS_MODULES": "配件",
+      "IDS_PL_SSE_CONDITIONS_MODULE_ACC": "配件"
+    }
+  },
+  "IDS_POZHARSKY": {
+    "value": "德米特里˙波扎尔斯基",
+    "ids": {
+      "IDS_PCEE605_DMITRY_POZHARSKY_FLAG": "Dmitry Pozharsky",
+      "IDS_PRSC558_FULL": "德米特里˙波扎爾斯基",
+      "IDS_PRUH727_HULL_DMITRY_POZHARSKY": "Dmitry Pozharsky"
+    }
+  },
+  "IDS_PRAB708_GREM": {
+    "value": "Grokhovsky G-37",
+    "ids": {
+      "IDS_PRAB502_SEROV_TOP": "格羅霍夫斯基 G-37",
+      "IDS_PRUB502_CV6_TB_TOP": "格羅霍夫斯基 G-37"
+    }
+  },
+  "IDS_PRGA3004_45MM_21K": {
+    "value": "45 mm 21-K炮座",
+    "ids": {
+      "IDS_PRGA023_21K_45MM": "45 mm 21-K 炮座"
+    }
+  },
+  "IDS_PRGA3005_3IN_76_2MM_30_LENDER_8_K": {
+    "value": "76.2 mm Model 1914/15（防空炮座）",
+    "ids": {
+      "IDS_PRGA062_76_2MM_30_LENDER_8_K": "76.2 mm Model 1914/15（防空炮座）"
+    }
+  },
+  "IDS_PRGA3006_12_7MM_DSHK": {
+    "value": "12.7 mm DShK",
+    "ids": {
+      "IDS_PRGA008_12_DSHK": "12.7 mm DShK"
+    }
+  },
+  "IDS_PRGM3007_4IN_102MM_60_1911": {
+    "value": "102 mm/60 Model 1911（Obukhov Plant炮座）",
+    "ids": {
+      "IDS_PRGM035_4IN60": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA121_D2_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA211_D3_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA311_D4_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）"
+    }
+  },
+  "IDS_PRGT3008_450MM_3TUBES": {
+    "value": "450 mm Goncharov 三联",
+    "ids": {
+      "IDS_PRGT034_450MM_3TUBES": "450 mm Goncharov Triple"
+    }
+  },
+  "IDS_PRPA261_203MM_HE_GREM": {
+    "value": "203 mm HE OEA Mle 1927",
+    "ids": {
+      "IDS_PFPA020_203MM_50_1924_HE": "203 mm HE OEA Mle 1927",
+      "IDS_PFPA022_203MM_55_1931_HE": "203 mm HE OEA Mle 1927",
+      "IDS_PFPA091_203MM_HE_DUPLEIX": "203 mm HE OEA Mle 1927",
+      "IDS_PFPA097_203MM_HE_SURCOUF": "203 mm HE OEA Mle 1927",
+      "IDS_PXPA063_203MM_50_1924_HE": "203 mm HE OEA Mle 1927",
+      "IDS_PZPA029_203MM_HE_MARTEL_CN": "203 mm HE OEA Mle 1927"
+    }
+  },
+  "IDS_PRPA262_203MM_AP_GREM": {
+    "value": "203 mm AP OPf Mle 1936",
+    "ids": {
+      "IDS_PFPA019_203MM_50_1924_AP": "203 mm AP OPf Mle 1936",
+      "IDS_PFPA021_203MM_55_1931_AP": "203 mm AP OPf Mle 1936",
+      "IDS_PFPA092_203MM_AP_DUPLEIX": "203 mm AP OPf Mle 1936",
+      "IDS_PFPA098_203MM_AP_SURCOUF": "203 mm AP OPf Mle 1936",
+      "IDS_PXPA062_203MM_50_1924_AP": "203 mm AP OPf Mle 1936",
+      "IDS_PZPA030_203MM_AP_MARTEL_CN": "203 mm AP OPf Mle 1936"
+    }
+  },
+  "IDS_PRPA265_406MM_HE_SOVET": {
+    "value": "406 mm HE Model 1928",
+    "ids": {
+      "IDS_PJPA180_406MM_HE_RAIJU": "406 mm HE Model 1928",
+      "IDS_PRPA099_406MM_HE_MOD1914BIS": "406 mm HE Model 1928",
+      "IDS_PRPA203_406MM_HE_NAVARIN": "406 mm HE Model 1928",
+      "IDS_PRPA208_406MM_HE_SEVEROMORSK": "406 mm HE Model 1928",
+      "IDS_PRPA212_406MM_HE_MOD1928": "406 mm HE Model 1928"
+    }
+  },
+  "IDS_PRPA266_406MM_AP_SOVET": {
+    "value": "406 mm AP Model 1928",
+    "ids": {
+      "IDS_PJPA181_406MM_AP_RAIJU": "406 mm AP Model 1928",
+      "IDS_PRPA098_406MM_AP_MOD1914BIS": "406 mm AP Model 1928",
+      "IDS_PRPA204_406MM_AP_NAVARIN": "406 mm AP Model 1928",
+      "IDS_PRPA209_406MM_AP_SEVEROMORSK": "406 mm AP Model 1928",
+      "IDS_PRPA213_406MM_AP_MOD1928": "406 mm AP Model 1928"
+    }
+  },
+  "IDS_PRPA267_102MM_HE_SHAUMIAN": {
+    "value": "102 mm HE Model 1915",
+    "ids": {
+      "IDS_PRPA008_102MM_HE_1915": "102 mm HE Model 1915",
+      "IDS_PRPA133_102MM_HE_B_2": "102 mm HE Model 1915"
+    }
+  },
+  "IDS_PRPA999_457MM_AP_KR_ZNAMYA_WHEELHOUSE": {
+    "value": "457 mm AP Model 1946",
+    "ids": {
+      "IDS_PRPA080_457MM_AP": "457 mm AP Model 1946",
+      "IDS_PRPA144_457MM_AP_USHAKOV": "457 mm AP Model 1946",
+      "IDS_PZPA056_457MM_AP": "457 mm AP Model 1946",
+      "IDS_PZPA074_457MM_AP_CHANGZHENG": "457 mm AP Model 1946"
+    }
+  },
+  "IDS_PRPT036_450MM_SHAUMIAN": {
+    "value": "Torpedo Model 1908",
+    "ids": {
+      "IDS_PRPT003_PAT_08": "Torpedo Model 1908"
+    }
+  },
+  "IDS_PRPT092_GREM_AIR": {
+    "value": "TAN-12",
+    "ids": {
+      "IDS_PRPT041_POBEDA_STOCK": "TAN-12",
+      "IDS_PRPT045_SEROV_STOCK": "TAN-12",
+      "IDS_PRPT048_SEROV_TOP": "TAN-12"
+    }
+  },
+  "IDS_PRPT093_GREM_SURFACE": {
+    "value": "53-39 mod.3",
+    "ids": {
+      "IDS_PRPT022_53_39_MOD3": "53-39 mod. 3",
+      "IDS_PRPT037_OCHAKOV": "53-39 mod. 3",
+      "IDS_PRUT712_TORP_OCHAKOV": "53-39 mod. 3",
+      "IDS_PRUT723_D8_TORP_STOCK_2": "53-39 mod. 3",
+      "IDS_PRUT901_D10_TORP_STOCK": "53-39 mod. 3",
+      "IDS_PRUT905_D10_TORP_STOCK_3": "53-39 mod. 3"
+    }
+  },
+  "IDS_PRPT998_KR_ZNAMYA_WHEELHOUSE": {
+    "value": "53-38U",
+    "ids": {
+      "IDS_PRPT018_53_38I": "53-38U",
+      "IDS_PRPT024_53_38I_LAZO": "53-38U",
+      "IDS_PRPT051_53_38U_SUB": "53-38U",
+      "IDS_PRPT062_533MM_SUB": "53-38U",
+      "IDS_PRPT066_533MM_SUB_T11": "53-38U",
+      "IDS_PRPT075_MINSK": "53-38U",
+      "IDS_PRPT990_SUBTEST": "53-38U",
+      "IDS_PRUT600_TORP_BLACK_LAZO": "53-38U",
+      "IDS_PRUT602_D7_TORP_TOP": "53-38U",
+      "IDS_PRUT603_D7_TORP_STOCK_2": "53-38U",
+      "IDS_PRUT605_TORP_TASHKENT39": "53-38U",
+      "IDS_PRUT702_TORP_LAZO": "53-38U",
+      "IDS_PRUT705_CA8_TORP_STOCK": "53-38U",
+      "IDS_PRUT721_D8_TORP_STOCK": "53-38U",
+      "IDS_PRUT731_C8_TORP_STOCK": "53-38U",
+      "IDS_PRUT999_TEST_SUB": "53-38U"
+    }
+  },
+  "IDS_PRSB999_DESCR": {
+    "value": "<p>20世纪40年代上半叶，苏联开始了新型战列舰的初步研究工作。该项目基于项目23的设计而来，在后者的基础上增加了防空火力并强化装甲、防雷以及艏艉的防护。1945年12月，项目24战列舰的相关的性能规格需求正式下发，明确该舰的主要任务是在公海以及近岸海战中摧毁所有类型的水面战舰。该舰的相关研发工作自1948年起由中央特种船舶设计局开始推进，至1950年已提交了多个初步设计方案，其中一个方案通过了审议。</p><p class=\"p_spacing\"> </p><p>假如该级舰得以建造，那么二号舰可能会根据首舰的服役经验，采用改进后的设计完工。其中，原先的130毫米BL-110A高平两用火炮将会被152毫米BL-118火炮所取代。项目24战列舰的设计初衷是对抗美国的依阿华级战列舰，所以该舰将会在SM-8炮塔内配备457毫米B-45火炮。</p>",
+    "ids": {
+      "IDS_PRSB530_DESCR": "<p>在1940 年代上半葉，蘇聯開始基於專案 23 研製新型主力艦。該艦在原型基礎上加強了防空火炮配置，提升了裝甲防護水平，改進了防雷系統和艦體末端防護。1945 年 12 月，專案 24 主力艦的技術任務書正式獲批，其核心戰鬥使命被確定為在遠洋和近海海域殲滅各類水面艦艇。新型主力艦的研發工作自 1948 年起由中央船舶設計局（TsKB-L）負責推進，至 1950 年已完成了預設計方案階段的多個方案論證，其中一個方案獲得正式批准。</p><p class=\"p_spacing\"> </p><p>按照設想，若首艦建成後經過實際運用驗證，後續建造的第二艘艦體將採用現代化改進方案：原計劃配備的 BL-110A 型 130 毫米口徑通用火炮將被替換為 BL-118 型152 毫米口徑火炮。該級艦的設計初衷是針對美國依阿華級主力艦，計劃搭載配備 SM-8 型炮塔的 B-45 型 457 毫米口徑主炮。</p>"
+    }
+  },
+  "IDS_PRSC708_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PRUA510_ART_SHAUMIAN": {
+    "value": "102 mm/60 Model 1911（Obukhov Plant炮座）",
+    "ids": {
+      "IDS_PRGM035_4IN60": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA121_D2_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA211_D3_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）",
+      "IDS_PRUA311_D4_ART_STOCK": "102 mm/60 Model 1911（Obukhov Plant 炮座）"
+    }
+  },
+  "IDS_PRUA717_ART_GREM": {
+    "value": "203 mm/55 Mle 1934（炮塔）",
+    "ids": {
+      "IDS_PFGM040_203_55MM_MLE_1931_TRIPLE": "203 mm/55 Mle 1934（炮塔）",
+      "IDS_PFUA702_C8_ART_TOP": "203 mm/55 Mle 1934（炮塔）",
+      "IDS_PFUA801_C9_ART_STOCK": "203 mm/55 Mle 1934（炮塔）",
+      "IDS_PZGM068_203_55MM_MLE_1931_TRIPLE": "203 mm/55 Mle 1934（炮塔）"
+    }
+  },
+  "IDS_PRUA925_ART_KZ_RUBKA": {
+    "value": "457 mm/48 B-45（SM-8炮座）",
+    "ids": {
+      "IDS_PRGM129_457MM_48": "457 mm/48 B-45（SM-8 炮座）",
+      "IDS_PRGM3000_457MM_48": "457 mm/48 B-45（SM-8 炮座）",
+      "IDS_PRUA903_B10_ART_TOP": "457 mm/48 B-45（SM-8 炮座）",
+      "IDS_PRUA980_ART_KREMLIN": "457 mm/48 B-45（SM-8炮座）",
+      "IDS_PZGM136_457MM_48": "457 mm/48 B-45（SM-8炮座）",
+      "IDS_PZUA904_ART_CHANGZHENG": "457 mm/48 B-45（SM-8炮座）"
+    }
+  },
+  "IDS_PRUA926_ART_STRANA_SOVETOV": {
+    "value": "406 mm/52（MK-5-16炮座）",
+    "ids": {
+      "IDS_PJGM243_406MM_52_MK_5_16_QUADRUPLE": "406 mm/52（MK-5-16炮座）",
+      "IDS_PJUA916_ART_LAZAREV_H_EVENT": "406 mm/52（MK-5-16炮座）",
+      "IDS_PJUA917_ART_RAIJU": "406 mm/52（MK-5-16炮座）",
+      "IDS_PRGM207_406MM_52_MK_5_16_QUADRUPLE": "406 mm/52（MK-5-16 炮座）",
+      "IDS_PRUA809_B9_ART_STOCK": "406 mm/52（MK-5-16炮座）",
+      "IDS_PRUA920_B10_ART_STOCK": "406 mm/52（MK-5-16炮座）"
+    }
+  },
+  "IDS_PRUB704_TB_GREM": {
+    "value": "Grokhovsky G-37",
+    "ids": {
+      "IDS_PRAB502_SEROV_TOP": "格羅霍夫斯基 G-37",
+      "IDS_PRUB502_CV6_TB_TOP": "格羅霍夫斯基 G-37"
+    }
+  },
+  "IDS_PRUE725_ENG_GREM": {
+    "value": "推进系统：120000马力",
+    "ids": {
+      "IDS_PAUE509_ENG_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE700_CV8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE703_ENG_ENTERPRISE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE705_CA8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE707_ENG_ENTERPRISE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE713_ENG_ANCHORAGE": "推進系統：120,000 匹馬力",
+      "IDS_PAUE714_ENG_HORNET": "推進系統：120,000 匹馬力",
+      "IDS_PAUE719_ENG_ROCHESTER": "推進系統：120,000 匹馬力",
+      "IDS_PAUE722_ENG_BLACK_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE728_CV8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE751_ENGINE_120000_SAIPAN": "推進系統：120,000 匹馬力",
+      "IDS_PAUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE804_CA9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE808_ENG_TULSA": "推進系統：120,000 匹馬力",
+      "IDS_PAUE821_ENGINE_120000": "推進系統：120,000 匹馬力",
+      "IDS_PAUE902_C10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE904_ENG_SALEM": "推進系統：120,000 匹馬力",
+      "IDS_PAUE905_CL10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PAUE921_ENGINE_120000_BUFFALO": "推進系統：120,000 匹馬力",
+      "IDS_PBUE510_B6_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE606_ENG_RENOWN": "推進系統：120,000 匹馬力",
+      "IDS_PBUE811_B9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE905_CA10_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PBUE919_ENG_DEFENCE": "推進系統：120,000 匹馬力",
+      "IDS_PBUE990_ENG_CYCLOPS": "推進系統：120,000 匹馬力",
+      "IDS_PFUE703_ENG_BAYARD": "推進系統：120,000 匹馬力",
+      "IDS_PFUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PGUE728_C8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PIUE810_C9_ENG_STOCK": "推進系統：120 000 匹馬力",
+      "IDS_PRUE403_ENG_MIKOYAN": "推進系統：120,000 匹馬力",
+      "IDS_PRUE404_CA5_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PVUE702_C8_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PVUE801_C9_ENG_STOCK": "推進系統：120,000 匹馬力",
+      "IDS_PZUE707_ENG_SANZANG": "推進系統：120,000 匹馬力",
+      "IDS_PZUE810_ENG_HENGSHUI": "推進系統：120,000 匹馬力"
+    }
+  },
+  "IDS_PRUE928_ENG_KZ_RUBKA": {
+    "value": "推进系统：280000马力",
+    "ids": {
+      "IDS_PAUE918_CV11_ENG_STOCK": "推進系統：280,000 匹馬力",
+      "IDS_PRUE904_B10_ENG_STOCK": "推進系統：280,000 匹馬力",
+      "IDS_PRUE905_B10_ENG_STOCK": "推進系統：280,000 匹馬力",
+      "IDS_PRUE927_ENG_KR_ZNAMYA": "推進系統：280,000 匹馬力",
+      "IDS_PRUE976_STALINGRAD": "推進系統：280,000 匹馬力",
+      "IDS_PRUE977_STALINGRAD": "推進系統：280,000 匹馬力",
+      "IDS_PRUE980_ENG_KREMLIN": "推進系統：280,000 匹馬力",
+      "IDS_PXUE924_ENG_DICTATOR": "推進系統：280,000 匹馬力",
+      "IDS_PXUE926_ENG_PREDATOR": "推進系統：280,000 匹馬力",
+      "IDS_PXUE927_ENG_BOTOMANCER": "推進系統：280,000 匹馬力"
+    }
+  },
+  "IDS_PRUF703_FC_GREM": {
+    "value": "Type 6",
+    "ids": {
+      "IDS_PRUF501_CV6_FC": "Type 6"
+    }
+  },
+  "IDS_PRUS516_SUO_SHAUMIAN": {
+    "value": "GFCS VI",
+    "ids": {
+      "IDS_PRUS507_SUO_BLACK_MOLOTOV": "GFCS VI",
+      "IDS_PRUS508_SUO_TOP_SECRET": "GFCS VI",
+      "IDS_PRUS509_D6_SUO_STOCK": "GFCS VI",
+      "IDS_PRUS515_SUO_DESTROYER_CHALLENGE": "GFCS VI",
+      "IDS_PRUS521_SUO_MOLOTOV": "GFCS VI"
+    }
+  },
+  "IDS_PRUS725_SUO_GREM": {
+    "value": "GFCS VIII",
+    "ids": {
+      "IDS_PRUS709_SUO_FRUNZE": "GFCS VIII",
+      "IDS_PRUS710_D8_SUO_STOCK": "GFCS VIII",
+      "IDS_PRUS712_D8_SUO_STOCK_2": "GFCS VIII",
+      "IDS_PRUS724_D8_SUO_STOCK": "GFCS VIII",
+      "IDS_PZUS712_B8_SUO_STOCK": "SUO VIII"
+    }
+  },
+  "IDS_PRUS922_SUO_KZ_RUBKA": {
+    "value": "GFCS X",
+    "ids": {
+      "IDS_PRUS920_D10_SUO_STOCK": "GFCS X",
+      "IDS_PRUS921_SUO_KR_ZNAMYA": "GFCS X",
+      "IDS_PXUS927_SUO_DICTATOR": "GFCS X",
+      "IDS_PXUS928_SUO_PREDATOR": "GFCS X",
+      "IDS_PXUS929_SUO_BOTOMANCER": "GFCS X",
+      "IDS_PZUS906_B10_SUO_STOCK": "SUO X"
+    }
+  },
+  "IDS_PRUS923_SUO_STRANA_SOVETOV": {
+    "value": "GFCS X",
+    "ids": {
+      "IDS_PRUS920_D10_SUO_STOCK": "GFCS X",
+      "IDS_PRUS921_SUO_KR_ZNAMYA": "GFCS X",
+      "IDS_PXUS927_SUO_DICTATOR": "GFCS X",
+      "IDS_PXUS928_SUO_PREDATOR": "GFCS X",
+      "IDS_PXUS929_SUO_BOTOMANCER": "GFCS X",
+      "IDS_PZUS906_B10_SUO_STOCK": "SUO X"
+    }
+  },
+  "IDS_PRUT507_TORP_SHAUMIAN": {
+    "value": "Torpedo Model 1908",
+    "ids": {
+      "IDS_PRPT003_PAT_08": "Torpedo Model 1908"
+    }
+  },
+  "IDS_PRUT715_TORP_GREM": {
+    "value": "550 mm 23DT",
+    "ids": {
+      "IDS_PFPT003_550_23DT": "550 mm 23DT",
+      "IDS_PFPT006_550_GRASSE": "550 mm 23DT",
+      "IDS_PFPT012_550_BAYARD": "550 mm 23DT",
+      "IDS_PFPT017_550_MARCEAU": "550 mm 23DT",
+      "IDS_PFPT019_550_T11": "550 mm 23DT",
+      "IDS_PFPT020_550MM_DUPLEIX": "550 mm 23DT",
+      "IDS_PFUT501_C6_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT502_TORP_DE_GRASSE": "550 mm 23DT",
+      "IDS_PFUT505_C6_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT601_C7_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT701_C8_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT703_TORP_BAYARD": "550 mm 23DT",
+      "IDS_PFUT801_C9_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT804_TORP_DUPERRE": "550 mm 23DT",
+      "IDS_PFUT805_TORP_FORBIN": "550 mm 23DT",
+      "IDS_PFUT901_C10_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT903_TORP_MARCEAU": "550 mm 23DT",
+      "IDS_PFUT905_TORP_SURCOUF": "550 mm 23DT",
+      "IDS_PFUT906_D11_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT907_S10_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT908_TORP_CLR_CONDE": "550 mm 23DT",
+      "IDS_PFUT930_C11_TORP_STOCK": "550 mm 23DT",
+      "IDS_PFUT991_C10_TORP_STOCK": "550 mm 23DT",
+      "IDS_PIPT019_550_FR_25": "550 mm 23DT",
+      "IDS_PXUT741_C8_TORP_STOCK": "550 mm 23DT",
+      "IDS_PXUT918_HENRI_H19_TORP": "550 mm 23DT",
+      "IDS_PZUT707_TORP_MARTEL_CN": "550 mm 23DT"
+    }
+  },
+  "IDS_PRUT920_TORP_KZ_RUBKA": {
+    "value": "53-51",
+    "ids": {
+      "IDS_PRPT023_53_51": "53-51",
+      "IDS_PRPT033_53_51_NEUSTR": "53-51",
+      "IDS_PRPT034_SMOLENSK": "53-51",
+      "IDS_PRPT052_53_51_T11": "53-51",
+      "IDS_PRPT999_53_TST_SUB": "53-51",
+      "IDS_PRUT701_TORP_KUTUZOV": "53-51",
+      "IDS_PRUT711_53_51": "53-51",
+      "IDS_PRUT713_D8_TORP_STOCK": "53-51",
+      "IDS_PRUT809_TORP_NEUSTR": "53-51",
+      "IDS_PRUT814_TORP_SOVREMENNY": "53-51",
+      "IDS_PRUT815_D9_TORP_STOCK": "53-51",
+      "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH": "53-51",
+      "IDS_PRUT907_TORP_SMOLENSK": "53-51",
+      "IDS_PRUT909_CA10_TORP_STOCK": "53-51",
+      "IDS_PRUT912_D10_TORP_STOCK": "53-51",
+      "IDS_PRUT915_TORP_BLACK_SMOLENSK": "53-51",
+      "IDS_PRUT917_TORP_CRUISER_TEST": "53-51",
+      "IDS_PRUT918_D10_TORP_STOCK": "53-51",
+      "IDS_PWUT901_D10_TORP_STOCK": "53-51",
+      "IDS_PZPT041_LUSHUN": "53-51",
+      "IDS_PZPT057_XI_AN": "53-51",
+      "IDS_PZUT904_TORP_LUSHUN": "53-51",
+      "IDS_PZUT905_C11_TORP_STOCK": "53-51"
+    }
+  },
+  "IDS_PUES400_BLACK_BRISBANE": {
+    "value": "特别",
+    "ids": {
+      "IDS_PAEM001_BLACKFRIDAY_SIMS": "特別",
+      "IDS_PAEM002_BLACKFRIDAY_ALASKA": "特別",
+      "IDS_PAES208_BLACK_SAIPAN": "特別",
+      "IDS_PAES318_BLACK_MASSACHUSETTS": "特別",
+      "IDS_PAES339_BLACK_KEARSARGE": "特別",
+      "IDS_PAES417_BLACK_ATLANTA": "特別",
+      "IDS_PAES527_BLACKBLACK": "特別",
+      "IDS_PBES396_REPULSEBLACK": "特別",
+      "IDS_PBES538_BLACK_COSSACK": "特別",
+      "IDS_PFES309_BLACK_JEAN_BART": "特別",
+      "IDS_PFES336_BLACK_DUNKERQUE": "特別",
+      "IDS_PGEM001_BLACKFRIDAY_GZEPPELIN": "特別",
+      "IDS_PGEM002_BLACKFRIDAY_SCHARNHORST": "特別",
+      "IDS_PGES309_BLACK_POMMERN": "特別",
+      "IDS_PGES3108_BRANDENBURGBLACK": "特別",
+      "IDS_PGES348_BLACK_TIRPITZ": "特別",
+      "IDS_PGES438_BLACK_MAINZ": "特別",
+      "IDS_PIES410_BLACK_NAPOLI": "特別",
+      "IDS_PJES118_BLACK_KAGA": "特別",
+      "IDS_PJES389_IWAMIBLACK": "特別",
+      "IDS_PJES418_ATAGO_BLACK": "特別",
+      "IDS_PJES420_BLACK_YOSHINO": "特別",
+      "IDS_PJES429_BLACK_AZUMA": "特別",
+      "IDS_PJES506_BLACK_SHINONOME": "特別",
+      "IDS_PJES538_ASASHIO_BLACK": "特別",
+      "IDS_PRES208_BLACK_CHKALOV": "特別",
+      "IDS_PRES406_BLACK_MOLOTOV": "特別",
+      "IDS_PRES440_SMOLENSKBLACK": "特別",
+      "IDS_PRES447_LAZOBLACK": "特別",
+      "IDS_PRES608_BLACK_S_189": "特別",
+      "IDS_PWES507_BLACK_BLYSKAWICA": "特別",
+      "IDS_PZES518_BLACK_LOYANG": "特別"
+    }
+  },
+  "IDS_PUSC590_DESCR": {
+    "value": "二战后，澳大利亚皇家海军开始缩减舰队，旨在提高战舰质量而不是增加数量。澳大利亚建造了5艘现代驱逐舰，并向英国购买了2艘航空母舰，还考虑购买更大的战舰来护送航空母舰。当时英国正在开发的配备两用主炮的巡洋舰米诺陶号可能会是合适的选择。",
+    "ids": {
+      "IDS_PUSC510_DESCR": "第二次世界大戰後，澳洲皇家海軍開始縮減艦隊，目的是改善艦隊品質而非增加數量。澳洲建造了五艘現代驅逐艦，並從英國收購了兩艘航空母艦。他們還考慮購買更大的艦艇來護衛航空母艦。當時在英國仍處於開發階段且裝備有高平兩用主炮的巡洋艦 Minotaur，可能就是合適的選擇。"
+    }
+  },
+  "IDS_PUUA903_ART_BLACK_BRISBANE": {
+    "value": "152 mm/50 QF Mk.V（Mk.XXVI炮座）",
+    "ids": {
+      "IDS_PBGM024_6IN50_QF_MK_V": "152 mm/50 QF Mk.V（Mk.XXVI 炮座）",
+      "IDS_PBUA707_ART_TIGER59": "152 mm/50 QF Mk.V（Mk.XXVI 炮座）",
+      "IDS_PBUA714_ART_TIGER_TEST": "152 mm/50 QF Mk.V（Mk.XXVI炮座）",
+      "IDS_PBUA901_C10_ART_STOCK": "152 mm/50 QF Mk.V（Mk.XXVI 炮座）",
+      "IDS_PBUA930_C11_ART_STOCK": "152 mm/50 QF Mk.V（Mk.XXVI 炮座）",
+      "IDS_PUUA902_ART_BRISBANE": "152 mm/50 QF Mk.V（Mk.XXVI 炮座）",
+      "IDS_PVGM064_6IN50_QF_MK_V": "152 mm/50 QF Mk.V（Mk.XXVI炮座）",
+      "IDS_PVUA803_ART_F_MIRANDA": "152 mm/50 QF Mk.V（Mk.XXVI炮座）"
+    }
+  },
+  "IDS_PUUE903_ENG_BLACK_BRISBANE": {
+    "value": "推进系统：110000马力",
+    "ids": {
+      "IDS_PAUE916_ENG_AUSTIN": "推進系統：110,000 匹馬力",
+      "IDS_PBUE622_B7_ENG_TOP": "推進系統：110,000 匹馬力",
+      "IDS_PBUE624_ENG_DUKE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE705_CA8_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PBUE712_CA8_ENG_CHESHIRE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE717_ENG_AZUR_CHESHIRE": "推進系統：110,000 匹馬力",
+      "IDS_PBUE801_C9_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PBUE901_C10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PFUE521_ENG_GRASSE": "推進系統：110,000 匹馬力",
+      "IDS_PFUE906_ENG_CHATEAURENAULT": "推進系統：110,000 匹馬力",
+      "IDS_PGUE600_ENG_AZUR_PRINZ_HEINRICH": "推進系統：110,000 匹馬力",
+      "IDS_PGUE608_BB7_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE704_ENG_P_O": "推進系統：110,000 匹馬力",
+      "IDS_PGUE711_C8_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE904_D10_2_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PGUE910_D10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PIUE501_ENGINE_DUCA": "推進系統：110,000 匹馬力",
+      "IDS_PIUE607_ENG_FR_FERRUCCIO": "推進系統：110,000 匹馬力",
+      "IDS_PIUE608_C7_ENG_STOCK": "推進系統：110 000 匹馬力",
+      "IDS_PIUE905_DD10_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PJUE509_ENG_OYODO": "推進系統：110,000 匹馬力",
+      "IDS_PJUE606_C7_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PRUE405_ENG_KIROV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE441_C5_ENG_STOCK": "推進系統：110,000 匹馬力",
+      "IDS_PRUE508_ENG_BLACK_MOLOTOV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE521_ENGINE_110000_MOLOTOV": "推進系統：110,000 匹馬力",
+      "IDS_PRUE604_ENG_TASHKENT39": "推進系統：110,000 匹馬力",
+      "IDS_PSUE901_ENG_BAZAN": "推進系統：110,000 匹馬力",
+      "IDS_PUUE902_ENG_BRISBANE": "推進系統：110,000 匹馬力",
+      "IDS_PZUE714_ENG_DOU_JIAN": "推進系統：110,000 匹馬力",
+      "IDS_PZUE902_C10_ENG_STOCK": "推進系統：110,000 匹馬力"
+    }
+  },
+  "IDS_PUUS903_SUO_BLACK_BRISBANE": {
+    "value": "Mk X",
+    "ids": {
+      "IDS_PBUS905_SUO_THUNDERER": "Mk X mod. 1",
+      "IDS_PBUS915_SUO_ZEUS": "Mk X"
+    }
+  },
+  "IDS_PUUT903_TORP_BLACK_BRISBANE": {
+    "value": "533 mm Mk VII",
+    "ids": {
+      "IDS_PBPT006_533_MKVII": "533 mm Mk VII",
+      "IDS_PBPT014_533_LONDON": "533 mm Mk VII",
+      "IDS_PBPT030_533_MKVII_MONMUTH": "533 mm Mk VII",
+      "IDS_PBPT043_533MM_NOTTINGHAM": "533 mm Mk VII",
+      "IDS_PBUT402_C5_TORP_TOP": "533 mm Mk VII",
+      "IDS_PBUT403_TORP_ANT": "533 mm Mk VII",
+      "IDS_PBUT405_CA5_TORP_STOCK": "533 mm Mk VII",
+      "IDS_PBUT501_C6_TORP_STOCK": "533 mm Mk VII",
+      "IDS_PBUT505_D6_TORP_TOP": "533 mm Mk VII",
+      "IDS_PBUT507_TORP_LONDON": "533 mm Mk VII",
+      "IDS_PBUT605_D7_TORP_STOCK": "533 mm Mk VII",
+      "IDS_PBUT713_TORP_NOTTINGHAM": "533 mm Mk VII",
+      "IDS_PBUT908_TORP_MONMOUTH": "533 mm Mk VII",
+      "IDS_PHUT501_TORP_KORTENAER": "533 mm Mk VII",
+      "IDS_PRPT916_DESTROYER_CHALLENGE": "533 mm Mk VII",
+      "IDS_PUUT902_TORP_BRISBANE": "533 mm Mk VII",
+      "IDS_PWPT022_533_PIORUN": "533 mm Mk VII",
+      "IDS_PWUT403_D5_TORP_STOCK": "533 mm Mk VII",
+      "IDS_PWUT503_D6_TORP_STOCK": "533 mm Mk VII",
+      "IDS_PZPT012_533_MKVII_C": "533 mm Mk VII"
+    }
+  },
+  "IDS_PVECOMMON_ALLIED_A": {
+    "value": "友军",
+    "ids": {
+      "IDS_ALLIED_FRAGS": "我方",
+      "IDS_ALLIES": "我方",
+      "IDS_ALLY_TEAM": "友軍",
+      "IDS_BATTLE_STATS_TEAMMATES": "我方",
+      "IDS_OPTIONS_ALLY": "我方"
+    }
+  },
+  "IDS_PVECOMMON_CARRIERS": {
+    "value": "航空母舰",
+    "ids": {
+      "IDS_AIRCARRIER": "航空母艦",
+      "IDS_AIRCARRIERS": "航空母艦",
+      "IDS_AIRCARRIER_PL_GENITIVE": "航空母艦",
+      "IDS_CARRIER": "航空母艦",
+      "IDS_CARRIERS": "航空母艦",
+      "IDS_DOGTAGS_EMBLEM_CLASSES_SUBGROUP_AIRCARRIER": "航空母艦",
+      "IDS_PREFERENCES_KEYBINDINGS_SECTION_HEADER_AVIATION_CARRIER": "航空母艦",
+      "IDS_PVE_AIRCARRIERS": "航空母艦",
+      "IDS_PXSA002_FULL": "航空母艦",
+      "IDS_SHIP_TAG_AIRCARRIER": "航空母艦",
+      "IDS_SPECTATE_CARRIER": "航空母艦",
+      "IDS_TIPS_AIRCRAFT_CARRIER": "航空母艦",
+      "IDS_TITLE_AIRCRAFT_CARRIER": "航空母艦",
+      "IDS_PL_CARRIER_CLASS": "航空母艦",
+      "IDS_PL_CARRIER_CLASS_ACC": "航空母艦",
+      "IDS_PL_CARRIER_CLASS_DAT": "航空母艦",
+      "IDS_PL_CARRIER_CLASS_GEN": "航空母艦",
+      "IDS_PL_CARRIER_CLASS_PREP": "航空母艦"
+    }
+  },
+  "IDS_PVECOMMON_CUSTOM_NAME_COMMAND": {
+    "value": "军队指挥官",
+    "ids": {
+      "IDS_OP_01_01_COMMAND": "軍隊指揮",
+      "IDS_OP_01_03_COMMANDER": "軍隊指揮",
+      "IDS_OP_01_04_NAME_COMMANDER": "軍隊指揮",
+      "IDS_OP_02_03_NAME_COMMAND": "軍隊指揮",
+      "IDS_OP_10_COMMANDER": "軍隊指揮",
+      "IDS_OP_NS_CUSTOM_NAME_COMMANDER": "軍隊指揮"
+    }
+  },
+  "IDS_PVECOMMON_HARBOR_A": {
+    "value": "港口",
+    "ids": {
+      "IDS_CHOOSE_PORT": "港口",
+      "IDS_DOCK": "港口",
+      "IDS_LOBBY_CHAT_GENERAL": "港口"
+    }
+  },
+  "IDS_PVECOMMON_HARBOR_B": {
+    "value": "港口",
+    "ids": {
+      "IDS_CHOOSE_PORT": "港口",
+      "IDS_DOCK": "港口",
+      "IDS_LOBBY_CHAT_GENERAL": "港口"
+    }
+  },
+  "IDS_PVECOMMON_HARBOR_C": {
+    "value": "港口",
+    "ids": {
+      "IDS_CHOOSE_PORT": "港口",
+      "IDS_DOCK": "港口",
+      "IDS_LOBBY_CHAT_GENERAL": "港口"
+    }
+  },
+  "IDS_PVECOMMON_MAIN_TASK_A": {
+    "value": "主要目标",
+    "ids": {
+      "IDS_MAIN_TASK": "主要工作"
+    }
+  },
+  "IDS_PVECOMMON_NAVY_A": {
+    "value": "中队",
+    "ids": {
+      "IDS_HELP_ESCADRILLE": "航空中隊",
+      "IDS_SHIP_PARAM_PLANE_SQUAD": "航空中隊",
+      "IDS_SPECTATE_SQUADRON": "航空中隊",
+      "IDS_SQUADRON": "航空中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_HE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE": "中隊",
+      "IDS_PL_SQUADRONS": "航空中隊"
+    }
+  },
+  "IDS_PVECOMMON_NAVY_B": {
+    "value": "中队",
+    "ids": {
+      "IDS_HELP_ESCADRILLE": "航空中隊",
+      "IDS_SHIP_PARAM_PLANE_SQUAD": "航空中隊",
+      "IDS_SPECTATE_SQUADRON": "航空中隊",
+      "IDS_SQUADRON": "航空中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_HE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE": "中隊",
+      "IDS_PL_SQUADRONS": "航空中隊"
+    }
+  },
+  "IDS_PVECOMMON_NAVY_C": {
+    "value": "中队",
+    "ids": {
+      "IDS_HELP_ESCADRILLE": "航空中隊",
+      "IDS_SHIP_PARAM_PLANE_SQUAD": "航空中隊",
+      "IDS_SPECTATE_SQUADRON": "航空中隊",
+      "IDS_SQUADRON": "航空中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_DEPTHCHARGE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_HE": "中隊",
+      "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE": "中隊",
+      "IDS_PL_SQUADRONS": "航空中隊"
+    }
+  },
+  "IDS_PVECOMMON_SHIPS_A": {
+    "value": "战舰",
+    "ids": {
+      "IDS_CREW_FIRSTNAME_DEFAULT": "該艦艇的",
+      "IDS_FIFTH_GF097_NAME": "艦艇",
+      "IDS_FIRST_FRENCHDDARC_NAME": "艦艇",
+      "IDS_FIRST_ITCA_0810_NAME": "艦艇",
+      "IDS_FIRST_VIVALAFRANCESUBCOLLECTION_NAME": "艦艇",
+      "IDS_FOURTH_YAMSUBCOLLECTION_NAME": "艦艇",
+      "IDS_MAIN_TAB_BUTTON_SHIP": "艦艇",
+      "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS": "艦艇",
+      "IDS_PRMP_ITEM_SHIP": "艦艇",
+      "IDS_PVE_SHIPS": "戰艦",
+      "IDS_PXSC503": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL028_CONTRIBUTOR_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL043_BF2018_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL050_BF2018_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL053_LUNARNY_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL054_LUNARNY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL057_AVIABOX_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL063_RECRUITSMALL_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL064_RECRUITMEDIUM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL065_RECRUITBIG_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL093_BF2019_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL094_BF2019_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL": "加值艦艇或永久迷彩",
+      "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL111_BF2020_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL112_BF2020_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_TITLE_FULL": " ",
+      "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL140_BF2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL141_BF2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL157_BF2022_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL158_BF2022_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT": " ",
+      "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL": " 艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_SHIP": "艦艇",
+      "IDS_SHIPS": "艦艇",
+      "IDS_SHIP_ACES_RESULTS_HEADER_CELL_BATTLE_SHIP": "艦艇",
+      "IDS_SPECTATE_SHIP": "艦艇",
+      "IDS_THIRD_NY2018SUBCOLLECTION_NAME": "艦艇",
+      "IDS_PL_ANY_SHIP": "艘艦艇",
+      "IDS_PL_SHIP": "艦艇",
+      "IDS_PL_SHIP_ACC": "艦艇",
+      "IDS_PL_SHIP_DAT": "艦艇",
+      "IDS_PL_SHIP_GEN": "艦艇",
+      "IDS_PL_SHIP_PREP": "艦艇"
+    }
+  },
+  "IDS_PVECOMMON_SHIPS_B": {
+    "value": "战舰",
+    "ids": {
+      "IDS_CREW_FIRSTNAME_DEFAULT": "該艦艇的",
+      "IDS_FIFTH_GF097_NAME": "艦艇",
+      "IDS_FIRST_FRENCHDDARC_NAME": "艦艇",
+      "IDS_FIRST_ITCA_0810_NAME": "艦艇",
+      "IDS_FIRST_VIVALAFRANCESUBCOLLECTION_NAME": "艦艇",
+      "IDS_FOURTH_YAMSUBCOLLECTION_NAME": "艦艇",
+      "IDS_MAIN_TAB_BUTTON_SHIP": "艦艇",
+      "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS": "艦艇",
+      "IDS_PRMP_ITEM_SHIP": "艦艇",
+      "IDS_PVE_SHIPS": "戰艦",
+      "IDS_PXSC503": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL028_CONTRIBUTOR_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL043_BF2018_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL050_BF2018_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL053_LUNARNY_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL054_LUNARNY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL057_AVIABOX_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL063_RECRUITSMALL_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL064_RECRUITMEDIUM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL065_RECRUITBIG_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL093_BF2019_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL094_BF2019_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL": "加值艦艇或永久迷彩",
+      "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL111_BF2020_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL112_BF2020_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_TITLE_FULL": " ",
+      "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL140_BF2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL141_BF2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL157_BF2022_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL158_BF2022_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT": " ",
+      "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL": " 艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_SHIP": "艦艇",
+      "IDS_SHIPS": "艦艇",
+      "IDS_SHIP_ACES_RESULTS_HEADER_CELL_BATTLE_SHIP": "艦艇",
+      "IDS_SPECTATE_SHIP": "艦艇",
+      "IDS_THIRD_NY2018SUBCOLLECTION_NAME": "艦艇",
+      "IDS_PL_ANY_SHIP": "艘艦艇",
+      "IDS_PL_SHIP": "艦艇",
+      "IDS_PL_SHIP_ACC": "艦艇",
+      "IDS_PL_SHIP_DAT": "艦艇",
+      "IDS_PL_SHIP_GEN": "艦艇",
+      "IDS_PL_SHIP_PREP": "艦艇"
+    }
+  },
+  "IDS_PVECOMMON_TRANSPORTS": {
+    "value": "运输舰",
+    "ids": {
+      "IDS_PVE_TRANSPORTS": "運輸艦"
+    }
+  },
+  "IDS_PVECOMMON_WAREHOUSES_A": {
+    "value": "仓库",
+    "ids": {
+      "IDS_GUIDING_TIP_121_HEADER": "庫存管理",
+      "IDS_GUIDING_TIP_56_HEADER": "庫存管理",
+      "IDS_OP_01_02_BUILDING_05": "貨倉",
+      "IDS_OP_01_04_PORT_STORE": "倉庫",
+      "IDS_OP_02_02_STOREHOUSE": "貨倉",
+      "IDS_UNLOCKS_TITLE_23": "庫存管理",
+      "IDS_WAREHOUSE": "庫存"
+    }
+  },
+  "IDS_PWES529_BLACK_JAGER": {
+    "value": "特别",
+    "ids": {
+      "IDS_PAEM001_BLACKFRIDAY_SIMS": "特別",
+      "IDS_PAEM002_BLACKFRIDAY_ALASKA": "特別",
+      "IDS_PAES208_BLACK_SAIPAN": "特別",
+      "IDS_PAES318_BLACK_MASSACHUSETTS": "特別",
+      "IDS_PAES339_BLACK_KEARSARGE": "特別",
+      "IDS_PAES417_BLACK_ATLANTA": "特別",
+      "IDS_PAES527_BLACKBLACK": "特別",
+      "IDS_PBES396_REPULSEBLACK": "特別",
+      "IDS_PBES538_BLACK_COSSACK": "特別",
+      "IDS_PFES309_BLACK_JEAN_BART": "特別",
+      "IDS_PFES336_BLACK_DUNKERQUE": "特別",
+      "IDS_PGEM001_BLACKFRIDAY_GZEPPELIN": "特別",
+      "IDS_PGEM002_BLACKFRIDAY_SCHARNHORST": "特別",
+      "IDS_PGES309_BLACK_POMMERN": "特別",
+      "IDS_PGES3108_BRANDENBURGBLACK": "特別",
+      "IDS_PGES348_BLACK_TIRPITZ": "特別",
+      "IDS_PGES438_BLACK_MAINZ": "特別",
+      "IDS_PIES410_BLACK_NAPOLI": "特別",
+      "IDS_PJES118_BLACK_KAGA": "特別",
+      "IDS_PJES389_IWAMIBLACK": "特別",
+      "IDS_PJES418_ATAGO_BLACK": "特別",
+      "IDS_PJES420_BLACK_YOSHINO": "特別",
+      "IDS_PJES429_BLACK_AZUMA": "特別",
+      "IDS_PJES506_BLACK_SHINONOME": "特別",
+      "IDS_PJES538_ASASHIO_BLACK": "特別",
+      "IDS_PRES208_BLACK_CHKALOV": "特別",
+      "IDS_PRES406_BLACK_MOLOTOV": "特別",
+      "IDS_PRES440_SMOLENSKBLACK": "特別",
+      "IDS_PRES447_LAZOBLACK": "特別",
+      "IDS_PRES608_BLACK_S_189": "特別",
+      "IDS_PWES507_BLACK_BLYSKAWICA": "特別",
+      "IDS_PZES518_BLACK_LOYANG": "特別"
+    }
+  },
+  "IDS_PWSD599_DESCR": {
+    "value": "1917年，奥匈帝国开始着手建造驱逐领舰项目。总共计划建造8艘领舰和12艘驱逐舰。设计草案由希洛姆与福斯船厂和冈茨-丹比乌斯提交。奥匈帝国海洋技术委员会开发了数个项目。1917年提出的项目之一是建造一艘2000吨的鱼雷艇，原计划配备6英寸主炮。然而，随着一战的结束和奥匈帝国覆灭，这些驱逐舰最终未被建造。",
+    "ids": {
+      "IDS_PWSD519_DESCR": "1917 年，奧匈帝國開始著手建造驅逐艦領艦的計畫。總共計劃建造 8 艘領艦和 12 艘驅逐艦。Blohm & Voss 造船廠和 Ganz-Danubius 工廠提交了設計草案。奧匈帝國海洋技術委員會開發了其中數項計畫。其中一項 1917 年提出的計畫是建造一艘 2,000 噸的魚雷艇。此艦艇本應裝備 6 英寸主炮。然而，隨著第一次世界大戰結束和奧匈帝國崩潰，這些驅逐艦從未建造。"
+    }
+  },
+  "IDS_PWUE806_ENG_BLACK_JAGER": {
+    "value": "推进系统：43000马力",
+    "ids": {
+      "IDS_PBUE204_B3_ENG_STOCK": "推進系統：43,000 匹馬力",
+      "IDS_PWUE804_ENG_JAGER": "推進系統：43,000 匹馬力"
+    }
+  },
+  "IDS_PWUT807_TORP_BLACK_JAGER": {
+    "value": "Torped M1947",
+    "ids": {
+      "IDS_PWPT007_TORPED_M1947": "Torped M1947",
+      "IDS_PWPT020_533MM_JAGER": "Torped M1947",
+      "IDS_PWPT023_BLYSKAWICA_1963": "Torped M1947",
+      "IDS_PWUT802_DD9_TORP_TOP": "Torped M1947",
+      "IDS_PWUT805_TORP_JAGER": "Torped M1947"
+    }
+  },
+  "IDS_PXGT601_INVISIBLE_TA_XSX007": {
+    "value": "533 mm",
+    "ids": {
+      "IDS_PAGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PBGT001_INVISIBLE_TA": "533 mm",
+      "IDS_PGGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PIGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PIUT706_TORP_NANI": "533 mm",
+      "IDS_PJGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PJPT045_533MM_I58": "533 mm",
+      "IDS_PJUT740_TORP_I58": "533 mm",
+      "IDS_PRGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PRUT515_S6_TORP_STOCK": "533 mm",
+      "IDS_PRUT516_S6_TORP_TOP": "533 mm",
+      "IDS_PRUT703_TORP_S189": "533 mm",
+      "IDS_PRUT704_S8_TORP_STOCK": "533 mm",
+      "IDS_PRUT708_S8_TORP_TOP": "533 mm",
+      "IDS_PRUT709_TORP_BLACK_S_189": "533 mm",
+      "IDS_PRUT710_TORP_FRUNZE": "533 mm",
+      "IDS_PRUT908_S10_TORP_STOCK": "533 mm",
+      "IDS_PRUT913_S10_TORP_TOP": "533 mm",
+      "IDS_PRUT916_S11_TORP_STOCK": "533 mm",
+      "IDS_PRUT919_TORP_SUBTEST": "533 mm",
+      "IDS_PZGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PZUT713_TORP_PASOPATI": "533 mm"
+    }
+  },
+  "IDS_PXPT901_G7A_T1_INV": {
+    "value": "533 mm",
+    "ids": {
+      "IDS_PAGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PBGT001_INVISIBLE_TA": "533 mm",
+      "IDS_PGGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PIGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PIUT706_TORP_NANI": "533 mm",
+      "IDS_PJGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PJPT045_533MM_I58": "533 mm",
+      "IDS_PJUT740_TORP_I58": "533 mm",
+      "IDS_PRGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PRUT515_S6_TORP_STOCK": "533 mm",
+      "IDS_PRUT516_S6_TORP_TOP": "533 mm",
+      "IDS_PRUT703_TORP_S189": "533 mm",
+      "IDS_PRUT704_S8_TORP_STOCK": "533 mm",
+      "IDS_PRUT708_S8_TORP_TOP": "533 mm",
+      "IDS_PRUT709_TORP_BLACK_S_189": "533 mm",
+      "IDS_PRUT710_TORP_FRUNZE": "533 mm",
+      "IDS_PRUT908_S10_TORP_STOCK": "533 mm",
+      "IDS_PRUT913_S10_TORP_TOP": "533 mm",
+      "IDS_PRUT916_S11_TORP_STOCK": "533 mm",
+      "IDS_PRUT919_TORP_SUBTEST": "533 mm",
+      "IDS_PZGT000_INVISIBLE_TA": "533 mm",
+      "IDS_PZUT713_TORP_PASOPATI": "533 mm"
+    }
+  },
+  "IDS_PXSD007_FULL": {
+    "value": "鱼雷快艇",
+    "ids": {
+      "IDS_PXSD007": "快艇"
+    }
+  },
+  "IDS_PXUE006_ENG_SCHNELLBOT": {
+    "value": "推进系统：6000马力",
+    "ids": {
+      "IDS_PJUE106_ENG_SAZANAMI": "推進系統：6,000 匹馬力",
+      "IDS_PRUE921_S11_ENG_STOCK": "推進系統：6,000 匹馬力",
+      "IDS_PWUE001_CA1_ENG_STOCK": "推進系統：6,000 匹馬力"
+    }
+  },
+  "IDS_PXUH006_HULL_SCHNELLBOT": {
+    "value": "鱼雷快艇",
+    "ids": {
+      "IDS_PXSD007": "快艇"
+    }
+  },
+  "IDS_PXUT003_TORP_SHCNELLBOT": {
+    "value": "Type 6",
+    "ids": {
+      "IDS_PXGT022_533MM_2": "Type 6"
+    }
+  },
+  "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_CREW_EXP": {
+    "value": "指挥官经验",
+    "ids": {
+      "IDS_BATTLE_STATS_CREW_POINTS": "指揮官經驗",
+      "IDS_CURRENCY_CREWXP": "指揮官經驗",
+      "IDS_ECONOMIC_BOOST_TYPE_CREWEXPFACTOR_SIMPLE_SUMMARY_TOOLTIP": "指揮官經驗",
+      "IDS_ECONOMIC_HEADER_BOOST_TYPE_CREW_EXP": "指揮官經驗",
+      "IDS_PRMP_ITEM_CREWPOINTS": "指揮官經驗",
+      "IDS_REWARD_CREWXP_TITLE": "指揮官經驗",
+      "IDS_SESSION_REWARD_CREWXP_TITLE": "指揮官經驗"
+    }
+  },
+  "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_ELITE_EXP": {
+    "value": "精英指挥官经验",
+    "ids": {
+      "IDS_CURRENCY_ELITEXP": "精英指揮官經驗",
+      "IDS_CURRENCY_ELITE_XP": "精英指揮官經驗",
+      "IDS_ELITE_EXPERIENCE_C": "精英指揮官經驗",
+      "IDS_ELITE_XP": "精英指揮官經驗",
+      "IDS_REWARD_ELITEXP_TITLE": "精英指揮官經驗",
+      "IDS_SESSION_REWARD_ELITEXP_TITLE": "精英指揮官經驗"
+    }
+  },
+  "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_EXP": {
+    "value": "战舰经验",
+    "ids": {
+      "IDS_BATTLE_STATS_EXPERIENCE": "艦艇經驗",
+      "IDS_CURRENCY_EXP": "艦艇經驗",
+      "IDS_CURRENCY_SHIPXP": "艦艇經驗",
+      "IDS_ECONOMIC_BOOST_TYPE_EXPFACTOR_SIMPLE_SUMMARY_TOOLTIP": "艦艇經驗",
+      "IDS_ECONOMIC_HEADER_BOOST_TYPE_EXP": "艦艇經驗",
+      "IDS_GUIDING_TIP_6_HEADER": "艦艇經驗",
+      "IDS_GUIDING_TIP_73_HEADER": "艦艇經驗",
+      "IDS_REWARD_EXP_TITLE": "艦艇經驗",
+      "IDS_REWARD_SHIPXP_TITLE": "艦艇經驗",
+      "IDS_SESSION_REWARD_EXP_TITLE": "艦艇經驗",
+      "IDS_SHIP_EXP": "每場戰鬥經驗",
+      "IDS_SHIP_EXPERIENCE": "艦艇經驗"
+    }
+  },
+  "IDS_RESISTANCE_RECOGNITION_MODIFIER_NAME_FREE_EXP": {
+    "value": "全局经验",
+    "ids": {
+      "IDS_CURRENCY_FREEXP": "自由經驗",
+      "IDS_CURRENCY_FREE_XP": "自由經驗",
+      "IDS_ECONOMIC_BOOST_TYPE_FREEEXPFACTOR_SIMPLE_SUMMARY_TOOLTIP": "自由經驗",
+      "IDS_ECONOMIC_HEADER_BOOST_TYPE_FREE_EXP": "全局經驗",
+      "IDS_GUIDING_TIP_24_HEADER": "自由經驗",
+      "IDS_GUIDING_TIP_27_HEADER": "自由經驗",
+      "IDS_GUIDING_TIP_74_HEADER": "自由經驗",
+      "IDS_GUIDING_TIP_7_HEADER": "自由經驗",
+      "IDS_GUIDING_TIP_89_HEADER": "自由經驗",
+      "IDS_PRMP_ITEM_FREEXP": "自由經驗",
+      "IDS_REWARD_FREEXP_TITLE": "自由經驗",
+      "IDS_REWARD_LOOTBOX_PCL149_SUBS_EA_SLOT_0_COMMON_GROUP_TITLE_FULL": "自由經驗",
+      "IDS_SESSION_REWARD_FREEXP_TITLE": "自由經驗",
+      "IDS_UNLOCKS_TITLE_5": "自由經驗",
+      "IDS_PL_FREE_EXPERIENCE": "自由經驗"
+    }
+  },
+  "IDS_RESISTANCE_RECOGNITION_SUBHEADER": {
+    "value": "战斗表现奖励",
+    "ids": {
+      "IDS_BONUSTAG_SUBHEADER": "戰鬥表現獎勵"
+    }
+  },
+  "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_TITLE_FULL": {
+    "value": "战舰",
+    "ids": {
+      "IDS_CREW_FIRSTNAME_DEFAULT": "該艦艇的",
+      "IDS_FIFTH_GF097_NAME": "艦艇",
+      "IDS_FIRST_FRENCHDDARC_NAME": "艦艇",
+      "IDS_FIRST_ITCA_0810_NAME": "艦艇",
+      "IDS_FIRST_VIVALAFRANCESUBCOLLECTION_NAME": "艦艇",
+      "IDS_FOURTH_YAMSUBCOLLECTION_NAME": "艦艇",
+      "IDS_MAIN_TAB_BUTTON_SHIP": "艦艇",
+      "IDS_PREFERENCES_KEYBINDINGS_TAB_CONTROLS_SHIPS": "艦艇",
+      "IDS_PRMP_ITEM_SHIP": "艦艇",
+      "IDS_PVE_SHIPS": "戰艦",
+      "IDS_PXSC503": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL005_EPIC_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL006_SANTASMALL_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL007_SANTAMEDIUM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL008_SANTABIG_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL028_CONTRIBUTOR_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL038_UKARC_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL043_BF2018_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL050_BF2018_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL053_LUNARNY_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL054_LUNARNY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL057_AVIABOX_FREE_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL058_AVIABOX_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL061_SARC1_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL063_RECRUITSMALL_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL064_RECRUITMEDIUM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL065_RECRUITBIG_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL081_FRDD_FREE_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL082_FRDD_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL090_ITCA_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL093_BF2019_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL094_BF2019_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_TITLE_FULL": "加值艦艇或永久迷彩",
+      "IDS_REWARD_LOOTBOX_PCL100_WH_KHORNE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL101_WH_IMPER_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL102_GARC096_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL105_GE_PSHIPS_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL106_GE_PSHIPS_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL110_LESTA099MOBILE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL111_BF2020_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL112_BF2020_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL116_JOURNEY2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL117_JOURNEY2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL122_ITPREMSHIPS_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL123_ITPREMSHIPS_PREM_SLOT_0_TITLE_FULL": " ",
+      "IDS_REWARD_LOOTBOX_PCL135_GE_PSHIPS109_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL136_GE_PSHIPS109_FREE_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL140_BF2021_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL141_BF2021_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL142_STEAM_ANNIVERSARY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL151_UK_PSHIPS_0117_FREE_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL152_UK_PSHIPS_0117_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL157_BF2022_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL158_BF2022_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL162_GOLDEN_WEEK_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL163_GOLDEN_WEEK_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL173_MEGA_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT": " ",
+      "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_TITLE_FULL": " 艦艇",
+      "IDS_REWARD_LOOTBOX_PCL188_BF2023_FREE_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL189_BF2023_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL192_12_MONTHS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL193_12_MONTHS_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL195_PAN_AMERICAN_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL196_23FEBRUARY_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL212_NY2025_GIFT_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL213_NY2025_GIFT_RICH_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL214_BLYSKAWICA63_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL226_EVENTPREM3_SLOT_0_TITLE_FULL": "艦艇",
+      "IDS_REWARD_LOOTBOX_PCL229_BIRTHDAY2025_2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "艦艇",
+      "IDS_SHIP": "艦艇",
+      "IDS_SHIPS": "艦艇",
+      "IDS_SHIP_ACES_RESULTS_HEADER_CELL_BATTLE_SHIP": "艦艇",
+      "IDS_SPECTATE_SHIP": "艦艇",
+      "IDS_THIRD_NY2018SUBCOLLECTION_NAME": "艦艇",
+      "IDS_PL_ANY_SHIP": "艘艦艇",
+      "IDS_PL_SHIP": "艦艇",
+      "IDS_PL_SHIP_ACC": "艦艇",
+      "IDS_PL_SHIP_DAT": "艦艇",
+      "IDS_PL_SHIP_GEN": "艦艇",
+      "IDS_PL_SHIP_PREP": "艦艇"
+    }
+  },
+  "IDS_REWARD_LOOTBOX_PCL231_BLACK_FRIDAY_2025_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL": {
+    "value": "VI-VIII级战舰",
+    "ids": {
+      "IDS_REWARD_LOOTBOX_PCL099_SARC094_OLD_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT": "VI-VIII 階艦艇"
+    }
+  },
+  "IDS_REWARD_LOOTBOX_PCL232_BLACK_FRIDAY_2025_SUPER_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": {
+    "value": "IX级",
+    "ids": {
+      "IDS_REWARD_LOOTBOX_PCL165_COLORFULEVENT_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT": "IX 階",
+      "IDS_REWARD_LOOTBOX_PCL208_YOROIBITSU_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT": "IX 階",
+      "IDS_REWARD_LOOTBOX_PCL217_3KINGDOMS_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT": "IX 階"
+    }
+  },
+  "IDS_SSC_BELT": {
+    "value": "装甲带",
+    "ids": {
+      "IDS_AC_CAS_BELT": "裝甲帶",
+      "IDS_AC_DUAL_CAS_BOW_BELT": "裝甲帶",
+      "IDS_AC_DUAL_CAS_SSC_BELT": "裝甲帶",
+      "IDS_AC_DUAL_CAS_ST_BELT": "裝甲帶",
+      "IDS_BELT": "裝甲帶",
+      "IDS_CAS_BELT": "裝甲帶",
+      "IDS_CIT_BELT": "裝甲帶",
+      "IDS_DD_DUAL_CAS_SSC_BELT": "裝甲帶",
+      "IDS_DUAL_CAS_BOW_BELT": "裝甲帶",
+      "IDS_DUAL_CAS_CAS_BELT": "裝甲帶",
+      "IDS_DUAL_CAS_SSC_BELT": "裝甲帶",
+      "IDS_DUAL_CAS_SS_BELT": "裝甲帶",
+      "IDS_DUAL_CAS_ST_BELT": "裝甲帶",
+      "IDS_DUAL_CIT_BOW_BELT": "裝甲帶",
+      "IDS_DUAL_CIT_CAS_BELT": "裝甲帶",
+      "IDS_DUAL_CIT_ST_BELT": "裝甲帶",
+      "IDS_SHIP_PARAM_ARMOURBELT": "裝甲帶",
+      "IDS_TOOLTIP_ARMOURBELT": "裝甲帶"
+    }
+  },
+  "IDS_SSE_MOTIVATOR_TASKS_COMMON_TITLE": {
+    "value": "优先任务",
+    "ids": {
+      "IDS_GUIDING_TIP_314_HEADER": "優先任務",
+      "IDS_SSE_MOTIVATOR_TASK_COMMON_TITLE": "優先任務"
+    }
+  }
+}

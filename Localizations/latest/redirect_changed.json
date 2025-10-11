@@ -1,0 +1,80 @@
+{
+  "IDS_ACCOUNT_COMPLETION_TAKE_REWARD": {
+    "value": "领取奖励",
+    "ids": {
+      "IDS_BATTLEPASS_BUTTON_CLAIM_REWARD": "領取獎勵",
+      "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS": "領取獎勵",
+      "IDS_BATTLEPASS_STATUS_BUTTON_REWARD": "領取獎勵",
+      "IDS_MARKER_REWARD": "領取獎勵",
+      "IDS_SNOWFLAKES_TAKE_BONUSES_BUTTON": "領取獎勵",
+      "IDS_SSE_CLAIM_REWARD": "領取獎勵",
+      "IDS_STRATEGIC_ACTIONS_TERRITORY_REWARDS_CLAIM": "領取獎勵",
+      "IDS_TAKE_REWARD": "領取獎勵",
+      "IDS_TASK_REWARD_INSTRUCTION": "收集您的獎勵",
+      "IDS_TO_TAKE_SINGLE_REWARD": "收集您的獎勵"
+    }
+  },
+  "IDS_PASA990_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PBSA520_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PBSB810_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PBSB998_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PHSC990_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PRIME_TIME_TILL_END": {
+    "value": "距离结束还剩：%(_timeLeft)s",
+    "ids": {
+      "IDS_RANKS_TILL_END": "結束於：%(_timeLeft)s",
+      "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_TIME_TILL_FINISH": "結束於 %(_timeLeft)s"
+    }
+  },
+  "IDS_PRIME_TIME_TILL_START": {
+    "value": "距离开始还有：%(_timeLeft)s",
+    "ids": {
+      "IDS_RANKS_TILL_START": "開始於 %(_timeLeft)s",
+      "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_TIME_TILL_START": "開始於 %(_timeLeft)s"
+    }
+  },
+  "IDS_PRSD810_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  },
+  "IDS_PZSD610_DESCR": {
+    "value": "用于测试的战舰。",
+    "ids": {
+      "IDS_PFSD808_DESCR": "測試用艦艇。",
+      "IDS_PISB805_DESCR": "測試用艦艇。"
+    }
+  }
+}

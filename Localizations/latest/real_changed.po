@@ -1,0 +1,232 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_ACCOUNT_COMPLETION_CONFIRMATION_KEY"
+msgstr "確認碼"
+
+msgid "IDS_ACCOUNT_COMPLETION_EMAIL_DEFAULT_TEXT"
+msgstr "電子郵件地址"
+
+msgid "IDS_BATTLE_TASK_TEXT_000_001_MAIN_TASK"
+msgstr "護衛 Transylvania"
+
+msgid "IDS_BATTLE_TASK_TEXT_COLLECT_TOWER_PARTS"
+msgstr "收集高塔的碎片，以提高 Transylvania 的傷害抵禦能力"
+
+msgid "IDS_BATTLE_TASK_TEXT_EV_HL_17_TASK_SAVESHIPS"
+msgstr "拯救 Transylvania"
+
+msgid "IDS_BATTLE_TASK_TEXT_EV_HL_17_TASK_SAVETOWERS"
+msgstr "拯救兩座高塔"
+
+msgid "IDS_BATTLE_TASK_TEXT_EV_HL_18_TASK_SAVETEAMMATES"
+msgstr "確保至少 3 艘己方潛水艇存活下來"
+
+msgid "IDS_BATTLE_TASK_TEXT_EV_HL_23_MAIN_TASK"
+msgstr "護衛 Transylvania 前往傳送門"
+
+msgid "IDS_BATTLE_TASK_TEXT_HEADER_EV_HL_17_MAIN_TASK"
+msgstr "撐到傳送門被封閉為止"
+
+msgid "IDS_BATTLE_TASK_TEXT_HEADER_OP_02_02_MAIN_TASK_PART_2"
+msgstr "防衛機場"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_01_TASK_SAVE_T"
+msgstr "拯救所有運輸艦"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_02_MAIN_TASK_2"
+msgstr "和至少一半的作戰艦艇一起撤退到指定地區"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_03_022_FULL_ESCAPE"
+msgstr "拯救支援艦"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_007_DEFENSE_SECONDARY_TASK_1"
+msgstr "確保您的工作隊中至少有三艘艦艇存活到隊友抵達為止"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_033_DEF_ALLY_AVIR_TASK"
+msgstr "防衛友軍航空母艦 Romeo"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_01_04_038_DEAD_ONE_OBJ_PORT"
+msgstr "基地中的所有陸上設施及支援艦都必須存活下來"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_02_21_TASK_SAVEART"
+msgstr "守住至少 3 座要塞"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_02_22_TASK_SAVEBASE"
+msgstr "別讓敵人佔據維修基地"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_02_MAIN_TASK_PART_2"
+msgstr "防衛機場"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_03_017_TASK_TAKE_FORT"
+msgstr "防衛前導運輸艦"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_04_TASK_KILLBOATS"
+msgstr "擊沉魚雷艇"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_04_TASK_KILLFIGHTERS"
+msgstr "摧毀戰鬥機航空中隊"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_02_04_TASK_SAVESHIPS"
+msgstr "確保至少 7 艘民用船隻存活下來"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_09_PAYLOAD_HALF_HEALTH"
+msgstr "確保 Ruan 的血量一直處於 50% 以上"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_09_SAVE_BATTLESHIPS"
+msgstr "確保至少 3 艘己方主力艦存活下來"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_SAVE_PLAYER_SHIPS"
+msgstr "確保至少 4 艘己方艦艇存活下來"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_SAVE_SEALS"
+msgstr "防衛兩團陣地"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_10_SECONDARY_TASK_SAVE_USS_DM"
+msgstr "營救兩艘 Liberty 運輸艦"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_NE_KILL_ON_TIME"
+msgstr "在規定時間內擊沉所有敵方運輸艦"
+
+msgid "IDS_BATTLE_TASK_TEXT_OP_NS_SECONDARY_TASK_SAVE_PLAYER_SHIPS"
+msgstr "確保 4 艘中隊潛水艇在戰鬥中生存"
+
+msgid "IDS_BATTLE_TASK_TEXT_PAYLOAD_HALF_HEALTH"
+msgstr "確保 Transylvania 的血量一直處於 50% 以上"
+
+msgid "IDS_CLAN_BATTLES_SERVER_RESET_TITLE"
+msgstr "<body>遊戲日的變更時間：<h2>%(_time)s</h2></body>"
+
+msgid "IDS_CREW_FIRSTNAME_PAN_ASIA_20"
+msgstr "孟"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "每秒為您隊伍中的每艘艦艇恢復400血量。"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "團隊再生機制"
+
+msgid "IDS_DOGTAG_PCNB428_DESCRIPTION"
+msgstr "「金屬於此鍛造」系列收藏。"
+
+msgid "IDS_EV_HL_23_FILTH"
+msgstr "戰場被汙穢包圍。待在 Transylvania 周圍的安全區。"
+
+msgid "IDS_EV_HL_23_MAIN_TASK_BRIEFING"
+msgstr "護衛滿載炸藥的 Transylvania 前往傳送門，一勞永逸地將其摧毀！"
+
+msgid "IDS_GUIDING_TIP_309_DESC"
+msgstr "瞭解艦艇的戰鬥特性、上手難度和角色定位。"
+
+msgid "IDS_HINT_SERVER_SWITCH_BATTLES"
+msgstr "您的艦艇還正在進行的戰鬥數"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Transylvania 號在其周圍布下一個可以抵禦汙穢的魔法區域。但魔法會減弱，因此安全區域會逐漸縮小。"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "只有 Transylvania 號才能終結這一連串事件。您需要護送它進入傳送門，這樣它才能徹底摧毀傳送門！"
+
+msgid "IDS_MODAL_WINDOW_PCVO031_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "收集高塔的碎片以提高 Transylvania 號的傷害抵禦能力。"
+
+msgid "IDS_OP_02_02_CHAT_002_YANKEES_DEAD"
+msgstr "已擊毀驅逐艦 Whiskey。我們的維修基地已脫離危險。"
+
+msgid "IDS_OP_02_02_CSM_004_SECOND_TASK_02_OPEN"
+msgstr "別讓呼號為「Whiskey」的驅逐艦進入維修基地的水域。"
+
+msgid "IDS_OP_02_02_CSM_005_SECOND_TASK_02_ALARM"
+msgstr "立刻擊沉在維修基地附近就位的驅逐艦 Whiskey！"
+
+msgid "IDS_PAPA214_406MM_AP_PRESIDENT"
+msgstr "406 mm AP Mk5 mod. 2"
+
+msgid "IDS_PASA538_DESCR"
+msgstr "USS Hornet 是第三艘 Yorktown 級航空母艦，參與過著名的杜立德空襲，並參加了中途島海戰和索羅門群島戰役。在聖克魯斯群島戰役中，Hornet 擊傷了航空母艦 Shōkaku，但也受到了多次空襲。此航空母艦的發動機被摧毀，因此決定棄艦。儘管美國驅逐艦向她發射了九枚魚雷和數百枚 127 毫米砲彈，這艘航空母艦仍然浮在水上，直到日本驅逐艦給予了最後一擊。"
+
+msgid "IDS_PAYLOAD_HALF_HEALTH_TASK_END_F"
+msgstr "Transylvania 受到傷害！"
+
+msgid "IDS_PCVO024_EV_HL_16_50_VANHELLSING_GOAL"
+msgstr "護衛 Transylvania 前往傳送門。"
+
+msgid "IDS_PCVO025_EV_HL_16_50_VANHELLSING_HARD_GOAL"
+msgstr "護衛 Transylvania 前往傳送門。"
+
+msgid "IDS_PCVO026_EV_HL_16_50_VANHELLSING_NIGHTMARE_GOAL"
+msgstr "護衛 Transylvania 前往傳送門。"
+
+msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_DESCRIPTION"
+msgstr "傳送門已開啟，黑暗力量與侵蝕汙穢正不斷地湧入我們的世界！汙穢會讓己方艦艇失去血量，並讓敵方艦艇提高傷害抵禦能力。唯有 Transylvania 能徹底地摧毀傳送門，而且她能在其周圍布下魔法區來驅散汙穢。但魔法的力量無法永遠維持，安全區會逐漸縮小！"
+
+msgid "IDS_PCVO031_EV_HL_23_E02_HALLOWEEN_2023_GOAL"
+msgstr "護衛 Transylvania 至傳送門，助她一勞永逸地將其摧毀。"
+
+msgid "IDS_PCVT004_MANEUVER_PRIME_GOAL"
+msgstr "在這項試煉中，您將磨鍊驅逐艦作戰技能。"
+
+msgid "IDS_PWGA008_66_50_K10_SKODA"
+msgstr "66 mm/50 Škoda K10（單裝炮座）"
+
+msgid "IDS_PWGM006_305_45_K10_SKODA"
+msgstr "305 mm/45 Škoda K10（炮塔）"
+
+msgid "IDS_PWGM009_100MM50_K10_SKODA"
+msgstr "100 mm/50 Škoda K10（甲板炮座）"
+
+msgid "IDS_PWGM079_140MM56_SKODA"
+msgstr "140 mm/56 Škoda（護盾式炮座）"
+
+msgid "IDS_PWGM087_150_50_K10_SKODA"
+msgstr "150 mm/50 K10 Škoda（單裝炮座）"
+
+msgid "IDS_PWGS007_150_50_K10_SKODA"
+msgstr "150 mm/50 Škoda K10（炮廓式）"
+
+msgid "IDS_PWUA101_DD2_ART_STOCK"
+msgstr "100 mm/50 Škoda K10（甲板炮座）"
+
+msgid "IDS_PWUA303_ART_VIRIBUS"
+msgstr "305 mm/45 Škoda K10（炮塔）"
+
+msgid "IDS_PWUA703_D8_ART_STOCK"
+msgstr "140 mm/56 Škoda（護盾式炮座）"
+
+msgid "IDS_PWUA804_ART_JAGER"
+msgstr "150 mm/50 K10 Škoda（單裝炮座）"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_2"
+msgstr "跳過白銀聯賽，直接到達黃金聯賽的排名 10。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_1_LEAGUE_3"
+msgstr "跳過青銅聯賽，直接到達白銀聯賽的排名 10。"
+
+msgid "IDS_RANKS_LEAGUE_SKIP_BUTTON_TOOLTIP_TEXT_LOCKED"
+msgstr "只能跳過您當前所在的聯賽。"
+
+msgid "IDS_SCENARIO_INFINITY_SCENARIO"
+msgstr "無盡之戰"
+
+msgid "IDS_TILL_CLAN_BATTLE_SEASON_END"
+msgstr "賽季結束於：%(_time)s"
+
+msgid "IDS_TIMEZONE_IS_LOCAL"
+msgstr "<body>顯示的時間為您的時區：<h2>%(_utcTime)s</h2></body>"
+
+msgid "IDS_TOO_MANY_LIMITED_SHIPS_IN_DIVISION"
+msgstr "隊伍中%(name)s的數量已達上限"
+
+msgid "IDS_WT_BUREAU_BUTTON_ONBOARDING"
+msgstr "關於實驗局"
