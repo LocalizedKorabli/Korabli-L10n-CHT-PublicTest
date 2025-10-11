@@ -85496,13 +85496,13 @@ msgid "IDS_PGSC502_YEAR"
 msgstr "1909"
 
 msgid "IDS_PGSC506"
-msgstr "施佩伯爵海軍上將"
+msgstr "施佩伯爵將軍"
 
 msgid "IDS_PGSC506_DESCR"
 msgstr "Admiral Graf Spee 與其他 Deutschland 級「袖珍主力艦」的差異在於她的尺寸較大，且裝甲較佳。第二次世界大戰爆發後，此艦艇在大西洋展開她的第一次，也是最後一次的破襲行動，並成功俘獲和擊沉數艘英國商船。此艦艇在拉普拉塔附近的戰役中與英國巡洋艦 Exeter、Ajax 和 Achilles 交戰，隨後前往蒙特維多進行維修。Admiral Graf Spee 的指揮官在收到假情報稱英國艦艇已集結在港口出口處待命後，下令鑿沉此艦艇。"
 
 msgid "IDS_PGSC506_FULL"
-msgstr "施佩伯爵海軍上將"
+msgstr "施佩伯爵將軍"
 
 msgid "IDS_PGSC506_NUMBER"
 msgstr "3"
@@ -85715,13 +85715,13 @@ msgid "IDS_PGSC598_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC706"
-msgstr "高校-施佩伯爵海軍上將"
+msgstr "HSF施佩伯爵將軍"
 
 msgid "IDS_PGSC706_DESCR"
 msgstr "威廉港校的 Deutschland 級直教艦。在動畫中，該艦艇的指揮官為 Thea Kreutzer，而副指揮官為 Wilhelmina。她在排水量相當於訓練用巡洋艦的艦身裝上了 28 公分火炮，而其柴油推進裝置為她帶來了更大的巡航範圍，使其成為在偏遠地區作業的寶貴資產。在《高校艦隊》系列動畫中，她經常用於長途航行。"
 
 msgid "IDS_PGSC706_FULL"
-msgstr "高校-施佩伯爵海軍上將"
+msgstr "HSF施佩伯爵將軍"
 
 msgid "IDS_PGSC706_NUMBER"
 msgstr "3"
@@ -95407,7 +95407,7 @@ msgid "IDS_PJSB599_FULL"
 msgstr "尾張之鬼"
 
 msgid "IDS_PJSB700"
-msgstr "海霧-大和"
+msgstr "ARP大和"
 
 msgid "IDS_PJSB700_DESCR"
 msgstr ""
@@ -95415,7 +95415,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSB700_FULL"
-msgstr "海霧-大和"
+msgstr "ARP大和"
 
 msgid "IDS_PJSB700_NUMBER"
 msgstr "4"
@@ -95424,7 +95424,7 @@ msgid "IDS_PJSB700_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB705"
-msgstr "海霧-金剛"
+msgstr "ARP金剛"
 
 msgid "IDS_PJSB705_DESCR"
 msgstr ""
@@ -95432,7 +95432,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kongō 作為範本。"
 
 msgid "IDS_PJSB705_FULL"
-msgstr "海霧-金剛"
+msgstr "ARP金剛"
 
 msgid "IDS_PJSB705_NUMBER"
 msgstr " "
@@ -95441,7 +95441,7 @@ msgid "IDS_PJSB705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB706"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB706_DESCR"
 msgstr ""
@@ -95449,7 +95449,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kirishima 作為範本。"
 
 msgid "IDS_PJSB706_FULL"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB706_NUMBER"
 msgstr " "
@@ -95458,7 +95458,7 @@ msgid "IDS_PJSB706_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB707"
-msgstr "海霧-榛名"
+msgstr "ARP榛名"
 
 msgid "IDS_PJSB707_DESCR"
 msgstr ""
@@ -95466,7 +95466,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Haruna 作為範本。"
 
 msgid "IDS_PJSB707_FULL"
-msgstr "海霧-榛名"
+msgstr "ARP榛名"
 
 msgid "IDS_PJSB707_NUMBER"
 msgstr " "
@@ -95475,7 +95475,7 @@ msgid "IDS_PJSB707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB708"
-msgstr "海霧-比叡"
+msgstr "ARP比叡"
 
 msgid "IDS_PJSB708_DESCR"
 msgstr ""
@@ -95483,7 +95483,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- DC」中的 Hiei 作為範本。"
 
 msgid "IDS_PJSB708_FULL"
-msgstr "海霧-比叡"
+msgstr "ARP比叡"
 
 msgid "IDS_PJSB708_NUMBER"
 msgstr " "
@@ -95492,13 +95492,13 @@ msgid "IDS_PJSB708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB715"
-msgstr "高校-比叡"
+msgstr "HSF比叡"
 
 msgid "IDS_PJSB715_DESCR"
 msgstr "橫須賀女子海洋學校的航海訓練艦。雖然這艘艦艇的歷史久遠，但由於頻繁改造，比起現代艦艇她可毫不遜色。"
 
 msgid "IDS_PJSB715_FULL"
-msgstr "高校-比叡"
+msgstr "HSF比叡"
 
 msgid "IDS_PJSB715_NUMBER"
 msgstr "4"
@@ -95507,10 +95507,10 @@ msgid "IDS_PJSB715_YEAR"
 msgstr "1913"
 
 msgid "IDS_PJSB799"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB799_FULL"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB801"
 msgstr "河內"
@@ -96232,7 +96232,7 @@ msgid "IDS_PJSC610_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSC705"
-msgstr "海霧-妙高"
+msgstr "ARP妙高"
 
 msgid "IDS_PJSC705_DESCR"
 msgstr ""
@@ -96240,7 +96240,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Myōkō 作為範本。"
 
 msgid "IDS_PJSC705_FULL"
-msgstr "海霧-妙高"
+msgstr "ARP妙高"
 
 msgid "IDS_PJSC705_NUMBER"
 msgstr " "
@@ -96249,7 +96249,7 @@ msgid "IDS_PJSC705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC707"
-msgstr "海霧-足柄"
+msgstr "ARP足柄"
 
 msgid "IDS_PJSC707_DESCR"
 msgstr ""
@@ -96257,7 +96257,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Ashigara 作為範本。"
 
 msgid "IDS_PJSC707_FULL"
-msgstr "海霧-足柄"
+msgstr "ARP足柄"
 
 msgid "IDS_PJSC707_NUMBER"
 msgstr " "
@@ -96266,7 +96266,7 @@ msgid "IDS_PJSC707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC708"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC708_DESCR"
 msgstr ""
@@ -96274,7 +96274,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Takao 作為範本。"
 
 msgid "IDS_PJSC708_FULL"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC708_NUMBER"
 msgstr " "
@@ -96283,7 +96283,7 @@ msgid "IDS_PJSC708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC709"
-msgstr "海霧-羽黒"
+msgstr "ARP羽黒"
 
 msgid "IDS_PJSC709_DESCR"
 msgstr ""
@@ -96291,7 +96291,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Haguro 作為範本。"
 
 msgid "IDS_PJSC709_FULL"
-msgstr "海霧-羽黒"
+msgstr "ARP羽黒"
 
 msgid "IDS_PJSC709_NUMBER"
 msgstr " "
@@ -96315,7 +96315,7 @@ msgid "IDS_PJSC717_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC718"
-msgstr "海霧-摩耶"
+msgstr "ARP摩耶"
 
 msgid "IDS_PJSC718_DESCR"
 msgstr ""
@@ -96323,7 +96323,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSC718_FULL"
-msgstr "海霧-摩耶"
+msgstr "ARP摩耶"
 
 msgid "IDS_PJSC718_NUMBER"
 msgstr " "
@@ -96347,7 +96347,7 @@ msgid "IDS_PJSC727_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC737"
-msgstr "海霧-那智"
+msgstr "ARP那智"
 
 msgid "IDS_PJSC737_DESCR"
 msgstr ""
@@ -96355,7 +96355,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Nachi 作為範本。"
 
 msgid "IDS_PJSC737_FULL"
-msgstr "海霧-那智"
+msgstr "ARP那智"
 
 msgid "IDS_PJSC737_NUMBER"
 msgstr " "
@@ -96364,10 +96364,10 @@ msgid "IDS_PJSC737_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC799"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC799_FULL"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC810"
 msgstr "藏王P"
@@ -96907,13 +96907,13 @@ msgid "IDS_PJSD518_YEAR"
 msgstr "1937"
 
 msgid "IDS_PJSD528"
-msgstr "高校-晴風II"
+msgstr "HSF晴風II"
 
 msgid "IDS_PJSD528_DESCR"
 msgstr "這艘最初命名為 Okikaze 的 Kagero 級航海訓練艦，她是橫須賀女子海洋學校船塢中後備艦隊的一員，目前配備的組件來自打撈起來的 Harekaze 。"
 
 msgid "IDS_PJSD528_FULL"
-msgstr "高校-晴風II"
+msgstr "HSF晴風II"
 
 msgid "IDS_PJSD528_NUMBER"
 msgstr "19"
@@ -96997,7 +96997,7 @@ msgid "IDS_PJSD706_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSD708"
-msgstr "高校-晴風"
+msgstr "HSF晴風"
 
 msgid "IDS_PJSD708_DESCR"
 msgstr ""
@@ -97005,7 +97005,7 @@ msgstr ""
 "出自於系列動畫《高校艦隊》。"
 
 msgid "IDS_PJSD708_FULL"
-msgstr "高校-晴風"
+msgstr "HSF晴風"
 
 msgid "IDS_PJSD708_NUMBER"
 msgstr "18"
@@ -97142,16 +97142,16 @@ msgid "IDS_PJSS528_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSX701"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX701_FULL"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX702"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX702_FULL"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX799"
 msgstr "707R"
