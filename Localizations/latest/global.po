@@ -5905,22 +5905,22 @@ msgid "IDS_ARMOR_TOOLTIP_DISCLAMER"
 msgstr "所示為基本數值，未計入指揮官技能、艦艇系別特點及其他例外情況。"
 
 msgid "IDS_ARMOR_TOOLTIP_OVERMATCH"
-msgstr "能夠擊穿此裝甲且不會發生跳彈的砲彈口徑"
+msgstr "能擊穿此裝甲且不會發生跳彈的砲彈口徑"
 
 msgid "IDS_ARMOR_TOOLTIP_OVERMATCH_ALL_CALIBERS"
-msgstr "遊戲中已有的任何口徑 AP 彈 / SAP 彈都可能在此裝甲上發生跳彈"
+msgstr "遊戲中任何口徑 AP 彈 / SAP 彈都可能在此裝甲上發生跳彈"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_ARMOR_PIERCING_COCKING"
 msgstr "擊穿此裝甲時能觸發引信的 AP 彈口徑"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_ARMOR_PIERCING_COCKING_IMPOSSIBLE"
-msgstr "AP 彈擊穿此裝甲時不會觸發引信"
+msgstr "遊戲中任何口徑 AP 彈擊穿此裝甲時都不會觸發引信"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_HIGH_EXPLOSIVE_FRAGMENTATION_PENETRATION"
-msgstr "能夠擊穿此裝甲的 HE 彈口徑"
+msgstr "能擊穿此裝甲的 HE 彈口徑"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_HIGH_EXPLOSIVE_FRAGMENTATION_PENETRATION_IMPOSSIBLE"
-msgstr "遊戲中已有的任何口徑 HE 彈都無法擊穿此裝甲"
+msgstr "遊戲中任何口徑 HE 彈都無法擊穿此裝甲"
 
 msgid "IDS_ARMOR_TOOLTIP_PARAM_LIMIT_VALUE"
 msgstr "< %(_value)s 毫米"
