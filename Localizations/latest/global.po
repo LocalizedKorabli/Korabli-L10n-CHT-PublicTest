@@ -3155,7 +3155,7 @@ msgid "IDS_ACHIEVEMENT_DOUBLE_KILL_COOP"
 msgstr "一石二鳥"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
-msgstr "無畏艦"
+msgstr "勇者無懼"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_ATBA_CALIBER"
 msgstr "彈雨如注"
@@ -9092,7 +9092,7 @@ msgid "IDS_BATTLE_TASK_TEXT_SE26_RED_BUFF"
 msgstr "打開潘朵拉魔盒，試試您的運氣"
 
 msgid "IDS_BATTLE_TASK_TEXT_SE26_TIMER"
-msgstr "總覺得好像有什麼事要發生了…"
+msgstr "總覺得有什麼事要發生了…"
 
 msgid "IDS_BATTLE_TIPS"
 msgstr "小提示"
@@ -13717,7 +13717,7 @@ msgid "IDS_COOPERATIVEBATTLE_SHORT_DESCRIPTION"
 msgstr "與其他玩家一起合作對抗機器人。"
 
 msgid "IDS_COOPERATIVEBATTLE_SUBHEADER"
-msgstr "對戰機器人。"
+msgstr "對戰機器人"
 
 msgid "IDS_COOPERATIVEBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_11"
 msgstr "★ 階對局隊伍最大規模：9v9"
@@ -20844,7 +20844,7 @@ msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
 msgstr "可透過在 26.3 版本結束前完成戰鬥任務、達到免費戰鬥通行證等級、領取每日獎勵，以及兌換軍械庫組合包來獲得。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "用於在 26.3 版本結束前，兌換帶有永久迷彩「曙光」的 IX 階巡洋艦「彗星」、「潛行者獵獲物」加值貨櫃，以及其他資源。"
+msgstr "用於在 26.3 版本結束前，兌換帶有永久迷彩「自由之曙光」的 IX 階巡洋艦「彗星」、「潛行者獵獲物」加值貨櫃，以及其他資源。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "暫時性資源。26.4 版本釋出後，資源將被扣除且不予補償。"
@@ -23421,10 +23421,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY"
 msgstr " "
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_RU"
-msgstr "在地圖上指定一個區域，暫時提升進入該區域友方艦艇的武器性能。"
+msgstr "<p>在<u>消耗品啟用時潛水艇所處的位置</u>生成一個區域，暫時提升進入該區域友軍艦艇的武器性能。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
-msgstr "在地圖上指定一個區域，暫時提升進入該區域友軍艦艇的存活性與機動性。"
+msgstr "<p>在<u>消耗品啟用時潛水艇所處的位置</u>生成一個區域，暫時提升進入該區域友軍艦艇的存活性與機動性。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY900_REGENCREWDE"
 msgstr "透過修理任何輕度的傷害來恢復部分的艦艇血量，並修復受損的裝甲。"
@@ -32494,16 +32494,16 @@ msgid "IDS_FORMATION_STAY_IN_DOCK"
 msgstr "待在港口"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE020"
-msgstr "5v12"
+msgstr "5×12"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE023"
-msgstr "5v12"
+msgstr "5×12"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE030"
-msgstr "6v1"
+msgstr "6×1"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE032"
-msgstr "7v7"
+msgstr "7×7"
 
 msgid "IDS_FORM_DIVISION"
 msgstr "建立分艦隊"
@@ -34805,7 +34805,7 @@ msgid "IDS_HAS_NO_CLAN_FOR_CLAN_BATTLES"
 msgstr "想要參與公會戰鬥，您需要加入一個公會。"
 
 msgid "IDS_HAS_TUTORIAL_HINTS"
-msgstr "教學提示"
+msgstr "附有教學提示"
 
 msgid "IDS_HAS_UNIQUE_SCENARIO"
 msgstr "每個行動都有獨特的劇情"
@@ -70134,10 +70134,10 @@ msgid "IDS_PCEE799_STALCRAFT_TANIFA_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自遊戲《STALCRAFT: X》。"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG"
-msgstr "曙光"
+msgstr "自由"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG_DESCRIPTION"
-msgstr "「曙光」派系包含軍事和科研兩大分支，因此這裡匯聚了形形色色的人：戰士、工匠，甚至知名學者。他們都堅信有必要對特異區進行全面而獨立的研究，並保護它免受政府機構和大型企業的干預。"
+msgstr "「自由」派系包含軍事和科研兩大分支，因此這裡匯聚了形形色色的人：戰士、工匠，甚至知名學者。他們都堅信有必要對特異區進行全面而獨立的研究，並保護它免受政府機構和大型企業的干預。"
 
 msgid "IDS_PCEE800_STALCRAFT_KOMETA_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自遊戲《STALCRAFT: X》。"
@@ -70164,7 +70164,7 @@ msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG_DESCRIPTION"
 msgstr "弗朗索瓦˙德˙格拉斯 — 法國海軍上將，以在美國獨立戰爭中擊敗英國艦隊而聞名。此後，法國與美國海軍有多艘艦艇皆以「德˙格拉斯」之名命名。"
 
 msgid "IDS_PCEE806_CHIDI_FLAG"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PCEE806_CHIDI_FLAG_DESCRIPTION"
 msgstr "在中國神話中，鳳凰與火元素緊密相連。人們相信，鳳凰的出現象徵著當時統治者的強大力量，或預示著重大事件的發生。傳說在黃帝軒轅氏逝世之前，曾有鳳凰現身。"
@@ -72818,10 +72818,7 @@ msgid "IDS_PCZC064_YAMAMOTO_BINOKL"
 msgstr "日本海上雙筒望遠鏡，7x50 毫米"
 
 msgid "IDS_PCZC064_YAMAMOTO_BINOKL_DESCRIPTION"
-msgstr ""
-"日本海軍的軍官於十九世紀晚期開始使用雙筒望遠鏡。海上雙筒望遠鏡的特色是棱鏡式、大尺寸、多種變焦等級、以及能抵抗水氣和惡劣氣候。具有 7 倍變焦和 50 毫米鏡片的 7x50 毫米雙筒望遠鏡作為軍官個人裝備的一部分而非常受到歡迎。\n"
-"\n"
-"日本海軍於一零年代開始生產光學儀器，並一直增長到第二次世界大戰開始。太平洋戰爭期間證明了日本光學設備的高品質，獲得了全球的認同。"
+msgstr "<p>日本海軍的軍官於十九世紀晚期開始使用雙筒望遠鏡。海上雙筒望遠鏡的特色是棱鏡式、大尺寸、多種變焦等級、以及能抵抗水氣和惡劣氣候。具有 7 倍變焦和 50 毫米鏡片的 7×50 毫米雙筒望遠鏡作為軍官個人裝備的一部分而非常受到歡迎。</p><p class=\"p_spacing\"> </p><p>日本海軍於一零年代開始生產光學儀器，並一直增長到第二次世界大戰開始。太平洋戰爭期間證明了日本光學設備的高品質，獲得了全球的認同。</p>"
 
 msgid "IDS_PCZC065_YAMAMOTO_PISTOL"
 msgstr "南部甲式改良型手槍"
@@ -97208,7 +97205,7 @@ msgid "IDS_PJSC006"
 msgstr "古鷹"
 
 msgid "IDS_PJSC006_DESCR"
-msgstr "一項新的偵察巡洋艦設計，以英國的 Hawkins 級巡洋艦為基礎，並引入了在巡洋艦 Yūbari 上測試過的設計方案。武器包括六門 200 毫米火炮。第二次世界大戰期間，Furutaka 參加了索羅門群島的行動，以及珊瑚海海戰和薩沃島海戰。1942 年 10 月 11 日，在埃斯佩蘭斯海角海戰中，Furutaka 遭約 90 枚砲彈命中，導致其魚雷殉爆。此巡洋艦在 10 月 12 日早上沉沒。"
+msgstr "一項新的偵察巡洋艦設計，以英國的 Hawkins 級巡洋艦為基礎，並引入了在巡洋艦 Yūbari 上測試過的設計方案。武器包括六門 200 毫米火炮。第二次世界大戰期間，Furutaka 參加了索羅門群島的行動，以及珊瑚海海戰和薩沃島海戰。1942 年 10 月 11 日，在埃斯佩蘭斯海角海戰中，Furutaka 遭約 90 枚砲彈和 1 枚魚雷命中，導致其魚雷殉爆。此巡洋艦在 10 月 12 日早上沉沒。"
 
 msgid "IDS_PJSC006_FULL"
 msgstr "古鷹"
@@ -103536,7 +103533,7 @@ msgid "IDS_PRES408_PR_68_CHAPAEV_H2017"
 msgstr "Svyatozar"
 
 msgid "IDS_PRES409_STALCRAFT_KOMETA"
-msgstr "曙光"
+msgstr "自由之曙光"
 
 msgid "IDS_PRES410_MOSKVA_AVRORA"
 msgstr "Aurora"
@@ -107297,7 +107294,7 @@ msgid "IDS_PRSC609"
 msgstr "彗星"
 
 msgid "IDS_PRSC609_DESCR"
-msgstr "<p>重型中繼巡洋艦是「鍛造廠-11」在實驗性軍事裝備框架下的最新研發成果。該艦配備了靈能發生器與靈波中繼器，可形成定向靈能場，專門針對大城市及軍事基地的通訊系統實施情報刺探。</p><p class=\"p_spacing\"> </p><p>儘管艦艇設計方案中宣稱其武器系統僅用於防禦，但實際上該艦具備強大的進攻作戰潛力。在蘇聯解體後，「新意識」組織的工程師進一步升級了巡洋艦的功能：如今靈能場不僅能截取信息，還能在敵方通訊系統乃至人員潛意識中精準植入虛假情報。</p><p class=\"p_spacing\"> </p><p>該艦在「深潛行動」期間被「曙光」組織發現並繳獲。</p>"
+msgstr "<p>重型中繼巡洋艦是「鍛造廠-11」在實驗性軍事裝備框架下的最新研發成果。該艦配備了靈能發生器與靈波中繼器，可形成定向靈能場，專門針對大城市及軍事基地的通訊系統實施情報刺探。</p><p class=\"p_spacing\"> </p><p>儘管艦艇設計方案中宣稱其武器系統僅用於防禦，但實際上該艦具備強大的進攻作戰潛力。在蘇聯解體後，「新意識」組織的工程師進一步升級了巡洋艦的功能：如今靈能場不僅能截取信息，還能在敵方通訊系統乃至人員潛意識中精準植入虛假情報。</p><p class=\"p_spacing\"> </p><p>該艦在「深潛行動」期間被「自由」組織發現並繳獲。</p>"
 
 msgid "IDS_PRSC609_FULL"
 msgstr "彗星"
@@ -121251,13 +121248,13 @@ msgid "IDS_PZSC529_YEAR"
 msgstr "1945"
 
 msgid "IDS_PZSC539"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZSC539_DESCR"
-msgstr "<p>在中國神話中，炎帝主宰南方，與火元素相關聯。在一些傳說中，炎帝常與神農氏 — 農耕與草藥的文化英雄 — 相聯繫。</p><p class=\"p_spacing\"> </p><p>在中國文化中，紅色象徵喜悅、庇護與好運，也是新年儀式中的重要元素。</p>"
+msgstr "<p>在中國神話中，赤帝主宰南方，與火元素相關聯。一些傳說將赤帝與神農氏相聯繫，後者是農業與草藥的文化英雄。</p><p class=\"p_spacing\"> </p><p>在中國文化中，紅色象徵喜悅、護佑與吉祥，也是新年儀式中的重要元素。</p>"
 
 msgid "IDS_PZSC539_FULL"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZSC539_NUMBER"
 msgstr "1"
@@ -122070,7 +122067,7 @@ msgid "IDS_PZUH813_HULL_JULANG"
 msgstr "巨浪"
 
 msgid "IDS_PZUH814_HULL_CHIDI"
-msgstr "炎帝"
+msgstr "赤帝"
 
 msgid "IDS_PZUH900_D11_HULL_STOCK"
 msgstr "Kunming"
@@ -122751,7 +122748,7 @@ msgid "IDS_RANDOMBATTLE_SHORT_DESCRIPTION"
 msgstr "對抗真實的玩家。配對系統將會隨機建立隊伍。"
 
 msgid "IDS_RANDOMBATTLE_SUBHEADER"
-msgstr "與其他玩家對戰"
+msgstr "對戰其他玩家"
 
 msgid "IDS_RANDOMBATTLE_TEAM_DESCRIPTION_SHIP_LEVEL_11"
 msgstr "★級對局隊伍最大規模：12v12"
@@ -133856,7 +133853,7 @@ msgstr ""
 "必須在單場戰鬥中完成"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_1"
-msgstr "<body>提升到<h3> %(_threshold)s 級</h3>需要完成精通挑戰。</body>"
+msgstr "<body>提升到<h3> %(_threshold)s 級</h3>需要完成一組精通挑戰。</body>"
 
 msgid "IDS_SHIP_MASTERY_TRIALS_STATUS_2"
 msgstr "完成精通挑戰可提升到下一精通等級。"
@@ -134149,13 +134146,13 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM108_SUBEVENT26_DAMAGEBUFFALL"
 msgstr "超勇！"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM109_SUBEVENT26_PENETRATIONBUFF"
-msgstr "直接射穿！"
+msgstr "这炮嗑了？"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM110_SUBEVENT26_NODAMAGE"
-msgstr "誰都別攔我！"
+msgstr "愛的小手"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM111_SUBEVENT26_TORPEDO_SOUP"
-msgstr "魚雷湯"
+msgstr "海裡沒有一滴水"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM112_SUBEVENT26_SPEEDNERF"
 msgstr "快到時間都停了。"
@@ -134164,10 +134161,10 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM113_SUBEVENT26_CONSUMABLETIME"
 msgstr "全副武裝"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM114_SUBEVENT26_DAMAGERESIST"
-msgstr "愛的小手"
+msgstr "誰都別攔我！"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM115_SUBEVENT26_PENETRATIONNERF"
-msgstr "想得美，打不穿啦！"
+msgstr "碎碎平安"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PCOM900_ENERGY"
 msgstr "能量單位數"
@@ -134524,13 +134521,13 @@ msgid "IDS_SHIP_MODIFIER_PCOM108_SUBEVENT26_DAMAGEBUFFALL_APPLIED"
 msgstr "超勇！"
 
 msgid "IDS_SHIP_MODIFIER_PCOM109_SUBEVENT26_PENETRATIONBUFF_APPLIED"
-msgstr "直接射穿！"
+msgstr "这炮嗑了？"
 
 msgid "IDS_SHIP_MODIFIER_PCOM110_SUBEVENT26_NODAMAGE_APPLIED"
-msgstr "誰都別攔我！"
+msgstr "愛的小手"
 
 msgid "IDS_SHIP_MODIFIER_PCOM111_SUBEVENT26_TORPEDO_SOUP_APPLIED"
-msgstr "魚雷湯"
+msgstr "海裡沒有一滴水"
 
 msgid "IDS_SHIP_MODIFIER_PCOM112_SUBEVENT26_SPEEDNERF_APPLIED"
 msgstr "快到時間都停了。"
@@ -134539,10 +134536,10 @@ msgid "IDS_SHIP_MODIFIER_PCOM113_SUBEVENT26_CONSUMABLETIME_APPLIED"
 msgstr "全副武裝"
 
 msgid "IDS_SHIP_MODIFIER_PCOM114_SUBEVENT26_DAMAGERESIST_APPLIED"
-msgstr "愛的小手"
+msgstr "誰都別攔我！"
 
 msgid "IDS_SHIP_MODIFIER_PCOM115_SUBEVENT26_PENETRATIONNERF_APPLIED"
-msgstr "想得美，打不穿啦！"
+msgstr "碎碎平安"
 
 msgid "IDS_SHIP_MODIFIER_PCOM900_ENERGY_APPLIED"
 msgstr "能量單位已增加"
@@ -137665,7 +137662,7 @@ msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_DESCRIPTION"
 msgstr "使用附帶節慶獎勵的艦艇取得出色戰績後，就能在不加入戰鬥的情況下領取其他艦艇的獎勵！"
 
 msgid "IDS_SNOWFLAKES_SHIPS_NOT_ENOUGH_REWARDS_STATUS"
-msgstr "您無法在不參加戰鬥的情況下從艦艇領取獎勵"
+msgstr "您無法在不參加戰鬥的情況下從艦艇上領取獎勵"
 
 msgid "IDS_SNOWFLAKES_SHIP_TOOLTIP_TITLE"
 msgstr "艦艇獎勵"
@@ -139866,7 +139863,7 @@ msgid "IDS_STALCRAFT_M01_DESC"
 msgstr "<p>特異區誕生於 2014 年那場神秘的災難之後，永遠改變了周遭世界。這裡自然法則不再適用：異常現象扭曲空間，廢棄區域棲息著危險生物，而在廢墟之中可以找到神器 — 那些具有驚人特性的稀有珍貴物品。特異區危機四伏，卻也因此充滿致命吸引力。</p><p class=\"p_spacing\"> </p><p>敢於踏入特異區的人被稱為潛行者。他們探索未知地域，搜尋神器，執行任務，在這片任何失誤都可能致命的地帶掙扎求存。對某些人而言，特異區是謀生手段；對另一些人來說，這裡是知識源泉，或是新生活的起點。</p><p class=\"p_spacing\"> </p><p>特異區極不穩定且持續變化。能量爆發會將熟悉路徑化為死亡陷阱，危險甚至潛伏在最寧靜的角落。在這裡，不僅需要武器，更需要思考能力、適應力與抉擇的智慧。</p><p class=\"p_spacing\"> </p><p>隨著時間推移，潛行者們不再孤軍奮戰。特異區內形成了諸多派系 — 這些擁有各自理念、目標與生存方式的團體，正決定著特異區的力量格局與未來命運。</p>"
 
 msgid "IDS_STALCRAFT_M02_DESC"
-msgstr "<p>「曙光」— 曾是一個等級制度模糊的戰鬥人員團體，自伏羅希洛夫加入後發生了巨大變化。</p><p class=\"p_spacing\"> </p><p>如今的「曙光」已成為特異區中的一個重要派系，分為兩個分支：由恰茨基領導的軍事分支，以及由伏羅希洛夫督導的科研分支。兩個分支相互協作，共同致力於組織的發展。</p><p class=\"p_spacing\"> </p><p>「曙光」匯集了形形色色的人員：戰鬥人員、工匠，甚至知名科學家。成員們的觀點也可能各不相同。</p><p class=\"p_spacing\"> </p><p>其內部結構呈現矩陣式。各公會的成員組成各自的議事機構，影響整體決策。</p><p class=\"p_spacing\"> </p><p>該組織的總體理念基於以下認識：全面、獨立地研究特異區至關重要，同時需要保護特異區免受國家機構和大型企業利益的干預，後者限制了人們對特異區知識和資源的獲取。</p><p class=\"p_spacing\"> </p><p>「曙光」的資金來源主要依靠於在黑市銷售藥品與特殊物資。</p>"
+msgstr "<p>「自由」— 曾是一個等級制度模糊的戰鬥人員團體，自伏羅希洛夫加入後發生了巨大變化。</p><p class=\"p_spacing\"> </p><p>如今的「自由」已成為特異區中的一個重要派系，分為兩個分支：由恰茨基領導的軍事分支，以及由伏羅希洛夫督導的科研分支。兩個分支相互協作，共同致力於組織的發展。</p><p class=\"p_spacing\"> </p><p>「自由」匯集了形形色色的人員：戰鬥人員、工匠，甚至知名科學家。成員們的觀點也可能各不相同。</p><p class=\"p_spacing\"> </p><p>其內部結構呈現矩陣式。各公會的成員組成各自的議事機構，影響整體決策。</p><p class=\"p_spacing\"> </p><p>該組織的總體理念基於以下認識：全面、獨立地研究特異區至關重要，同時需要保護特異區免受國家機構和大型企業利益的干預，後者限制了人們對特異區知識和資源的獲取。</p><p class=\"p_spacing\"> </p><p>「自由」的資金來源主要依靠於在黑市銷售藥品與特殊物資。</p>"
 
 msgid "IDS_STALCRAFT_M03_DESC"
 msgstr "<p>「紀律」— 由達維多夫領導的一支軍事化潛行者團體。它是特異區內最古老的派系之一，由前軍人創建。</p><p class=\"p_spacing\"> </p><p>「紀律」是一個採用師級管理結構和嚴格等級制度的準軍事組織。新兵構成其普通成員層，而經驗最豐富的戰士則組成代表團體決策的軍官參謀部。</p><p class=\"p_spacing\"> </p><p>「紀律」的成員背景多樣，既有前軍人，也有認同該派系理念的潛行者。</p><p class=\"p_spacing\"> </p><p>「紀律」意識形態的核心是必須限制人類與特異區之間的任何接觸。這一理念是在軍人群體經歷劇烈動盪的背景下形成的。</p><p class=\"p_spacing\"> </p><p>「紀律」的資金來源主要依靠其與軍方以及其他負責研究和守衛特異區的官方機構的緊密合作。</p>"
@@ -147664,7 +147661,7 @@ msgid "IDS_WEAPONCONTROLS"
 msgstr "武器"
 
 msgid "IDS_WEAPONGROUPS"
-msgstr "武器群"
+msgstr "切換武器"
 
 msgid "IDS_WEAPON_MOUNTED"
 msgstr "已裝備武裝"
