@@ -53944,7 +53944,7 @@ msgid "IDS_PASA510_DESCR"
 msgstr "美國海軍在第二艘 Midway 級航空母艦 USS Franklin D. Roosevelt 的甲板上，實現了一個重要的里程碑。標誌著噴射機從航空母艦上進行了首次起降。此艦艇投入服役後，早先主要用於演習和外交任務。後來，她又服役於地中海和東南亞地區。"
 
 msgid "IDS_PASA510_FULL"
-msgstr "富蘭克林˙D˙羅斯福"
+msgstr "富蘭克林˙德拉諾˙羅斯福"
 
 msgid "IDS_PASA510_NUMBER"
 msgstr "3"
@@ -58424,7 +58424,7 @@ msgid "IDS_PAUH909_S10_HULL_STOCK"
 msgstr "Balao (A)"
 
 msgid "IDS_PAUH910_HULL_ROOSEVELT"
-msgstr "Franklin D. Roosevelt"
+msgstr "富蘭克林˙德拉諾˙羅斯福"
 
 msgid "IDS_PAUH911_GEARING_1945"
 msgstr "Gearing"
@@ -67724,7 +67724,7 @@ msgid "IDS_PCEE336_CHAMPAGNE_FLAG_DESCRIPTION"
 msgstr "Champagne 是法國東北部的一個行省，以氣泡酒而聞名於世。該地區的歷史可追溯至 11 至 12 世紀交替之時。當時這地區被稱為香檳領地。"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG"
-msgstr "Franklin D. Roosevelt"
+msgstr "富蘭克林˙D˙羅斯福"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG_DESCRIPTION"
 msgstr "「我們或許不會馬上成功，但我們會揮師重來！」"
@@ -124337,6 +124337,12 @@ msgstr "還有 %(_count)s 項"
 
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "您在戰鬥中存在下列違規行為："
+
+msgid "IDS_RESURRECTION_POINTS_HINT"
+msgstr "戰鬥中獲得的重生點數。"
+
+msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
+msgstr "重生點數"
 
 msgid "IDS_RETRAINED_FOR"
 msgstr "已重新訓練到"
